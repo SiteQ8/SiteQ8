@@ -5,6 +5,8 @@
 ![Kuwait Flag](https://img.shields.io/badge/Kuwait-blue?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTIgNkgyMlYxMEgyWiIgZmlsbD0iIzAwNzAwMCIvPgo8cGF0aCBkPSJNMiAxMEgyMlYxNEgyWiIgZmlsbD0iI0ZGRkZGRiIvPgo8cGF0aCBkPSJNMiAxNEgyMlYxOEgyWiIgZmlsbD0iI0VFMDAwMCIvPgo8cGF0aCBkPSJNMiA2TDggMTJMMiAxOFY2WiIgZmlsbD0iIzAwMDAwMCIvPgo8L3N2Zz4K)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Professional-blue?style=for-the-badge&logo=shield)
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://3li.info)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alenizi/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:site@hotmail.com)
 
 </div>
 
