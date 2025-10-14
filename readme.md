@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm a Ali AlEnezi, Cybersecurity Researcher from 🇰🇼
+# Hi there! 👋 I am Ali AlEnezi, Cybersecurity Researcher from 🇰🇼
 
 <div align="center">
 
