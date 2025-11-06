@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SiteQ8 - Ali AlEnezi | Cybersecurity Projects 🇰🇼</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+            color: #333;
+            line-height: 1.6;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        header {
+            background: linear-gradient(135deg, #003366 0%, #004d99 100%);
+            color: white;
+            padding: 2em 2em 1.5em 2em;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+
+        .header-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            flex-wrap: wrap;
+        }
+
+        .header-title {
+            display: flex;
+            align-items: center;
+            gap: 1em;
+        }
+
+        .flag {
+            font-size: 3em;
+            animation: wave 2s ease-in-out infinite;
+        }
+
+        @keyframes wave {
+            0%, 100% { transform: rotate(0deg); }
+            25% { transform: rotate(10deg); }
+            75% { transform: rotate(-10deg); }
+        }
+
+        h1 {
+            font-size: 2em;
+            font-weight: 700;
+        }
+
+        .subtitle {
+            color: #a8d5ff;
+            font-size: 1.1em;
+            margin-top: 0.3em;
+        }
+
+        nav {
+            background: #002347;
+            padding: 0;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        .nav-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            gap: 0;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+
+        nav a {
+            color: white;
+            text-decoration: none;
+            padding: 1em 1.5em;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            border-bottom: 3px solid transparent;
+        }
+
+        nav a:hover {
+            background: #003d7a;
+            border-bottom: 3px solid #4a9eff;
+        }
+
+        main {
+            max-width: 1200px;
+            margin: 3em auto;
+            padding: 0 2em;
+        }
+
+        .intro {
+            background: white;
+            padding: 2em;
+            border-radius: 12px;
+            box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+            margin-bottom: 2em;
+            border-left: 5px solid #004d99;
+        }
+
+        .intro h2 {
+            color: #003366;
+            margin-bottom: 0.5em;
+        }
+
+        .intro p {
+            color: #555;
+            font-size: 1.1em;
+        }
+
+        .projects-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2em;
+            margin-top: 2em;
+        }
+
+        .project-card {
+            background: white;
+            padding: 2em;
+            border-radius: 12px;
+            box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            border-top: 4px solid #004d99;
+        }
+
+        .project-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 12px 24px rgba(0,0,0,0.15);
+        }
+
+        .project-card h2 {
+            color: #003366;
+            margin-bottom: 0.8em;
+            font-size: 1.4em;
+        }
+
+        .project-card p {
+            color: #555;
+            line-height: 1.8;
+        }
+
+        .project-icon {
+            font-size: 2.5em;
+            margin-bottom: 0.5em;
+        }
+
+        .contact-section {
+            background: white;
+            padding: 2em;
+            border-radius: 12px;
+            box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+            margin-top: 2em;
+            text-align: center;
+            border-top: 4px solid #004d99;
+        }
+
+        .contact-section h2 {
+            color: #003366;
+            margin-bottom: 1em;
+        }
+
+        footer {
+            text-align: center;
+            padding: 2em;
+            color: white;
+            margin-top: 3em;
+            font-size: 0.95em;
+        }
+
+        .kuwait-colors {
+            display: inline-flex;
+            gap: 0.5em;
+            margin-top: 1em;
+        }
+
+        .color-box {
+            width: 30px;
+            height: 20px;
+            border-radius: 3px;
+        }
+
+        .kw-green { background: #007A3D; }
+        .kw-white { background: white; border: 1px solid #ddd; }
+        .kw-red { background: #CE1126; }
+        .kw-black { background: #000000; }
+
+        @media (max-width: 768px) {
+            .header-content {
+                flex-direction: column;
+                text-align: center;
+            }
+
+            h1 {
+                font-size: 1.5em;
+            }
+
+            .nav-container {
+                flex-direction: column;
+            }
+
+            nav a {
+                padding: 0.8em;
+                border-bottom: 1px solid #003d7a;
+            }
+
+            main {
+                margin: 2em auto;
+                padding: 0 1em;
+            }
+
+            .projects-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <div class="header-title">
+                <span class="flag">🇰🇼</span>
+                <div>
+                    <h1>SiteQ8 - Ali AlEnezi</h1>
+                    <p class="subtitle">Cybersecurity Researcher | Securing Kuwait's Digital Future</p>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <nav>
+        <div class="nav-container">
+            <a href="#about">About</a>
+            <a href="#phishwatch">PhishWatch</a>
+            <a href="#ics_security">ICS/IoT/OT Security</a>
+            <a href="#zero_trust">Zero Trust</a>
+            <a href="#research">Research</a>
+            <a href="#contact">Contact</a>
+        </div>
+    </nav>
+
+    <main class="container">
+        <section id="about" class="intro">
+            <h2>🛡️ About Me</h2>
+            <p>I'm a passionate <strong>Cybersecurity Researcher</strong> working at a Leading Financial Institution in Kuwait, dedicated to strengthening Kuwait's cybersecurity landscape. My work focuses on developing security frameworks, tools, and educational content specifically tailored for the Middle East region.</p>
+            <div class="kuwait-colors">
+                <span class="color-box kw-green"></span>
+                <span class="color-box kw-white"></span>
+                <span class="color-box kw-red"></span>
+                <span class="color-box kw-black"></span>
+            </div>
+        </section>
+
+        <div class="projects-grid">
+            <div id="phishwatch" class="project-card">
+                <div class="project-icon">🎣</div>
+                <h2>PhishWatch</h2>
+                <p>Advanced phishing detection tool integrating CertStream and OpenSquat for monitoring certificate transparency logs and detecting domain squatting targeting Kuwait.</p>
+            </div>
+
+            <div id="ics_security" class="project-card">
+                <div class="project-icon">🏭</div>
+                <h2>ICS/IoT/OT Security Framework</h2>
+                <p>Comprehensive security hardening framework for Industrial Control Systems with vulnerability scanners, anomaly detectors, and SIEM integration components.</p>
+            </div>
+
+            <div id="zero_trust" class="project-card">
+                <div class="project-icon">🔐</div>
+                <h2>Zero Trust Architecture</h2>
+                <p>Practical Zero Trust implementation guides and tools focusing on banking environments with emphasis on continuous verification and least-privilege access.</p>
+            </div>
+
+            <div id="research" class="project-card">
+                <div class="project-icon">📊</div>
+                <h2>Kuwait Cybersecurity Research</h2>
+                <p>Comprehensive analysis of Kuwait's cybersecurity professionals, certifications, and career progressions with networking strategies for the local community.</p>
+            </div>
+        </div>
+
+        <section id="contact" class="contact-section">
+            <h2>🌐 Connect with Me</h2>
+            <p>Follow my ongoing projects on GitHub and connect through my professional network to stay updated on the latest cybersecurity initiatives for Kuwait.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>🇰🇼 <strong>"Securing Kuwait's Digital Future, One Commit at a Time"</strong> 🚀</p>
+        <p>&copy; 2025 Ali AlEnezi - SiteQ8 | Proudly contributing to Kuwait's cybersecurity ecosystem</p>
+    </footer>
+</body>
+</html>
