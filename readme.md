@@ -11,7 +11,7 @@
 
 ## About
 
-**Cybersecurity Architect** at a leading financial institution in Kuwait. I build open-source security tools, incident response playbooks, and compliance frameworks to strengthen cybersecurity across the Middle East.
+**Cybersecurity Expert** at a leading financial institution in Kuwait. I build open-source security tools, incident response playbooks, and compliance frameworks to strengthen cybersecurity across the Middle East.
 
 **Education** — Carnegie Mellon University, Kuwait University, GUST University
 
