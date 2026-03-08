@@ -15,7 +15,7 @@
 
 **Education** — Carnegie Mellon University, Kuwait University, GUST University
 
-**Certifications** — 7x GIAC | SANS LDR514 | SANS SEC530 | MCT | PCI DSS Professional
+**Certifications** — 8x GIAC | SANS LDR514 | SANS SEC530 | MCT | PCI DSS Professional
 
 **Focus Areas:**
 - Banking & Financial Security — PCI DSS, SWIFT CSP, CBK CORF
