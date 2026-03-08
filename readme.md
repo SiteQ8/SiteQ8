@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1b2a,50:1b2a4a,100:0d1b2a&height=180&section=header&text=Ali%20AlEnezi&fontSize=52&fontColor=e0e0e0&fontAlignY=38&desc=Cybersecurity%20Architect%20%E2%80%A2%20Kuwait&descSize=16&descAlignY=60&descColor=8892a4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1b2a,50:1b2a4a,100:0d1b2a&height=180&section=header&text=Ali%20AlEnezi&fontSize=52&fontColor=e0e0e0&fontAlignY=38&desc=Cybersecurity%20Expert%20%E2%80%A2%20Kuwait&descSize=16&descAlignY=60&descColor=8892a4"/>
 
 [![Website](https://img.shields.io/badge/3li.info-1a1a2e?style=flat-square&logo=About.me&logoColor=e0e0e0)](https://3li.info)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a2e?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/alenizi/)
