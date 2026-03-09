@@ -10,7 +10,7 @@
 │    ██║  ██║███████╗██║   ██║  ██║███████╗███████╗██║ ╚████║███████╗ │
 │    ╚═╝  ╚═╝╚══════╝╚═╝   ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═══╝╚══════╝ │
 │                                                                      │
-│              Cybersecurity Architect  •  Kuwait 🇰🇼                   │
+│              Cybersecurity Expert  •  Kuwait 🇰🇼                   │
 │                                                                      │
 └──────────────────────────────────────────────────────────────────────┘
 ```
@@ -25,7 +25,7 @@
 
 ### `> whoami`
 
-**Cybersecurity Architect** at a leading financial institution in Kuwait. I design security architectures, lead incident response, and build open-source tools for the cybersecurity community. My work spans offensive security, compliance automation, and critical infrastructure protection.
+**Cybersecurity Expert** at a leading financial institution in Kuwait. I design security architectures, lead incident response, and build open-source tools for the cybersecurity community. My work spans offensive security, compliance automation, and critical infrastructure protection.
 
 ```
 Education    Carnegie Mellon University • Kuwait University • GUST University
