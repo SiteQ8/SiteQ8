@@ -29,7 +29,7 @@
 
 ```
 Education    Carnegie Mellon University • Kuwait University • GUST University
-Certs        8x GIAC  |  SANS LDR514  |  SANS SEC530  |  MCT  |  PCI DSS Professional
+Certs        8x GIAC  |  SANS LDR514  |  SANS SEC566  |  MCT  |  PCI DSS Professional
 Location     Kuwait 🇰🇼
 ```
 
