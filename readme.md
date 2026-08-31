@@ -16,6 +16,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/alenizi/)
 [![Email](https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:site@hotmail.com)
 [![Tools](https://img.shields.io/badge/open_source_tools-89-58a6ff?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/SiteQ8?tab=repositories)
+[![Raqib](https://img.shields.io/github/v/release/SiteQ8/Raqib?style=for-the-badge&logo=github&logoColor=fff&label=Raqib%20latest&color=006b3f)](https://github.com/SiteQ8/Raqib/releases)
 
 </div>
 
