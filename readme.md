@@ -15,7 +15,7 @@
 [![Website](https://img.shields.io/badge/3li.info-000?style=for-the-badge&logo=About.me&logoColor=fff)](https://3li.info)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/alenizi/)
 [![Email](https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:site@hotmail.com)
-[![Tools](https://img.shields.io/badge/open_source_tools-89-58a6ff?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/SiteQ8?tab=repositories)
+[![Tools](https://img.shields.io/badge/open_source_tools-107-58a6ff?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/SiteQ8?tab=repositories)
 [![Raqib](https://img.shields.io/github/v/release/SiteQ8/Raqib?style=for-the-badge&logo=github&logoColor=fff&label=Raqib%20latest&color=006b3f)](https://github.com/SiteQ8/Raqib/releases)
 
 </div>
@@ -91,7 +91,14 @@ Location     Kuwait 🇰🇼   ·   Building in Arabic and English
 | [**KWTCyberWatch**](https://github.com/SiteQ8/KWTCyberWatch) | Certificate transparency monitoring, domain squatting detection, and brand impersonation alerting, built for Kuwait's digital ecosystem. |
 | [**CISO Dashboard**](https://github.com/SiteQ8/CISO-Dashboard) | A CISO friendly governance dashboard for KPIs, controls coverage, incidents, and risk posture at a glance. |
 
-> Around 60 more are in the [repositories](https://github.com/SiteQ8?tab=repositories): hardening for Linux, Windows, and OpenShift, phishing and certificate radars, a client side secrets sieve, Arabic security policy libraries, and the Kuwait open source directory.
+**🎓  Training & Awareness**
+
+| Project | What it does |
+|:--------|:-------------|
+| [**Wa3i**](https://github.com/SiteQ8/Wa3i) `وعي` | Arabic cybersecurity awareness site: 11 interactive guides and 173 items across personal, financial, and small business security and Gulf regulatory frameworks, with a phishing quiz game, a printable October checklist, and a 70 term glossary. Fully Arabic, right to left. |
+| [**AZ-900 Azure Fundamentals**](https://github.com/SiteQ8/AZ-900-Azure-Fundamentals) | Bilingual English and Arabic student resource for the AZ-900 exam: complete notes for all three domains, seven hands on labs, an 85 question interactive quiz, exam day strategy, and printable quick reference PDFs in both languages. |
+
+> Around 80 more are in the [repositories](https://github.com/SiteQ8?tab=repositories): hardening for Linux, Windows, and OpenShift, phishing and certificate radars, a client side secrets sieve, Arabic security policy libraries, and the Kuwait open source directory.
 
 ---
 
