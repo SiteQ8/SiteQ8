@@ -30,7 +30,6 @@
 Education    Carnegie Mellon University  ·  Kuwait University  ·  GUST University
 Certs        8x GIAC  |  SANS LDR514  |  SANS SEC566  |  MCT  |  PCI DSS Professional
 Focus        Blue team defense  ·  Cloud & OT security  ·  GRC automation  ·  AI and MCP security
-Speaking     SANS Cloud Exchange Summit 2026, on MCP agent security
 Location     Kuwait 🇰🇼   ·   Building in Arabic and English
 ```
 
@@ -44,7 +43,7 @@ Location     Kuwait 🇰🇼   ·   Building in Arabic and English
 |:--------|:-------------|
 | [**Raqib**](https://github.com/SiteQ8/Raqib) `راقب` | Read only exposure auditor for AWS, Azure, GCP, and Kubernetes. Reads IAM and RBAC, then reports the moves an intruder would make after a foothold across all six ATT&CK tactics, each with the fix. Matching Bash and Python engines, an interactive report, a posture score, and a diff for drift over time. |
 | [**S7aba**](https://github.com/SiteQ8/S7aba) | Offensive cloud framework in pure Bash for AWS, Azure, GCP, and K8s. Red team post exploitation and privilege escalation, the attacker mirror that Raqib defends against. |
-| [**CloudMCP-Arsenal**](https://github.com/SiteQ8/CloudMCP-Arsenal) | MCP servers and AI agent attacks and defenses for cloud security. The research behind the SANS Cloud Exchange Summit 2026 talk. |
+| [**CloudMCP-Arsenal**](https://github.com/SiteQ8/CloudMCP-Arsenal) | MCP servers and AI agent attacks and defenses for cloud security, covering both the offensive and the defensive side of AI agents. |
 | [**InfraCode**](https://github.com/SiteQ8/InfraCode) | Declarative infrastructure as code with state management, drift detection, and compliance enforcement across multi cloud. |
 
 **🏭  ICS / OT / IoT Security**
