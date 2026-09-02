@@ -54,7 +54,7 @@ Location     Kuwait 🇰🇼   ·   Building in Arabic and English
 | [**OpenICS-Atlas**](https://github.com/SiteQ8/OpenICS-Atlas) | ICS and OT exposure intelligence: eight protocols, the Purdue model, asset inventory, APT threat intel, and 72 hardening controls, Shodan aware. |
 | [**ConduitShield**](https://github.com/SiteQ8/ConduitShield) | Zone and conduit policy with blast radius analysis, SBOM and supply chain visibility, safety gates, and MITRE ATT&CK ICS mapping. |
 | [**OTAUD**](https://github.com/SiteQ8/OTAUD) | An all in one open source auditing framework for ICS, IoT, and OT environments. |
-| [**Smart Mubarakiya**](https://github.com/SiteQ8/Smart-Mubarakiya) `المباركية` | A personal vision for Kuwait's historic souq as an IoT and OT system, life safety and heritage first: a trust zoned blueprint reviewed with Hisn against IEC 62443, six architecture diagrams, a fourteen class sensor catalog, a digital twin on the souq map, a gated roadmap, and the full vision in Arabic. |
+| [**Smart Mubarakiya**](https://github.com/SiteQ8/Smart-Mubarakiya) `المباركية` | A personal vision for Kuwait's historic souq as an IoT and OT system, life safety and heritage first, published as two full consoles, English and Arabic: an interactive map with all 67 places on their real spots, five playable scenarios with sound and spoken announcements including a cyber attack stopped at the OT conduit, a trust zoned blueprint reviewed with Hisn, fourteen diagrams by Naqsha in both languages, a fourteen class sensor catalog, a digital twin registry, a gated roadmap, and a console that works offline. Part of an educational experience. |
 
 **📋  GRC, Compliance & Frameworks**
 
