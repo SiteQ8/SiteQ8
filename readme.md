@@ -1,6 +1,10 @@
 <div align="center">
 
-<a href="https://github.3li.info/"><img src="docs/assets/banner.svg" alt="Ali AlEnezi, Cybersecurity Expert, Kuwait. I break things carefully, then build the defense in the open." width="100%"></a>
+<a href="https://github.3li.info/"><picture>
+<source media="(min-width: 700px)" srcset="https://raw.githubusercontent.com/SiteQ8/SiteQ8/main/docs/assets/banner.svg">
+<source media="(max-width: 699px)" srcset="https://raw.githubusercontent.com/SiteQ8/SiteQ8/main/docs/assets/banner-mobile.svg">
+<img src="docs/assets/banner.svg" alt="Ali AlEnezi, Cybersecurity Expert, Kuwait. I break things carefully, then build the defense in the open." width="100%">
+</picture></a>
 
 <br>
 
@@ -30,7 +34,11 @@ Location     Kuwait 🇰🇼   ·   Building in Arabic and English
 
 ### `> open ~/portfolio`
 
-<a href="https://github.3li.info/"><img src="docs/assets/preview.png" alt="The interactive portfolio: live GitHub numbers, a searchable project explorer, a command palette, and a terminal." width="100%"></a>
+<a href="https://github.3li.info/"><picture>
+<source media="(min-width: 700px)" srcset="https://raw.githubusercontent.com/SiteQ8/SiteQ8/main/docs/assets/preview.png">
+<source media="(max-width: 699px)" srcset="https://raw.githubusercontent.com/SiteQ8/SiteQ8/main/docs/assets/preview-mobile.png">
+<img src="docs/assets/preview.png" alt="The interactive portfolio: live GitHub numbers, a searchable project explorer, a command palette, and a terminal." width="100%">
+</picture></a>
 
 <div align="center">
 
