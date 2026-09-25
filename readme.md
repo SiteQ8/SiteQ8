@@ -87,6 +87,7 @@ Location     Kuwait 🇰🇼   ·   Building in Arabic and English
 
 | Project | What it does |
 |:--------|:-------------|
+| [**Tayyar**](https://tayyar.3li.info/) `تيّار` | Every new TLS certificate from public Certificate Transparency logs the moment it is logged, RFC 6962 and static tiles, with each log's signature checked. Raises an alert when a name imitates a watched brand: lookalike letters from other scripts, digits for letters, misspellings, another ending, or the real domain written inside another, and Arabic letters that read alike. Alerts to triage, signed webhooks, and a full interface in English and Arabic, with zero dependencies. |
 | [**PublicEye**](https://github.com/SiteQ8/PublicEye) | OSINT platform, 20 modules across 13 categories including DNS, subdomains, Shodan, dark web, certificate transparency, and GitHub. |
 | [**Marsad**](https://github.com/SiteQ8/Marsad) `مرصد` | Enterprise vulnerability management: contextual risk scoring from CVSS, criticality, and exposure, remediation workflow with SLAs, and executive dashboards. FastAPI and PostgreSQL, dockerized and tested. |
 | [**KWTCyberWatch**](https://github.com/SiteQ8/KWTCyberWatch) | Certificate transparency monitoring, domain squatting detection, and brand impersonation alerting, built for Kuwait's digital ecosystem. |
