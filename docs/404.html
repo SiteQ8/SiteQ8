@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>404 · 3li.info</title>
+<meta name="robots" content="noindex">
+<style>
+:root{color-scheme:dark}
+body{margin:0;min-height:100vh;display:grid;place-items:center;background:#0a0e17;color:#e8edf5;font-family:ui-monospace,Menlo,Consolas,monospace;padding:24px;box-sizing:border-box}
+.card{max-width:640px;width:100%;background:#0c1220;border:1px solid #2c3a58;border-radius:16px;overflow:hidden;box-shadow:0 30px 80px -20px rgba(0,0,0,.7)}
+.bar{display:flex;gap:6px;padding:10px 14px;border-bottom:1px solid #212c44;background:#121a2b;font-size:12px;color:#8b97ac;align-items:center}
+.bar i{width:11px;height:11px;border-radius:50%;display:inline-block}
+.bar i:nth-child(1){background:#ff5f57}.bar i:nth-child(2){background:#febc2e}.bar i:nth-child(3){background:#28c840}
+.bar span{margin-left:8px}
+pre{margin:0;padding:18px 20px;font-size:14px;line-height:1.6;white-space:pre-wrap}
+b{color:#34d399;font-weight:600}
+.err{color:#f87171}.ac{color:#4a9eff}
+a{color:#4a9eff}
+.caret{display:inline-block;width:9px;height:16px;background:#4a9eff;vertical-align:-3px;animation:b 1s steps(2) infinite}
+@keyframes b{50%{opacity:0}}
+</style>
+</head>
+<body>
+<div class="card">
+  <div class="bar"><i></i><i></i><i></i><span>visitor@3li.info — bash</span></div>
+<pre><b>visitor@3li.info:~$</b> cat <span id="path">this page</span>
+<span class="err">cat: no such file or directory (404)</span>
+
+<b>visitor@3li.info:~$</b> ls ~/places-that-exist
+<span class="ac"><a id="home" href="/">home</a></span>  <span class="ac"><a href="https://github.com/SiteQ8" rel="noopener">github</a></span>  <span class="ac"><a href="https://3li.info" rel="noopener">3li.info</a></span>
+
+<b>visitor@3li.info:~$</b> <span class="caret"></span></pre>
+</div>
+<script>
+(function(){var p=location.pathname;var home=document.getElementById('home');
+if(/^\/siteq8\//i.test(p)){home.href='/SiteQ8/';}
+document.getElementById('path').textContent=p;})();
+</script>
+</body>
+</html>
