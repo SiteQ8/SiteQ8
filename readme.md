@@ -1,11 +1,11 @@
 <div align="center">
 
-<a href="https://siteq8.github.io/SiteQ8/"><img src="docs/assets/banner.svg" alt="Ali AlEnezi, Cybersecurity Expert, Kuwait. I break things carefully, then build the defense in the open." width="100%"></a>
+<a href="https://github.3li.info/"><img src="docs/assets/banner.svg" alt="Ali AlEnezi, Cybersecurity Expert, Kuwait. I break things carefully, then build the defense in the open." width="100%"></a>
 
 <br>
 
 [![3li.info](https://img.shields.io/badge/3li.info-000?style=for-the-badge&logo=About.me&logoColor=fff)](https://3li.info)
-[![Interactive portfolio](https://img.shields.io/badge/interactive_portfolio-open-4a9eff?style=for-the-badge&logo=githubpages&logoColor=fff)](https://siteq8.github.io/SiteQ8/)
+[![Interactive portfolio](https://img.shields.io/badge/interactive_portfolio-github.3li.info-4a9eff?style=for-the-badge&logo=githubpages&logoColor=fff)](https://github.3li.info/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/alenizi/)
 [![Email](https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:site@hotmail.com)
 [![Public repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSiteQ8&query=%24.public_repos&label=public%20repos&style=for-the-badge&logo=github&logoColor=fff&color=58a6ff&cacheSeconds=3600)](https://github.com/SiteQ8?tab=repositories)
@@ -30,11 +30,11 @@ Location     Kuwait 🇰🇼   ·   Building in Arabic and English
 
 ### `> open ~/portfolio`
 
-<a href="https://siteq8.github.io/SiteQ8/"><img src="docs/assets/preview.png" alt="The interactive portfolio: live GitHub numbers, a searchable project explorer, a command palette, and a terminal." width="100%"></a>
+<a href="https://github.3li.info/"><img src="docs/assets/preview.png" alt="The interactive portfolio: live GitHub numbers, a searchable project explorer, a command palette, and a terminal." width="100%"></a>
 
 <div align="center">
 
-**[siteq8.github.io/SiteQ8](https://siteq8.github.io/SiteQ8/)** · the same profile as a site, in English and Arabic, dark and light, and offline
+**[github.3li.info](https://github.3li.info/)** · the same profile as a site, in English and Arabic, dark and light, and offline
 
 </div>
 
@@ -116,13 +116,13 @@ Location     Kuwait 🇰🇼   ·   Building in Arabic and English
 | [**Wa3i**](https://github.com/SiteQ8/Wa3i) `وعي` | Arabic cybersecurity awareness site: 11 interactive guides and 173 items across personal, financial, and small business security and Gulf regulatory frameworks, with a phishing quiz game, a printable October checklist, and a 70 term glossary. Fully Arabic, right to left. |
 | [**AZ-900 Azure Fundamentals**](https://github.com/SiteQ8/AZ-900-Azure-Fundamentals) | Bilingual English and Arabic student resource for the AZ-900 exam: complete notes for all three domains, seven hands on labs, an 85 question interactive quiz, exam day strategy, and printable quick reference PDFs in both languages. |
 
-> Around 120 more are in the [repositories](https://github.com/SiteQ8?tab=repositories): hardening for Linux, Windows, and OpenShift, phishing and certificate radars, a client side secrets sieve, Arabic security policy libraries, and the Kuwait open source directory. Or [browse them all live](https://siteq8.github.io/SiteQ8/#work) with search and filters.
+> Around 120 more are in the [repositories](https://github.com/SiteQ8?tab=repositories): hardening for Linux, Windows, and OpenShift, phishing and certificate radars, a client side secrets sieve, Arabic security policy libraries, and the Kuwait open source directory. Or [browse them all live](https://github.3li.info/#work) with search and filters.
 
 ---
 
 ### `> ls ~/playbooks`
 
-SecOps playbooks that live in this repository, each on the NIST SP 800-61 lifecycle with MITRE ATT&CK mapping, detection queries for Microsoft Sentinel and Splunk, response phases, and metrics. [Browse them](https://siteq8.github.io/SiteQ8/#playbooks) or open the folder.
+SecOps playbooks that live in this repository, each on the NIST SP 800-61 lifecycle with MITRE ATT&CK mapping, detection queries for Microsoft Sentinel and Splunk, response phases, and metrics. [Browse them](https://github.3li.info/#playbooks) or open the folder.
 
 | ID | Playbook | Severity | MITRE ATT&CK |
 |:---|:---------|:---------|:-------------|
@@ -204,7 +204,7 @@ Planned next: data exfiltration, insider threat, DDoS, supply chain, C2 detectio
 
 <div align="center">
 
-**[3li.info](https://3li.info)** · **[portfolio](https://siteq8.github.io/SiteQ8/)** · **[LinkedIn](https://www.linkedin.com/in/alenizi/)** · **[email](mailto:site@hotmail.com)**
+**[3li.info](https://3li.info)** · **[portfolio](https://github.3li.info/)** · **[LinkedIn](https://www.linkedin.com/in/alenizi/)** · **[email](mailto:site@hotmail.com)**
 
 *Defense in the open. Securing Kuwait's digital future, one commit at a time.*
 
