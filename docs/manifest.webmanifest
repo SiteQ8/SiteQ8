@@ -1,0 +1,17 @@
+{
+  "name": "Ali AlEnezi · 3li.info",
+  "short_name": "3li.info",
+  "description": "Cybersecurity expert in Kuwait. Open source security tools across cloud, ICS/OT, GRC, DFIR, and AI security.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0a0e17",
+  "theme_color": "#0a0e17",
+  "lang": "en",
+  "dir": "auto",
+  "icons": [
+    { "src": "assets/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "assets/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

@@ -1,21 +1,14 @@
 <div align="center">
 
-```
-        █████╗ ██╗     ██╗
-       ██╔══██╗██║     ██║
-       ███████║██║     ██║
-       ██╔══██║██║     ██║
-       ██║  ██║███████╗██║
-       ╚═╝  ╚═╝╚══════╝╚═╝
+<a href="https://siteq8.github.io/SiteQ8/"><img src="docs/assets/banner.svg" alt="Ali AlEnezi, Cybersecurity Expert, Kuwait. I break things carefully, then build the defense in the open." width="100%"></a>
 
-   Cybersecurity Expert  ·  Kuwait 🇰🇼
-   I break things carefully, then build the defense in the open.
-```
+<br>
 
-[![Website](https://img.shields.io/badge/3li.info-000?style=for-the-badge&logo=About.me&logoColor=fff)](https://3li.info)
+[![3li.info](https://img.shields.io/badge/3li.info-000?style=for-the-badge&logo=About.me&logoColor=fff)](https://3li.info)
+[![Interactive portfolio](https://img.shields.io/badge/interactive_portfolio-open-4a9eff?style=for-the-badge&logo=githubpages&logoColor=fff)](https://siteq8.github.io/SiteQ8/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/alenizi/)
 [![Email](https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:site@hotmail.com)
-[![Tools](https://img.shields.io/badge/open_source_tools-107-58a6ff?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/SiteQ8?tab=repositories)
+[![Public repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSiteQ8&query=%24.public_repos&label=public%20repos&style=for-the-badge&logo=github&logoColor=fff&color=58a6ff&cacheSeconds=3600)](https://github.com/SiteQ8?tab=repositories)
 [![Raqib](https://img.shields.io/github/v/release/SiteQ8/Raqib?style=for-the-badge&logo=github&logoColor=fff&label=Raqib%20latest&color=006b3f)](https://github.com/SiteQ8/Raqib/releases)
 
 </div>
@@ -32,6 +25,26 @@ Certs        8x GIAC  |  SANS LDR514  |  SANS SEC566  |  MCT  |  PCI DSS Profess
 Focus        Blue team defense  ·  Cloud & OT security  ·  GRC automation  ·  AI and MCP security
 Location     Kuwait 🇰🇼   ·   Building in Arabic and English
 ```
+
+---
+
+### `> open ~/portfolio`
+
+<a href="https://siteq8.github.io/SiteQ8/"><img src="docs/assets/preview.png" alt="The interactive portfolio: live GitHub numbers, a searchable project explorer, a command palette, and a terminal." width="100%"></a>
+
+<div align="center">
+
+**[siteq8.github.io/SiteQ8](https://siteq8.github.io/SiteQ8/)** · the same profile as a site, in English and Arabic, dark and light, and offline
+
+</div>
+
+| | |
+|:--|:--|
+| **Live from GitHub** | Repositories, followers, stars, languages, and pushes per week, straight from the public API, with a static snapshot when it is unavailable. |
+| **Project explorer** | Search, filter by domain or tag, sort by stars or last push, grid or list, and one click to load every public repository. |
+| **`Ctrl K` palette and a terminal** | Jump to any project, section, or action. Or press `` ` `` and type `help`, `ls cloud`, `open raqib`, `stats`, `neofetch`. |
+| **SecOps playbooks** | The [playbooks](playbooks) in this repository, searchable by MITRE ATT&CK technique ID, with the planned ones listed. |
+| **Bilingual, both themes, no backend** | English and Arabic with right to left layout, dark and light, installable, and it keeps working without a connection. |
 
 ---
 
@@ -64,6 +77,9 @@ Location     Kuwait 🇰🇼   ·   Building in Arabic and English
 | [**Hisn**](https://github.com/SiteQ8/Hisn) `حصن` | Security and compliance blueprints as code. Draw a trust zoned reference architecture from a short text source, then review it for control gaps across eight frameworks including PCI DSS, SWIFT CSP, and IEC 62443. |
 | [**SAMA CSF Assessment**](https://github.com/SiteQ8/sama-csf-assessment) | Saudi Central Bank Cybersecurity Framework assessment, bilingual, 114 controls with ISO, NIST, CIS, and PCI DSS mappings, offline first. |
 | [**NCA ECC Crosswalk**](https://github.com/SiteQ8/NCA-ECC-Crosswalk) | Interactive crosswalk mapping Saudi NCA ECC 2:2024 to NIST CSF 2.0, SP 800-53, CIS v8.1, ISO 27001, and PCI DSS v4.0. |
+| [**CIS Audit Tool**](https://github.com/SiteQ8/CIS-Audit-Tool) | A web based reference tool and audit checklist for implementing CIS Critical Security Controls v8.1. |
+| [**CIS Kuwait Assessment**](https://github.com/SiteQ8/CIS-Kuwait-Assessment) | CIS Benchmark compliance checker for Kuwait government entities. |
+| [**Arabic InfoSec Policies**](https://github.com/SiteQ8/arabic-infosec-policies) `سياسات` | A collection of information security policies in Arabic, developed according to the latest global standards. |
 
 **🔎  Threat Hunting & DFIR**
 
@@ -78,7 +94,7 @@ Location     Kuwait 🇰🇼   ·   Building in Arabic and English
 
 | Project | What it does |
 |:--------|:-------------|
-| [**Mimar**](https://github.com/SiteQ8/Mimar) | Security architecture and STRIDE threat modeling. Describe a system as trust zones, components, and data flows, then see the diagram and the threats and weaknesses it produces. |
+| [**Mimar**](https://github.com/SiteQ8/Mimar) `معمار` | Security architecture and STRIDE threat modeling. Describe a system as trust zones, components, and data flows, then see the diagram and the threats and weaknesses it produces. |
 | [**Naqsha**](https://github.com/SiteQ8/Naqsha) `نقشة` | Diagrams as code. Turn a short text description into a polished, interactive HTML diagram with pan, zoom, trace, search, and SVG and PNG export. |
 | [**APIShield**](https://github.com/SiteQ8/APIShield) | API security testing across the OWASP API Top 10: BOLA, authentication, SSRF, injection, rate limiting, and mass assignment, with JSON and HTML reports. |
 | [**LeakHound**](https://github.com/SiteQ8/LeakHound) | A zero dependency scanner that catches leaked secrets before they ship. |
@@ -100,7 +116,23 @@ Location     Kuwait 🇰🇼   ·   Building in Arabic and English
 | [**Wa3i**](https://github.com/SiteQ8/Wa3i) `وعي` | Arabic cybersecurity awareness site: 11 interactive guides and 173 items across personal, financial, and small business security and Gulf regulatory frameworks, with a phishing quiz game, a printable October checklist, and a 70 term glossary. Fully Arabic, right to left. |
 | [**AZ-900 Azure Fundamentals**](https://github.com/SiteQ8/AZ-900-Azure-Fundamentals) | Bilingual English and Arabic student resource for the AZ-900 exam: complete notes for all three domains, seven hands on labs, an 85 question interactive quiz, exam day strategy, and printable quick reference PDFs in both languages. |
 
-> Around 80 more are in the [repositories](https://github.com/SiteQ8?tab=repositories): hardening for Linux, Windows, and OpenShift, phishing and certificate radars, a client side secrets sieve, Arabic security policy libraries, and the Kuwait open source directory.
+> Around 120 more are in the [repositories](https://github.com/SiteQ8?tab=repositories): hardening for Linux, Windows, and OpenShift, phishing and certificate radars, a client side secrets sieve, Arabic security policy libraries, and the Kuwait open source directory. Or [browse them all live](https://siteq8.github.io/SiteQ8/#work) with search and filters.
+
+---
+
+### `> ls ~/playbooks`
+
+SecOps playbooks that live in this repository, each on the NIST SP 800-61 lifecycle with MITRE ATT&CK mapping, detection queries for Microsoft Sentinel and Splunk, response phases, and metrics. [Browse them](https://siteq8.github.io/SiteQ8/#playbooks) or open the folder.
+
+| ID | Playbook | Severity | MITRE ATT&CK |
+|:---|:---------|:---------|:-------------|
+| [**IR-001**](playbooks/incident-response/IR-001-ransomware.md) | Ransomware Incident Response | 🔴 Critical | T1486 · T1490 · T1027 |
+| [**IR-002**](playbooks/incident-response/IR-002-bec.md) | Business Email Compromise (BEC) Response | 🔴 Critical | T1566.001 · T1534 · T1114 |
+| [**TH-001**](playbooks/threat-hunting/TH-001-lateral-movement.md) | Lateral Movement Detection | 🟠 High | T1021 · T1076 · T1028 · T1077 |
+| [**CS-001**](playbooks/cloud-security/CS-001-azure-ad-compromise.md) | Azure AD / Entra ID Compromise Response | 🔴 Critical | T1078.004 · T1136.003 · T1098 |
+| [**VM-001**](playbooks/vulnerability-management/VM-001-critical-vuln.md) | Critical Vulnerability Response | 🔴 Critical | T1190 · T1203 |
+
+Planned next: data exfiltration, insider threat, DDoS, supply chain, C2 detection, credential access, LOLBins, S3 exposure, container escape, zero day, and patch management. Contributions welcome, see [CONTRIBUTING.md](CONTRIBUTING.md) and the [playbook template](templates/playbook-template.md).
 
 ---
 
@@ -171,6 +203,8 @@ Location     Kuwait 🇰🇼   ·   Building in Arabic and English
 ---
 
 <div align="center">
+
+**[3li.info](https://3li.info)** · **[portfolio](https://siteq8.github.io/SiteQ8/)** · **[LinkedIn](https://www.linkedin.com/in/alenizi/)** · **[email](mailto:site@hotmail.com)**
 
 *Defense in the open. Securing Kuwait's digital future, one commit at a time.*
 
