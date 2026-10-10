@@ -122,6 +122,12 @@ window.SITE_DATA = {
       desc: "A CISO friendly governance dashboard for KPIs, controls coverage, incidents, and risk posture at a glance. NIST CSF 2.0 and CIS Controls v8.",
       tags: ["JavaScript", "NIST CSF 2.0", "Governance"] },
 
+    { id: "gulfcyber", repo: "SiteQ8/GulfCyber", live: "https://gulfcyber.3li.info/", featured: true, cat: "edu", name: "المرجع الخليجي الشامل في الأمن السيبراني", ar: "كتاب",
+      desc: "The Comprehensive Gulf Reference in Cybersecurity: a 387 page Arabic textbook in eighteen chapters, from the foundations and controls to operations and governance, with the Gulf's regulatory frameworks, data laws and incidents in their place in every chapter. Clear Arabic for university students, practitioners and leaders, with a free first chapter and interactive checklists on the site, and the book on Amazon.",
+      tags: ["Arabic", "Book", "Textbook", "GCC Frameworks"] },
+    { id: "cyberingulf", repo: "SiteQ8/Cybersecurity-in-the-Gulf", live: "https://cyberingulf.3li.info/", featured: true, cat: "edu", name: "Cybersecurity in the Gulf", ar: "",
+      desc: "Foundations, Regulation, and Practice for the GCC States: the threats, the laws and the practice of all six Gulf states in one English textbook, with thirty seven diagrams and four national instruments opened control by control. Paperback and Kindle on Amazon, with a companion repository.",
+      tags: ["Book", "Textbook", "GCC Frameworks"] },
     { id: "wa3i", repo: "SiteQ8/Wa3i", featured: true, cat: "edu", name: "Wa3i", ar: "وعي",
       desc: "Arabic cybersecurity awareness site: 11 interactive guides and 173 items across personal, financial, and small business security and Gulf regulatory frameworks, a phishing quiz game, a printable October checklist, and a 70 term glossary. Fully Arabic and right to left.",
       tags: ["Arabic", "Awareness", "Quiz Game"] },

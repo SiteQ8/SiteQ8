@@ -1,5 +1,5 @@
 /* 3li.info service worker: network first, cache fallback, so the page still opens offline. */
-const VERSION = '3li-2026-09-25';
+const VERSION = '3li-2026-10-10';
 const SHELL = ['./', 'index.html', 'assets/app.css', 'assets/app.js', 'assets/data.js', 'assets/icon.svg', '404.html'];
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(VERSION).then(c => Promise.allSettled(SHELL.map(u => c.add(u)))).then(() => self.skipWaiting()));
