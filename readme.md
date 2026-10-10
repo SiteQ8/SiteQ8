@@ -117,6 +117,13 @@ Location     Kuwait 🇰🇼   ·   Building in Arabic and English
 | [**KWTCyberWatch**](https://github.com/SiteQ8/KWTCyberWatch) | Certificate transparency monitoring, domain squatting detection, and brand impersonation alerting, built for Kuwait's digital ecosystem. |
 | [**CISO Dashboard**](https://github.com/SiteQ8/CISO-Dashboard) | A CISO friendly governance dashboard for KPIs, controls coverage, incidents, and risk posture at a glance. |
 
+**📚  Books**
+
+| Title | What it is |
+|:------|:-----------|
+| [**المرجع الخليجي الشامل في الأمن السيبراني**](https://gulfcyber.3li.info/) `Arabic` | The Comprehensive Gulf Reference in Cybersecurity: a 387 page Arabic textbook in eighteen chapters, from the foundations and controls to operations and governance, with the Gulf's regulatory frameworks, data laws and incidents in their place in every chapter. Written in clear Arabic for university students, practitioners and leaders. [Read the first chapter free](https://gulfcyber.3li.info/samples/), use the [interactive checklists](https://gulfcyber.3li.info/checklists/), or [get it on Amazon](https://www.amazon.com/dp/B0H6R5RR39). |
+| [**Cybersecurity in the Gulf**](https://cyberingulf.3li.info/) `English` | Foundations, Regulation, and Practice for the GCC States: the threats, the laws and the practice of all six Gulf states in one textbook, with thirty seven diagrams and four national instruments opened control by control. [Paperback](https://www.amazon.com/dp/B0HM6QFZDB) and [Kindle](https://www.amazon.com/dp/B0HM2WZM7C) on Amazon, with a [companion repository](https://github.com/SiteQ8/Cybersecurity-in-the-Gulf). |
+
 **🎓  Training & Awareness**
 
 | Project | What it does |
