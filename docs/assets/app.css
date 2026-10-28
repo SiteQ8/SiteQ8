@@ -118,6 +118,8 @@ html[lang="ar"] .sec-title{letter-spacing:0}
 
 /* toolbar */
 .toolbar{display:flex;gap:12px;align-items:center;flex-wrap:wrap;margin-bottom:16px}
+.newest{margin-bottom:40px}
+.newest .results-row{margin-bottom:12px}
 .search{flex:1 1 320px;display:flex;align-items:center;gap:10px;background:var(--card);border:1px solid var(--border2);border-radius:11px;padding:0 12px;height:44px;transition:.15s}
 .search:focus-within{border-color:var(--accent-mid);box-shadow:0 0 0 3px var(--accent-dim)}
 .search svg{width:17px;height:17px;stroke:var(--faint);fill:none;stroke-width:2;stroke-linecap:round;flex:none}
