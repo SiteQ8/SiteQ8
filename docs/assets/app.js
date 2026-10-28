@@ -225,25 +225,42 @@
     if (!r.ok) throw new Error('GitHub ' + r.status);
     return r.json();
   }
-  const minRepo = r => ({ name: r.name, description: r.description, url: r.html_url, homepage: r.homepage, stars: r.stargazers_count, forks: r.forks_count, language: r.language, pushed: r.pushed_at, topics: (r.topics || []).slice(0, 6), fork: !!r.fork, archived: !!r.archived });
+  const minRepo = r => ({ name: r.name, description: r.description, url: r.html_url, homepage: r.homepage, stars: r.stargazers_count, forks: r.forks_count, language: r.language, created: r.created_at, pushed: r.pushed_at, topics: (r.topics || []).slice(0, 6), fork: !!r.fork, archived: !!r.archived });
+  /* The hourly snapshot (assets/repos.json, written by the sync workflow) lists every public
+     repository without touching the API rate limit; the live API then refreshes stars and pushes. */
+  async function loadSnapshot() {
+    try {
+      const r = await fetch('assets/repos.json', { cache: 'no-cache' });
+      if (!r.ok) return null;
+      const s = await r.json();
+      return s && Array.isArray(s.repos) && s.repos.length ? s : null;
+    } catch (e) { return null; }
+  }
+  async function loadLive() {
+    const user = await ghFetch('/users/' + D.profile.handle);
+    let repos = [];
+    for (let page = 1; page <= 5; page++) {
+      const chunk = await ghFetch('/users/' + D.profile.handle + '/repos?per_page=100&sort=pushed&page=' + page);
+      repos = repos.concat(chunk.map(minRepo)); if (chunk.length < 100) break;
+    }
+    let events = [];
+    try { events = (await ghFetch('/users/' + D.profile.handle + '/events/public?per_page=100')).filter(e => e.type === 'PushEvent').map(e => ({ repo: e.repo.name, at: e.created_at, n: (e.payload && e.payload.size) || 1 })); } catch (e) { }
+    return { at: Date.now(), user: { public_repos: user.public_repos, followers: user.followers, following: user.following, avatar: user.avatar_url, name: user.name, bio: user.bio }, repos, events };
+  }
+  function useGitHub(gh, how) { state.gh = gh; state.gh.fromCache = how === 'cache'; state.gh.fromSnapshot = how === 'snapshot'; state.ghStatus = 'ok'; onGitHub(); return state.gh; }
   function loadGitHub(force) {
     if (state.ghPromise && !force) return state.ghPromise;
     state.ghPromise = (async () => {
-      const cached = load('gh.v1');
-      if (cached && !force && Date.now() - cached.at < 30 * 60 * 1000) { state.gh = cached; state.gh.fromCache = true; state.ghStatus = 'ok'; onGitHub(); return state.gh; }
+      const cached = load('gh.v2');
+      if (cached && !force && Date.now() - cached.at < 30 * 60 * 1000) return useGitHub(cached, 'cache');
+      const snap = await loadSnapshot();
+      if (snap) useGitHub(snap, 'snapshot');
       try {
-        const user = await ghFetch('/users/' + D.profile.handle);
-        let repos = [];
-        for (let page = 1; page <= 5; page++) {
-          const chunk = await ghFetch('/users/' + D.profile.handle + '/repos?per_page=100&sort=pushed&page=' + page);
-          repos = repos.concat(chunk.map(minRepo)); if (chunk.length < 100) break;
-        }
-        let events = [];
-        try { events = (await ghFetch('/users/' + D.profile.handle + '/events/public?per_page=100')).filter(e => e.type === 'PushEvent').map(e => ({ repo: e.repo.name, at: e.created_at, n: (e.payload && e.payload.size) || 1 })); } catch (e) { }
-        state.gh = { at: Date.now(), user: { public_repos: user.public_repos, followers: user.followers, following: user.following, avatar: user.avatar_url, name: user.name, bio: user.bio }, repos, events };
-        store('gh.v1', state.gh); state.ghStatus = 'ok'; onGitHub(); return state.gh;
+        const live = await loadLive();
+        store('gh.v2', live); return useGitHub(live, 'live');
       } catch (e) {
-        if (cached) { state.gh = cached; state.gh.fromCache = true; state.ghStatus = 'ok'; onGitHub(); return state.gh; }
+        if (snap) return state.gh;
+        if (cached) return useGitHub(cached, 'cache');
         state.ghStatus = 'static'; updateLiveLine(); return null;
       }
     })();
@@ -256,7 +273,7 @@
     if (state.ghStatus === 'ok' && state.gh) {
       el.classList.add('ok');
       const stars = state.gh.repos.filter(r => !r.fork).reduce((a, r) => a + (r.stars || 0), 0);
-      txt.textContent = t(state.gh.fromCache ? 'live.cached' : 'live.ok', { t: timeAgo(new Date(state.gh.at).toISOString()) }) + ' · ' + fmt(stars) + ' ★';
+      txt.textContent = t(state.gh.fromSnapshot ? 'live.snapshot' : state.gh.fromCache ? 'live.cached' : 'live.ok', { t: timeAgo(new Date(state.gh.at).toISOString()) }) + ' · ' + fmt(stars) + ' ★';
     } else if (state.ghStatus === 'static') { el.classList.add('static'); txt.textContent = t('live.static'); }
     else txt.textContent = t('live.loading');
   }
@@ -333,18 +350,37 @@
   function cardRepo(r) {
     const cur = D.projects.find(p => (repoName(p) || '').toLowerCase() === r.name.toLowerCase());
     return '<article class="proj" data-cat="' + (cur ? cur.cat : '') + '" data-repo="' + esc(r.name) + '">'
-      + '<div class="proj-top"><span><span class="cat">' + esc(cur ? dLabel(cur.cat, true) : (r.language || 'repo')) + '</span>' + (cur ? '<span class="featured-star" title="Flagship">★</span>' : '') + '</span><a class="abtn" href="' + esc(r.url) + '" target="_blank" rel="noopener">' + esc(t('card.repo')) + '</a></div>'
+      + '<div class="proj-top"><span><span class="cat">' + esc(cur ? dLabel(cur.cat, true) : (r.language || 'repo')) + '</span>' + (isNew(r) ? ' <span class="cat" style="--c:var(--accent)">' + esc(t('card.new')) + '</span>' : '') + (cur ? '<span class="featured-star" title="Flagship">★</span>' : '') + '</span><a class="abtn" href="' + esc(r.url) + '" target="_blank" rel="noopener">' + esc(t('card.repo')) + '</a></div>'
       + '<h3 class="proj-name"><button type="button" class="repo-open" data-repo="' + esc(r.name) + '">' + esc(r.name) + '</button>' + (cur && cur.ar ? '<span class="ar">' + esc(cur.ar) + '</span>' : '') + '</h3>'
       + '<p class="proj-desc">' + esc(r.description || (cur ? cur.desc : '')) + '</p>'
       + (r.topics.length ? '<div class="tags">' + r.topics.slice(0, 5).map(x => '<span class="tag">' + esc(x) + '</span>').join('') + '</div>' : '')
       + '<div class="proj-foot">' + metaHtml(r) + '<div class="proj-actions"><button type="button" class="abtn primary repo-open" data-repo="' + esc(r.name) + '">' + esc(t('card.details')) + '</button></div></div>'
       + '</article>';
   }
+  const NEW_DAYS = 30;
+  function isNew(r) { return !!r.created && Date.now() - Date.parse(r.created) < NEW_DAYS * 86400000; }
+  /* The newest public repositories, so a repository created on GitHub shows here without editing the site. */
+  function newestRepos(n) {
+    const home = D.profile.handle.toLowerCase();
+    return allRepos().filter(r => r.created && !r.archived && r.name.toLowerCase() !== home)
+      .sort((a, b) => b.created.localeCompare(a.created)).slice(0, n);
+  }
+  function renderNewest() {
+    const box = $('#newest'), grid = $('#newest-grid');
+    const list = state.mode === 'curated' ? newestRepos(3) : [];
+    box.hidden = !list.length; if (!list.length) { grid.innerHTML = ''; return; }
+    $('#newest-note').textContent = t('work.newestNote');
+    grid.classList.toggle('list', state.view === 'list');
+    grid.innerHTML = list.map(cardRepo).join('');
+    $$('.repo-open', grid).forEach(b => b.addEventListener('click', () => openRepo(b.getAttribute('data-repo'))));
+    $$('.proj', grid).forEach(card => card.addEventListener('mousemove', e => { const r = card.getBoundingClientRect(); card.style.setProperty('--mx', ((e.clientX - r.left) / r.width * 100) + '%'); }, { passive: true }));
+  }
   function renderGrid() {
     const grid = $('#grid'), empty = $('#empty'), note = $('#mode-note');
     const list = state.mode === 'all' ? repoList() : curatedList();
     grid.classList.toggle('list', state.view === 'list');
     grid.innerHTML = list.map(state.mode === 'all' ? cardRepo : cardCurated).join('');
+    renderNewest();
     empty.hidden = list.length > 0;
     $('#results-count').textContent = list.length === 1 ? t('work.results1') : t('work.results', { n: list.length });
     note.hidden = state.mode !== 'all'; if (state.mode === 'all') note.textContent = t('work.allNote');
