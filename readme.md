@@ -46,10 +46,10 @@ Location     Kuwait 🇰🇼   ·   Building in Arabic and English
 
 </div>
 
-| | |
-|:--|:--|
-| **Live from GitHub** | Repositories, followers, stars, languages, and pushes per week, straight from the public API, with a static snapshot when it is unavailable. |
-| **Project explorer** | Search, filter by domain or tag, sort by stars or last push, grid or list, and one click to load every public repository. |
+| Feature | What it does |
+|:--------|:-------------|
+| **Always current** | Every public repository is read each hour, so a new one appears on the site on its own, and the three newest sit at the top of the work. Stars, languages, and pushes per week refresh live from the public API. |
+| **Project explorer** | Search, filter by domain or tag, sort by stars or last push, grid or list, and one click to load every public repository, even when the API limit is reached. |
 | **`Ctrl K` palette and a terminal** | Jump to any project, section, or action. Or press `` ` `` and type `help`, `ls cloud`, `open raqib`, `stats`, `neofetch`. |
 | **SecOps playbooks** | The [playbooks](playbooks) in this repository, searchable by MITRE ATT&CK technique ID, with the planned ones listed. |
 | **Bilingual, both themes, no backend** | English and Arabic with right to left layout, dark and light, installable, and it keeps working without a connection. |
