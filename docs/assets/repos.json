@@ -1,9 +1,9 @@
 {
- "at": "2026-10-29T09:51:38.213Z",
+ "at": "2026-10-30T08:33:41.580Z",
  "source": "snapshot",
  "user": {
-  "public_repos": 168,
-  "followers": 21,
+  "public_repos": 169,
+  "followers": 22,
   "following": 11,
   "avatar": "https://avatars.githubusercontent.com/u/311682?v=4",
   "name": "Ali AlEnezi",
@@ -19,7 +19,7 @@
    "forks": 0,
    "language": "HTML",
    "created": "2026-10-25T04:54:26Z",
-   "pushed": "2026-10-29T09:27:55Z",
+   "pushed": "2026-10-30T08:29:31Z",
    "topics": [
     "cve",
     "cve-scanning",
@@ -40,7 +40,7 @@
    "forks": 0,
    "language": "Python",
    "created": "2026-10-03T12:18:56Z",
-   "pushed": "2026-10-29T08:28:15Z",
+   "pushed": "2026-10-30T06:38:13Z",
    "topics": [
     "brand-protection",
     "certificate-transparency",
@@ -48,23 +48,6 @@
     "domain-monitoring",
     "javascript",
     "phishing-detection"
-   ],
-   "fork": false,
-   "archived": false
-  },
-  {
-   "name": "KWTCyberWatch",
-   "description": "Kuwait phishing detection & brand protection: live Certificate Transparency monitoring, IDN/Arabic-aware typosquat and brand-impersonation detection for 26 Kuwaiti banks, telecoms and government services, alert triage, threat-intel enrichment and a fully client-side analyst console.",
-   "url": "https://github.com/SiteQ8/KWTCyberWatch",
-   "homepage": "http://kwtcyberwatch.3li.info/",
-   "stars": 0,
-   "forks": 1,
-   "language": "Python",
-   "created": "2024-11-06T12:50:11Z",
-   "pushed": "2026-10-29T07:04:24Z",
-   "topics": [
-    "cybersecurity",
-    "phishing"
    ],
    "fork": false,
    "archived": false
@@ -78,7 +61,7 @@
    "forks": 0,
    "language": "JavaScript",
    "created": "2026-09-23T13:30:26Z",
-   "pushed": "2026-10-29T05:49:53Z",
+   "pushed": "2026-10-30T05:48:06Z",
    "topics": [
     "anti-fraud",
     "arabic",
@@ -91,16 +74,88 @@
    "archived": false
   },
   {
-   "name": "SiteQ8",
-   "description": "Hi there! 👋 I am Ali AlEnezi, Cybersecurity Expert from 🇰🇼",
-   "url": "https://github.com/SiteQ8/SiteQ8",
-   "homepage": "https://siteq8.github.io/SiteQ8/",
+   "name": "Miyar",
+   "description": "Miyar | معيار: bilingual security architecture checklists for applications, cloud services and vendors against banking regulation, jurisdiction by jurisdiction, with a cover page that scores regulatory coverage. Kuwait CBK CORF first.",
+   "url": "https://github.com/SiteQ8/Miyar",
+   "homepage": "https://miyar.3li.info",
    "stars": 0,
    "forks": 0,
    "language": "JavaScript",
-   "created": "2025-10-09T05:31:07Z",
-   "pushed": "2026-10-28T18:15:38Z",
+   "created": "2026-09-28T07:06:08Z",
+   "pushed": "2026-10-30T05:17:15Z",
+   "topics": [],
+   "fork": false,
+   "archived": false
+  },
+  {
+   "name": "KW-OS",
+   "description": "🇰🇼 KW-OS, Kuwait Open Source Directory.",
+   "url": "https://github.com/SiteQ8/KW-OS",
+   "homepage": "https://siteq8.github.io/KW-OS/",
+   "stars": 1,
+   "forks": 0,
+   "language": null,
+   "created": "2026-03-09T00:31:06Z",
+   "pushed": "2026-10-30T05:16:50Z",
    "topics": [
+    "arabic",
+    "awesome-list",
+    "boursa",
+    "catalog",
+    "cis",
+    "ciso"
+   ],
+   "fork": false,
+   "archived": false
+  },
+  {
+   "name": "Kuwait-NBCC",
+   "description": "Understand, assess and evidence compliance with the Kuwait National Basic Cybersecurity Controls (NBCC), Annex 1 to NCSC Decision No. 2 of 2026. 44 controls, 329 checks, due 5 October 2027.",
+   "url": "https://github.com/SiteQ8/Kuwait-NBCC",
+   "homepage": "https://siteq8.github.io/Kuwait-NBCC/",
+   "stars": 0,
+   "forks": 0,
+   "language": "JavaScript",
+   "created": "2026-09-03T10:09:55Z",
+   "pushed": "2026-10-30T05:11:29Z",
+   "topics": [
+    "arabic",
+    "cis-controls",
+    "compliance",
+    "cybersecurity",
+    "grc",
+    "iso27001"
+   ],
+   "fork": false,
+   "archived": false
+  },
+  {
+   "name": "gbaseline",
+   "description": null,
+   "url": "https://github.com/SiteQ8/gbaseline",
+   "homepage": "http://gbaseline.3li.info/",
+   "stars": 0,
+   "forks": 0,
+   "language": "JavaScript",
+   "created": "2026-10-15T23:34:21Z",
+   "pushed": "2026-10-30T05:10:47Z",
+   "topics": [],
+   "fork": false,
+   "archived": false
+  },
+  {
+   "name": "KWT5h13ld",
+   "description": "KWT5H13LD is an open-source blue team security toolkit designed to protect, audit, and harden your infrastructure. One tool for everything — from cloud misconfiguration detection to incident response.",
+   "url": "https://github.com/SiteQ8/KWT5h13ld",
+   "homepage": "https://siteq8.github.io/KWT5h13ld/gui/",
+   "stars": 0,
+   "forks": 0,
+   "language": "Shell",
+   "created": "2026-03-08T10:53:23Z",
+   "pushed": "2026-10-30T05:10:23Z",
+   "topics": [
+    "blueteam",
+    "cybersecurity",
     "kuwait"
    ],
    "fork": false,
@@ -115,7 +170,7 @@
    "forks": 0,
    "language": "HTML",
    "created": "2026-09-08T06:16:42Z",
-   "pushed": "2026-10-28T12:20:15Z",
+   "pushed": "2026-10-30T05:08:43Z",
    "topics": [
     "azure-security",
     "certification",
@@ -128,16 +183,77 @@
    "archived": false
   },
   {
-   "name": "gbaseline",
-   "description": null,
-   "url": "https://github.com/SiteQ8/gbaseline",
-   "homepage": "http://gbaseline.3li.info/",
+   "name": "Tayyar",
+   "description": "تيّار: بث مباشر لشهادات TLS وتنبيه بالأسماء التي تقلّد علامتك | Live TLS certificates from Certificate Transparency logs, with look-alike alerts in Arabic and English",
+   "url": "https://github.com/SiteQ8/Tayyar",
+   "homepage": "https://tayyar.3li.info",
    "stars": 0,
    "forks": 0,
    "language": "JavaScript",
-   "created": "2026-10-15T23:34:21Z",
-   "pushed": "2026-10-27T11:22:26Z",
-   "topics": [],
+   "created": "2026-09-25T09:31:59Z",
+   "pushed": "2026-10-30T04:54:12Z",
+   "topics": [
+    "arabic",
+    "brand-protection",
+    "certificate-transparency",
+    "homoglyph",
+    "kuwait",
+    "nodejs"
+   ],
+   "fork": false,
+   "archived": false
+  },
+  {
+   "name": "KWTCyberWatch",
+   "description": "Kuwait phishing detection & brand protection: live Certificate Transparency monitoring, IDN/Arabic-aware typosquat and brand-impersonation detection for 26 Kuwaiti banks, telecoms and government services, alert triage, threat-intel enrichment and a fully client-side analyst console.",
+   "url": "https://github.com/SiteQ8/KWTCyberWatch",
+   "homepage": "http://kwtcyberwatch.3li.info/",
+   "stars": 0,
+   "forks": 1,
+   "language": "Python",
+   "created": "2024-11-06T12:50:11Z",
+   "pushed": "2026-10-30T04:46:15Z",
+   "topics": [
+    "cybersecurity",
+    "phishing"
+   ],
+   "fork": false,
+   "archived": false
+  },
+  {
+   "name": "SiteQ8",
+   "description": "Hi there! 👋 I am Ali AlEnezi, Cybersecurity Expert from 🇰🇼",
+   "url": "https://github.com/SiteQ8/SiteQ8",
+   "homepage": "https://siteq8.github.io/SiteQ8/",
+   "stars": 0,
+   "forks": 0,
+   "language": "JavaScript",
+   "created": "2025-10-09T05:31:07Z",
+   "pushed": "2026-10-29T09:51:39Z",
+   "topics": [
+    "kuwait"
+   ],
+   "fork": false,
+   "archived": false
+  },
+  {
+   "name": "Quran_Sunna",
+   "description": "سُنّتي | تطبيق إسلامي شامل — القرآن · أوقات الصلاة · ١٦ قسم أذكار · السنن · الأحاديث · الرقية · الأدعية · المسبحة · القبلة | Sunnati Islamic App",
+   "url": "https://github.com/SiteQ8/Quran_Sunna",
+   "homepage": "https://sunnati.3li.info",
+   "stars": 0,
+   "forks": 0,
+   "language": "JavaScript",
+   "created": "2026-03-09T12:03:14Z",
+   "pushed": "2026-10-26T20:06:39Z",
+   "topics": [
+    "arabic",
+    "asma-ul-husna",
+    "azkar",
+    "dhikr",
+    "dua",
+    "hadith"
+   ],
    "fork": false,
    "archived": false
   },
@@ -379,7 +495,7 @@
    "description": "ICS IoT OT Hardening Framework, Industrial Cybersecurity Platform featuring an asset discovery scanner, SNMP monitor, incident timeline, vulnerability scanner, compliant with IEC 62443, NIST 800-82, NERC CIP, and MITRE ATT&CK ICS, includes 20 demo devices and a settings panel",
    "url": "https://github.com/SiteQ8/ics-iot-ot-hardening",
    "homepage": "https://siteq8.github.io/ics-iot-ot-hardening/gui/",
-   "stars": 16,
+   "stars": 17,
    "forks": 3,
    "language": "Python",
    "created": "2025-10-01T04:59:23Z",
@@ -902,27 +1018,6 @@
    "archived": false
   },
   {
-   "name": "Kuwait-NBCC",
-   "description": "Understand, assess and evidence compliance with the Kuwait National Basic Cybersecurity Controls (NBCC), Annex 1 to NCSC Decision No. 2 of 2026. 44 controls, 329 checks, due 5 October 2027.",
-   "url": "https://github.com/SiteQ8/Kuwait-NBCC",
-   "homepage": "https://siteq8.github.io/Kuwait-NBCC/",
-   "stars": 0,
-   "forks": 0,
-   "language": "JavaScript",
-   "created": "2026-09-03T10:09:55Z",
-   "pushed": "2026-10-15T09:10:12Z",
-   "topics": [
-    "arabic",
-    "cis-controls",
-    "compliance",
-    "cybersecurity",
-    "grc",
-    "iso27001"
-   ],
-   "fork": false,
-   "archived": false
-  },
-  {
    "name": "miftah",
    "description": "Cryptographic inventory and post quantum readiness. Scans code, certificates and live endpoints, writes a CycloneDX 1.6 CBOM, and scores exposure with Mosca inequality. Zero dependencies.",
    "url": "https://github.com/SiteQ8/miftah",
@@ -982,20 +1077,6 @@
     "lng",
     "mcp"
    ],
-   "fork": false,
-   "archived": false
-  },
-  {
-   "name": "Miyar",
-   "description": "Miyar | معيار: bilingual security architecture checklists for applications, cloud services and vendors against banking regulation, jurisdiction by jurisdiction, with a cover page that scores regulatory coverage. Kuwait CBK CORF first.",
-   "url": "https://github.com/SiteQ8/Miyar",
-   "homepage": "https://miyar.3li.info",
-   "stars": 0,
-   "forks": 0,
-   "language": "JavaScript",
-   "created": "2026-09-28T07:06:08Z",
-   "pushed": "2026-10-15T09:09:57Z",
-   "topics": [],
    "fork": false,
    "archived": false
   },
@@ -1177,27 +1258,6 @@
     "ctf",
     "cybersecurity",
     "docker"
-   ],
-   "fork": false,
-   "archived": false
-  },
-  {
-   "name": "Tayyar",
-   "description": "تيّار: بث مباشر لشهادات TLS وتنبيه بالأسماء التي تقلّد علامتك | Live TLS certificates from Certificate Transparency logs, with look-alike alerts in Arabic and English",
-   "url": "https://github.com/SiteQ8/Tayyar",
-   "homepage": "https://tayyar.3li.info",
-   "stars": 0,
-   "forks": 0,
-   "language": "JavaScript",
-   "created": "2026-09-25T09:31:59Z",
-   "pushed": "2026-09-25T14:09:57Z",
-   "topics": [
-    "arabic",
-    "brand-protection",
-    "certificate-transparency",
-    "homoglyph",
-    "kuwait",
-    "nodejs"
    ],
    "fork": false,
    "archived": false
@@ -1640,27 +1700,6 @@
    "archived": false
   },
   {
-   "name": "KW-OS",
-   "description": "🇰🇼 KW-OS — Kuwait Open Source Directory.",
-   "url": "https://github.com/SiteQ8/KW-OS",
-   "homepage": "https://siteq8.github.io/KW-OS/",
-   "stars": 1,
-   "forks": 0,
-   "language": null,
-   "created": "2026-03-09T00:31:06Z",
-   "pushed": "2026-09-04T10:00:11Z",
-   "topics": [
-    "arabic",
-    "awesome-list",
-    "boursa",
-    "catalog",
-    "cis",
-    "ciso"
-   ],
-   "fork": false,
-   "archived": false
-  },
-  {
    "name": "kuwait-financial-frameworks",
    "description": "An open-source, centralized repository for all laws, regulations, decisions, and frameworks governing the financial and fintech sector in Kuwait.",
    "url": "https://github.com/SiteQ8/kuwait-financial-frameworks",
@@ -2024,24 +2063,6 @@
    "created": "2026-03-08T13:49:59Z",
    "pushed": "2026-09-03T21:26:54Z",
    "topics": [],
-   "fork": false,
-   "archived": false
-  },
-  {
-   "name": "KWT5h13ld",
-   "description": "KWT5H13LD is an open-source blue team security toolkit designed to protect, audit, and harden your infrastructure. One tool for everything — from cloud misconfiguration detection to incident response.",
-   "url": "https://github.com/SiteQ8/KWT5h13ld",
-   "homepage": "https://siteq8.github.io/KWT5h13ld/gui/",
-   "stars": 0,
-   "forks": 0,
-   "language": "Shell",
-   "created": "2026-03-08T10:53:23Z",
-   "pushed": "2026-09-03T21:26:52Z",
-   "topics": [
-    "blueteam",
-    "cybersecurity",
-    "kuwait"
-   ],
    "fork": false,
    "archived": false
   },
@@ -2986,6 +3007,36 @@
  ],
  "events": [
   {
+   "repo": "SiteQ8/KWTCyberWatch",
+   "at": "2026-10-29T06:59:24Z",
+   "n": 1
+  },
+  {
+   "repo": "github/advisory-database",
+   "at": "2026-10-28T06:00:48Z",
+   "n": 1
+  },
+  {
+   "repo": "github/advisory-database",
+   "at": "2026-10-28T05:59:01Z",
+   "n": 1
+  },
+  {
+   "repo": "SiteQ8/SiteQ8",
+   "at": "2026-10-28T18:10:40Z",
+   "n": 1
+  },
+  {
+   "repo": "github/advisory-database",
+   "at": "2026-10-28T05:59:34Z",
+   "n": 1
+  },
+  {
+   "repo": "SiteQ8/SiteQ8",
+   "at": "2026-10-28T18:15:39Z",
+   "n": 1
+  },
+  {
    "repo": "github/advisory-database",
    "at": "2026-10-28T06:00:11Z",
    "n": 1
@@ -3026,6 +3077,11 @@
    "n": 1
   },
   {
+   "repo": "SiteQ8/Quran_Sunna",
+   "at": "2026-10-25T14:45:46Z",
+   "n": 1
+  },
+  {
    "repo": "SiteQ8/Raed",
    "at": "2026-10-26T08:23:25Z",
    "n": 1
@@ -3061,8 +3117,28 @@
    "n": 1
   },
   {
+   "repo": "SiteQ8/Quran_Sunna",
+   "at": "2026-10-25T14:54:58Z",
+   "n": 1
+  },
+  {
+   "repo": "SiteQ8/Quran_Sunna",
+   "at": "2026-10-25T14:21:18Z",
+   "n": 1
+  },
+  {
    "repo": "SiteQ8/Raed",
    "at": "2026-10-25T10:25:01Z",
+   "n": 1
+  },
+  {
+   "repo": "SiteQ8/Quran_Sunna",
+   "at": "2026-10-25T14:37:45Z",
+   "n": 1
+  },
+  {
+   "repo": "SiteQ8/Quran_Sunna",
+   "at": "2026-10-25T11:38:57Z",
    "n": 1
   },
   {
@@ -3078,71 +3154,6 @@
   {
    "repo": "SiteQ8/Raed",
    "at": "2026-10-25T05:24:03Z",
-   "n": 1
-  },
-  {
-   "repo": "SiteQ8/Raed",
-   "at": "2026-10-25T05:17:07Z",
-   "n": 1
-  },
-  {
-   "repo": "SiteQ8/Raed",
-   "at": "2026-10-25T05:09:05Z",
-   "n": 1
-  },
-  {
-   "repo": "SiteQ8/scam-game",
-   "at": "2026-10-23T19:16:25Z",
-   "n": 1
-  },
-  {
-   "repo": "SiteQ8/scam-game",
-   "at": "2026-10-23T18:54:25Z",
-   "n": 1
-  },
-  {
-   "repo": "SiteQ8/scam-game",
-   "at": "2026-10-23T14:57:25Z",
-   "n": 1
-  },
-  {
-   "repo": "SiteQ8/scam-game",
-   "at": "2026-10-23T14:54:18Z",
-   "n": 1
-  },
-  {
-   "repo": "SiteQ8/scam-game",
-   "at": "2026-10-23T14:47:06Z",
-   "n": 1
-  },
-  {
-   "repo": "SiteQ8/gbaseline",
-   "at": "2026-10-23T15:14:34Z",
-   "n": 1
-  },
-  {
-   "repo": "SiteQ8/gbaseline",
-   "at": "2026-10-23T14:36:43Z",
-   "n": 1
-  },
-  {
-   "repo": "SiteQ8/gbaseline",
-   "at": "2026-10-23T14:06:25Z",
-   "n": 1
-  },
-  {
-   "repo": "SiteQ8/scam-game",
-   "at": "2026-10-23T13:23:21Z",
-   "n": 1
-  },
-  {
-   "repo": "SiteQ8/scam-game",
-   "at": "2026-10-23T18:40:38Z",
-   "n": 1
-  },
-  {
-   "repo": "SiteQ8/scam-game",
-   "at": "2026-10-23T19:19:11Z",
    "n": 1
   }
  ]
