@@ -1,5 +1,5 @@
 {
- "at": "2026-10-30T08:33:41.580Z",
+ "at": "2026-10-31T13:36:26.659Z",
  "source": "snapshot",
  "user": {
   "public_repos": 169,
@@ -19,7 +19,7 @@
    "forks": 0,
    "language": "HTML",
    "created": "2026-10-25T04:54:26Z",
-   "pushed": "2026-10-30T08:29:31Z",
+   "pushed": "2026-10-31T13:27:50Z",
    "topics": [
     "cve",
     "cve-scanning",
@@ -27,27 +27,6 @@
     "secure",
     "security",
     "security-audit"
-   ],
-   "fork": false,
-   "archived": false
-  },
-  {
-   "name": "QACyberWatch",
-   "description": "Phishing detection and brand protection for the State of Qatar: live Certificate Transparency monitoring, look-alike domain hunting and brand impersonation alerts for Qatari banks, payments, telecoms and government services.",
-   "url": "https://github.com/SiteQ8/QACyberWatch",
-   "homepage": "https://qacyberwatch.3li.info/",
-   "stars": 0,
-   "forks": 0,
-   "language": "Python",
-   "created": "2026-10-03T12:18:56Z",
-   "pushed": "2026-10-30T06:38:13Z",
-   "topics": [
-    "brand-protection",
-    "certificate-transparency",
-    "cybersecurity",
-    "domain-monitoring",
-    "javascript",
-    "phishing-detection"
    ],
    "fork": false,
    "archived": false
@@ -61,7 +40,7 @@
    "forks": 0,
    "language": "JavaScript",
    "created": "2026-09-23T13:30:26Z",
-   "pushed": "2026-10-30T05:48:06Z",
+   "pushed": "2026-10-31T12:26:19Z",
    "topics": [
     "anti-fraud",
     "arabic",
@@ -69,6 +48,65 @@
     "certificate-transparency",
     "kuwait",
     "open-data"
+   ],
+   "fork": false,
+   "archived": false
+  },
+  {
+   "name": "KWTCyberWatch",
+   "description": "Kuwait phishing detection & brand protection: live Certificate Transparency monitoring, IDN/Arabic-aware typosquat and brand-impersonation detection for 26 Kuwaiti banks, telecoms and government services, alert triage, threat-intel enrichment and a fully client-side analyst console.",
+   "url": "https://github.com/SiteQ8/KWTCyberWatch",
+   "homepage": "http://kwtcyberwatch.3li.info/",
+   "stars": 0,
+   "forks": 1,
+   "language": "Python",
+   "created": "2024-11-06T12:50:11Z",
+   "pushed": "2026-10-31T12:07:36Z",
+   "topics": [
+    "cybersecurity",
+    "phishing"
+   ],
+   "fork": false,
+   "archived": false
+  },
+  {
+   "name": "SC-100",
+   "description": "SC-100 Microsoft Cybersecurity Architect course material. Built from the skills measured as of 28 July 2026, with agenda coverage and every reference link verified on each build.",
+   "url": "https://github.com/SiteQ8/SC-100",
+   "homepage": "https://siteq8.github.io/SC-100/",
+   "stars": 0,
+   "forks": 0,
+   "language": "HTML",
+   "created": "2026-09-08T06:16:42Z",
+   "pushed": "2026-10-31T11:52:23Z",
+   "topics": [
+    "azure-security",
+    "certification",
+    "cybersecurity-architect",
+    "defender",
+    "exam-prep",
+    "mct"
+   ],
+   "fork": false,
+   "archived": false
+  },
+  {
+   "name": "QACyberWatch",
+   "description": "Phishing detection and brand protection for the State of Qatar: live Certificate Transparency monitoring, look-alike domain hunting and brand impersonation alerts for Qatari banks, payments, telecoms and government services.",
+   "url": "https://github.com/SiteQ8/QACyberWatch",
+   "homepage": "https://qacyberwatch.3li.info/",
+   "stars": 0,
+   "forks": 0,
+   "language": "Python",
+   "created": "2026-10-03T12:18:56Z",
+   "pushed": "2026-10-31T09:05:16Z",
+   "topics": [
+    "brand-protection",
+    "certificate-transparency",
+    "cybersecurity",
+    "domain-monitoring",
+    "javascript",
+    "phishing-detection"
    ],
    "fork": false,
    "archived": false
@@ -82,8 +120,122 @@
    "forks": 0,
    "language": "JavaScript",
    "created": "2026-09-28T07:06:08Z",
-   "pushed": "2026-10-30T05:17:15Z",
+   "pushed": "2026-10-30T09:27:36Z",
    "topics": [],
+   "fork": false,
+   "archived": false
+  },
+  {
+   "name": "Sadu",
+   "description": "Sadu | سدو: a bilingual working register for the CBK Cyber and Operational Resilience Framework (CORF v1.0) woven to ISO 27001, PCI DSS v4.0.1 and SWIFT CSCF v2026, with an MCP server for AI agents",
+   "url": "https://github.com/SiteQ8/Sadu",
+   "homepage": "https://sadu.3li.info",
+   "stars": 0,
+   "forks": 0,
+   "language": "JavaScript",
+   "created": "2026-09-27T19:42:54Z",
+   "pushed": "2026-10-30T09:25:17Z",
+   "topics": [
+    "arabic",
+    "bilingual",
+    "cbk",
+    "compliance",
+    "corf",
+    "crosswalk"
+   ],
+   "fork": false,
+   "archived": false
+  },
+  {
+   "name": "Tawash",
+   "description": "Tawash (طوّاش) is a threat intelligence tool that finds the lookalike domains made to pass for Kuwait's real ones: typos, lookalike characters, Latin spellings of Arabic names, newly registered domains and certificate logs. Browser finder and a dependency free CLI.",
+   "url": "https://github.com/SiteQ8/Tawash",
+   "homepage": "https://tawash.3li.info/",
+   "stars": 0,
+   "forks": 0,
+   "language": "JavaScript",
+   "created": "2026-09-25T09:43:19Z",
+   "pushed": "2026-10-30T09:23:25Z",
+   "topics": [
+    "arabic",
+    "brand-protection",
+    "cybersquatting",
+    "dns",
+    "domain-squatting",
+    "homoglyph"
+   ],
+   "fork": false,
+   "archived": false
+  },
+  {
+   "name": "Shabakah",
+   "description": "A network security lab you SSH into. Twelve hands on lessons, six live targets, and a capture the flag hunt, in English and Arabic.",
+   "url": "https://github.com/SiteQ8/Shabakah",
+   "homepage": "https://shabakah.3li.info",
+   "stars": 0,
+   "forks": 0,
+   "language": "Python",
+   "created": "2026-09-14T06:23:39Z",
+   "pushed": "2026-10-30T09:05:23Z",
+   "topics": [
+    "arabic",
+    "bilingual",
+    "capture-the-flag",
+    "ctf",
+    "cybersecurity",
+    "docker"
+   ],
+   "fork": false,
+   "archived": false
+  },
+  {
+   "name": "Kuwait-NBCC",
+   "description": "Understand, assess and evidence compliance with the Kuwait National Basic Cybersecurity Controls (NBCC), Annex 1 to NCSC Decision No. 2 of 2026. 44 controls, 329 checks, due 5 October 2027.",
+   "url": "https://github.com/SiteQ8/Kuwait-NBCC",
+   "homepage": "https://siteq8.github.io/Kuwait-NBCC/",
+   "stars": 0,
+   "forks": 0,
+   "language": "JavaScript",
+   "created": "2026-09-03T10:09:55Z",
+   "pushed": "2026-10-30T09:04:05Z",
+   "topics": [
+    "arabic",
+    "cis-controls",
+    "compliance",
+    "cybersecurity",
+    "grc",
+    "iso27001"
+   ],
+   "fork": false,
+   "archived": false
+  },
+  {
+   "name": "help-eworldq8",
+   "description": "help.eworldq8.com — everyday computing help",
+   "url": "https://github.com/SiteQ8/help-eworldq8",
+   "homepage": null,
+   "stars": 0,
+   "forks": 0,
+   "language": "HTML",
+   "created": "2026-09-18T07:25:48Z",
+   "pushed": "2026-10-30T09:01:35Z",
+   "topics": [],
+   "fork": false,
+   "archived": false
+  },
+  {
+   "name": "SiteQ8",
+   "description": "Hi there! 👋 I am Ali AlEnezi, Cybersecurity Expert from 🇰🇼",
+   "url": "https://github.com/SiteQ8/SiteQ8",
+   "homepage": "https://siteq8.github.io/SiteQ8/",
+   "stars": 0,
+   "forks": 0,
+   "language": "JavaScript",
+   "created": "2025-10-09T05:31:07Z",
+   "pushed": "2026-10-30T08:33:43Z",
+   "topics": [
+    "kuwait"
+   ],
    "fork": false,
    "archived": false
   },
@@ -104,27 +256,6 @@
     "catalog",
     "cis",
     "ciso"
-   ],
-   "fork": false,
-   "archived": false
-  },
-  {
-   "name": "Kuwait-NBCC",
-   "description": "Understand, assess and evidence compliance with the Kuwait National Basic Cybersecurity Controls (NBCC), Annex 1 to NCSC Decision No. 2 of 2026. 44 controls, 329 checks, due 5 October 2027.",
-   "url": "https://github.com/SiteQ8/Kuwait-NBCC",
-   "homepage": "https://siteq8.github.io/Kuwait-NBCC/",
-   "stars": 0,
-   "forks": 0,
-   "language": "JavaScript",
-   "created": "2026-09-03T10:09:55Z",
-   "pushed": "2026-10-30T05:11:29Z",
-   "topics": [
-    "arabic",
-    "cis-controls",
-    "compliance",
-    "cybersecurity",
-    "grc",
-    "iso27001"
    ],
    "fork": false,
    "archived": false
@@ -162,27 +293,6 @@
    "archived": false
   },
   {
-   "name": "SC-100",
-   "description": "SC-100 Microsoft Cybersecurity Architect course material. Built from the skills measured as of 28 July 2026, with agenda coverage and every reference link verified on each build.",
-   "url": "https://github.com/SiteQ8/SC-100",
-   "homepage": "https://siteq8.github.io/SC-100/",
-   "stars": 0,
-   "forks": 0,
-   "language": "HTML",
-   "created": "2026-09-08T06:16:42Z",
-   "pushed": "2026-10-30T05:08:43Z",
-   "topics": [
-    "azure-security",
-    "certification",
-    "cybersecurity-architect",
-    "defender",
-    "exam-prep",
-    "mct"
-   ],
-   "fork": false,
-   "archived": false
-  },
-  {
    "name": "Tayyar",
    "description": "تيّار: بث مباشر لشهادات TLS وتنبيه بالأسماء التي تقلّد علامتك | Live TLS certificates from Certificate Transparency logs, with look-alike alerts in Arabic and English",
    "url": "https://github.com/SiteQ8/Tayyar",
@@ -199,39 +309,6 @@
     "homoglyph",
     "kuwait",
     "nodejs"
-   ],
-   "fork": false,
-   "archived": false
-  },
-  {
-   "name": "KWTCyberWatch",
-   "description": "Kuwait phishing detection & brand protection: live Certificate Transparency monitoring, IDN/Arabic-aware typosquat and brand-impersonation detection for 26 Kuwaiti banks, telecoms and government services, alert triage, threat-intel enrichment and a fully client-side analyst console.",
-   "url": "https://github.com/SiteQ8/KWTCyberWatch",
-   "homepage": "http://kwtcyberwatch.3li.info/",
-   "stars": 0,
-   "forks": 1,
-   "language": "Python",
-   "created": "2024-11-06T12:50:11Z",
-   "pushed": "2026-10-30T04:46:15Z",
-   "topics": [
-    "cybersecurity",
-    "phishing"
-   ],
-   "fork": false,
-   "archived": false
-  },
-  {
-   "name": "SiteQ8",
-   "description": "Hi there! 👋 I am Ali AlEnezi, Cybersecurity Expert from 🇰🇼",
-   "url": "https://github.com/SiteQ8/SiteQ8",
-   "homepage": "https://siteq8.github.io/SiteQ8/",
-   "stars": 0,
-   "forks": 0,
-   "language": "JavaScript",
-   "created": "2025-10-09T05:31:07Z",
-   "pushed": "2026-10-29T09:51:39Z",
-   "topics": [
-    "kuwait"
    ],
    "fork": false,
    "archived": false
@@ -1123,27 +1200,6 @@
    "archived": false
   },
   {
-   "name": "Sadu",
-   "description": "Sadu | سدو: a bilingual working register for the CBK Cyber and Operational Resilience Framework (CORF v1.0) woven to ISO 27001, PCI DSS v4.0.1 and SWIFT CSCF v2026, with an MCP server for AI agents",
-   "url": "https://github.com/SiteQ8/Sadu",
-   "homepage": "https://sadu.3li.info",
-   "stars": 0,
-   "forks": 0,
-   "language": "JavaScript",
-   "created": "2026-09-27T19:42:54Z",
-   "pushed": "2026-10-15T09:09:49Z",
-   "topics": [
-    "arabic",
-    "bilingual",
-    "cbk",
-    "compliance",
-    "corf",
-    "crosswalk"
-   ],
-   "fork": false,
-   "archived": false
-  },
-  {
    "name": "CISO-Dashboard",
    "description": "A practical, open-source starter for a CISO-friendly security dashboard — designed to showcase KPIs, controls coverage, incidents, and risk posture at a glance.",
    "url": "https://github.com/SiteQ8/CISO-Dashboard",
@@ -1242,48 +1298,6 @@
    "archived": false
   },
   {
-   "name": "Shabakah",
-   "description": "A network security lab you SSH into. Twelve hands on lessons, six live targets, and a capture the flag hunt, in English and Arabic.",
-   "url": "https://github.com/SiteQ8/Shabakah",
-   "homepage": "https://shabakah.3li.info",
-   "stars": 0,
-   "forks": 0,
-   "language": "Python",
-   "created": "2026-09-14T06:23:39Z",
-   "pushed": "2026-09-27T08:13:18Z",
-   "topics": [
-    "arabic",
-    "bilingual",
-    "capture-the-flag",
-    "ctf",
-    "cybersecurity",
-    "docker"
-   ],
-   "fork": false,
-   "archived": false
-  },
-  {
-   "name": "Tawash",
-   "description": "Tawash (طوّاش) is a threat intelligence tool that finds the lookalike domains made to pass for Kuwait's real ones: typos, lookalike characters, Latin spellings of Arabic names, newly registered domains and certificate logs. Browser finder and a dependency free CLI.",
-   "url": "https://github.com/SiteQ8/Tawash",
-   "homepage": "https://tawash.3li.info/",
-   "stars": 0,
-   "forks": 0,
-   "language": "JavaScript",
-   "created": "2026-09-25T09:43:19Z",
-   "pushed": "2026-09-25T13:37:34Z",
-   "topics": [
-    "arabic",
-    "brand-protection",
-    "cybersquatting",
-    "dns",
-    "domain-squatting",
-    "homoglyph"
-   ],
-   "fork": false,
-   "archived": false
-  },
-  {
    "name": "Bunyan",
    "description": "Security architecture handbook, pattern catalogue, and design advisor in English and Arabic",
    "url": "https://github.com/SiteQ8/Bunyan",
@@ -1301,20 +1315,6 @@
     "iso27001",
     "nist"
    ],
-   "fork": false,
-   "archived": false
-  },
-  {
-   "name": "help-eworldq8",
-   "description": "help.eworldq8.com — everyday computing help",
-   "url": "https://github.com/SiteQ8/help-eworldq8",
-   "homepage": null,
-   "stars": 0,
-   "forks": 0,
-   "language": "HTML",
-   "created": "2026-09-18T07:25:48Z",
-   "pushed": "2026-09-21T11:18:01Z",
-   "topics": [],
    "fork": false,
    "archived": false
   },
@@ -3007,6 +3007,16 @@
  ],
  "events": [
   {
+   "repo": "SiteQ8/Kuwait-NBCC",
+   "at": "2026-10-30T05:11:29Z",
+   "n": 1
+  },
+  {
+   "repo": "SiteQ8/KWTCyberWatch",
+   "at": "2026-10-29T07:04:25Z",
+   "n": 1
+  },
+  {
    "repo": "SiteQ8/KWTCyberWatch",
    "at": "2026-10-29T06:59:24Z",
    "n": 1
@@ -3144,16 +3154,6 @@
   {
    "repo": "SiteQ8/Raed",
    "at": "2026-10-25T10:17:16Z",
-   "n": 1
-  },
-  {
-   "repo": "SiteQ8/Raed",
-   "at": "2026-10-25T05:35:34Z",
-   "n": 1
-  },
-  {
-   "repo": "SiteQ8/Raed",
-   "at": "2026-10-25T05:24:03Z",
    "n": 1
   }
  ]
