@@ -1,5 +1,5 @@
 {
- "at": "2026-10-31T13:36:26.659Z",
+ "at": "2026-11-01T16:48:32.795Z",
  "source": "snapshot",
  "user": {
   "public_repos": 169,
@@ -11,48 +11,6 @@
  },
  "repos": [
   {
-   "name": "Raed",
-   "description": "Arabic CVE record site: hourly updates, Arabic summaries, CISA KEV and EPSS",
-   "url": "https://github.com/SiteQ8/Raed",
-   "homepage": "https://cve.3li.info/",
-   "stars": 0,
-   "forks": 0,
-   "language": "HTML",
-   "created": "2026-10-25T04:54:26Z",
-   "pushed": "2026-10-31T13:27:50Z",
-   "topics": [
-    "cve",
-    "cve-scanning",
-    "cve-search",
-    "secure",
-    "security",
-    "security-audit"
-   ],
-   "fork": false,
-   "archived": false
-  },
-  {
-   "name": "Asli",
-   "description": "مشروع درع الكويت المفتوح ضد الاحتيال | Kuwait's open scam shield: a verified registry of genuine official channels and a reviewed feed of scam links and numbers.",
-   "url": "https://github.com/SiteQ8/Asli",
-   "homepage": "https://asli.3li.info/",
-   "stars": 0,
-   "forks": 0,
-   "language": "JavaScript",
-   "created": "2026-09-23T13:30:26Z",
-   "pushed": "2026-10-31T12:26:19Z",
-   "topics": [
-    "anti-fraud",
-    "arabic",
-    "bilingual",
-    "certificate-transparency",
-    "kuwait",
-    "open-data"
-   ],
-   "fork": false,
-   "archived": false
-  },
-  {
    "name": "KWTCyberWatch",
    "description": "Kuwait phishing detection & brand protection: live Certificate Transparency monitoring, IDN/Arabic-aware typosquat and brand-impersonation detection for 26 Kuwaiti banks, telecoms and government services, alert triage, threat-intel enrichment and a fully client-side analyst console.",
    "url": "https://github.com/SiteQ8/KWTCyberWatch",
@@ -61,7 +19,7 @@
    "forks": 1,
    "language": "Python",
    "created": "2024-11-06T12:50:11Z",
-   "pushed": "2026-10-31T12:07:36Z",
+   "pushed": "2026-11-01T16:37:42Z",
    "topics": [
     "cybersecurity",
     "phishing"
@@ -70,22 +28,22 @@
    "archived": false
   },
   {
-   "name": "SC-100",
-   "description": "SC-100 Microsoft Cybersecurity Architect course material. Built from the skills measured as of 28 July 2026, with agenda coverage and every reference link verified on each build.",
-   "url": "https://github.com/SiteQ8/SC-100",
-   "homepage": "https://siteq8.github.io/SC-100/",
+   "name": "Raed",
+   "description": "Arabic CVE record site: hourly updates, Arabic summaries, CISA KEV and EPSS",
+   "url": "https://github.com/SiteQ8/Raed",
+   "homepage": "https://cve.3li.info/",
    "stars": 0,
    "forks": 0,
    "language": "HTML",
-   "created": "2026-09-08T06:16:42Z",
-   "pushed": "2026-10-31T11:52:23Z",
+   "created": "2026-10-25T04:54:26Z",
+   "pushed": "2026-11-01T16:28:36Z",
    "topics": [
-    "azure-security",
-    "certification",
-    "cybersecurity-architect",
-    "defender",
-    "exam-prep",
-    "mct"
+    "cve",
+    "cve-scanning",
+    "cve-search",
+    "secure",
+    "security",
+    "security-audit"
    ],
    "fork": false,
    "archived": false
@@ -99,7 +57,7 @@
    "forks": 0,
    "language": "Python",
    "created": "2026-10-03T12:18:56Z",
-   "pushed": "2026-10-31T09:05:16Z",
+   "pushed": "2026-11-01T16:10:50Z",
    "topics": [
     "brand-protection",
     "certificate-transparency",
@@ -107,6 +65,48 @@
     "domain-monitoring",
     "javascript",
     "phishing-detection"
+   ],
+   "fork": false,
+   "archived": false
+  },
+  {
+   "name": "Asli",
+   "description": "مشروع درع الكويت المفتوح ضد الاحتيال | Kuwait's open scam shield: a verified registry of genuine official channels and a reviewed feed of scam links and numbers.",
+   "url": "https://github.com/SiteQ8/Asli",
+   "homepage": "https://asli.3li.info/",
+   "stars": 0,
+   "forks": 0,
+   "language": "JavaScript",
+   "created": "2026-09-23T13:30:26Z",
+   "pushed": "2026-11-01T13:22:36Z",
+   "topics": [
+    "anti-fraud",
+    "arabic",
+    "bilingual",
+    "certificate-transparency",
+    "kuwait",
+    "open-data"
+   ],
+   "fork": false,
+   "archived": false
+  },
+  {
+   "name": "SC-100",
+   "description": "SC-100 Microsoft Cybersecurity Architect course material. Built from the skills measured as of 28 July 2026, with agenda coverage and every reference link verified on each build.",
+   "url": "https://github.com/SiteQ8/SC-100",
+   "homepage": "https://siteq8.github.io/SC-100/",
+   "stars": 0,
+   "forks": 0,
+   "language": "HTML",
+   "created": "2026-09-08T06:16:42Z",
+   "pushed": "2026-11-01T12:51:09Z",
+   "topics": [
+    "azure-security",
+    "certification",
+    "cybersecurity-architect",
+    "defender",
+    "exam-prep",
+    "mct"
    ],
    "fork": false,
    "archived": false
@@ -120,8 +120,24 @@
    "forks": 0,
    "language": "JavaScript",
    "created": "2026-09-28T07:06:08Z",
-   "pushed": "2026-10-30T09:27:36Z",
+   "pushed": "2026-11-01T09:54:22Z",
    "topics": [],
+   "fork": false,
+   "archived": false
+  },
+  {
+   "name": "SiteQ8",
+   "description": "Hi there! 👋 I am Ali AlEnezi, Cybersecurity Expert from 🇰🇼",
+   "url": "https://github.com/SiteQ8/SiteQ8",
+   "homepage": "https://siteq8.github.io/SiteQ8/",
+   "stars": 0,
+   "forks": 0,
+   "language": "JavaScript",
+   "created": "2025-10-09T05:31:07Z",
+   "pushed": "2026-10-31T13:36:27Z",
+   "topics": [
+    "kuwait"
+   ],
    "fork": false,
    "archived": false
   },
@@ -220,22 +236,6 @@
    "created": "2026-09-18T07:25:48Z",
    "pushed": "2026-10-30T09:01:35Z",
    "topics": [],
-   "fork": false,
-   "archived": false
-  },
-  {
-   "name": "SiteQ8",
-   "description": "Hi there! 👋 I am Ali AlEnezi, Cybersecurity Expert from 🇰🇼",
-   "url": "https://github.com/SiteQ8/SiteQ8",
-   "homepage": "https://siteq8.github.io/SiteQ8/",
-   "stars": 0,
-   "forks": 0,
-   "language": "JavaScript",
-   "created": "2025-10-09T05:31:07Z",
-   "pushed": "2026-10-30T08:33:43Z",
-   "topics": [
-    "kuwait"
-   ],
    "fork": false,
    "archived": false
   },
@@ -477,7 +477,7 @@
    "url": "https://github.com/SiteQ8/security-leadership-panel",
    "homepage": "https://siteq8.github.io/security-leadership-panel/",
    "stars": 1,
-   "forks": 0,
+   "forks": 1,
    "language": null,
    "created": "2026-01-13T05:28:05Z",
    "pushed": "2026-10-15T09:24:36Z",
@@ -572,7 +572,7 @@
    "description": "ICS IoT OT Hardening Framework, Industrial Cybersecurity Platform featuring an asset discovery scanner, SNMP monitor, incident timeline, vulnerability scanner, compliant with IEC 62443, NIST 800-82, NERC CIP, and MITRE ATT&CK ICS, includes 20 demo devices and a settings panel",
    "url": "https://github.com/SiteQ8/ics-iot-ot-hardening",
    "homepage": "https://siteq8.github.io/ics-iot-ot-hardening/gui/",
-   "stars": 17,
+   "stars": 18,
    "forks": 3,
    "language": "Python",
    "created": "2025-10-01T04:59:23Z",
@@ -1141,7 +1141,7 @@
    "description": "Open source LNG plant cyber range for Qatar: live process simulation, IEC 62443 controls, MITRE ATT&CK for ICS attack paths, NCSA incident playbooks and an MCP server.",
    "url": "https://github.com/SiteQ8/Mirqab",
    "homepage": "https://mirqab.3li.info/",
-   "stars": 0,
+   "stars": 1,
    "forks": 0,
    "language": "JavaScript",
    "created": "2026-09-27T10:36:49Z",
@@ -1205,7 +1205,7 @@
    "url": "https://github.com/SiteQ8/CISO-Dashboard",
    "homepage": "https://siteq8.github.io/CISO-Dashboard/",
    "stars": 4,
-   "forks": 0,
+   "forks": 1,
    "language": "JavaScript",
    "created": "2025-10-17T17:57:00Z",
    "pushed": "2026-10-15T09:07:42Z",
@@ -3007,6 +3007,71 @@
  ],
  "events": [
   {
+   "repo": "SiteQ8/KWTCyberWatch",
+   "at": "2026-10-30T04:46:15Z",
+   "n": 1
+  },
+  {
+   "repo": "SiteQ8/Miyar",
+   "at": "2026-10-30T09:27:36Z",
+   "n": 1
+  },
+  {
+   "repo": "SiteQ8/Tawash",
+   "at": "2026-10-30T09:23:26Z",
+   "n": 1
+  },
+  {
+   "repo": "SiteQ8/Shabakah",
+   "at": "2026-10-30T09:05:13Z",
+   "n": 1
+  },
+  {
+   "repo": "SiteQ8/Kuwait-NBCC",
+   "at": "2026-10-30T09:04:06Z",
+   "n": 1
+  },
+  {
+   "repo": "SiteQ8/help-eworldq8",
+   "at": "2026-10-30T09:01:35Z",
+   "n": 1
+  },
+  {
+   "repo": "SiteQ8/KW-OS",
+   "at": "2026-10-30T05:16:51Z",
+   "n": 1
+  },
+  {
+   "repo": "SiteQ8/Raed",
+   "at": "2026-10-30T04:48:25Z",
+   "n": 1
+  },
+  {
+   "repo": "SiteQ8/Tawash",
+   "at": "2026-10-30T09:11:59Z",
+   "n": 1
+  },
+  {
+   "repo": "SiteQ8/Sadu",
+   "at": "2026-10-30T09:25:17Z",
+   "n": 1
+  },
+  {
+   "repo": "SiteQ8/gbaseline",
+   "at": "2026-10-30T05:10:49Z",
+   "n": 1
+  },
+  {
+   "repo": "SiteQ8/SC-100",
+   "at": "2026-10-30T05:08:43Z",
+   "n": 1
+  },
+  {
+   "repo": "SiteQ8/gbaseline",
+   "at": "2026-10-30T05:08:25Z",
+   "n": 1
+  },
+  {
    "repo": "SiteQ8/Kuwait-NBCC",
    "at": "2026-10-30T05:11:29Z",
    "n": 1
@@ -3119,41 +3184,6 @@
   {
    "repo": "SiteQ8/Raed",
    "at": "2026-10-25T05:13:15Z",
-   "n": 1
-  },
-  {
-   "repo": "SiteQ8/Raed",
-   "at": "2026-10-25T04:56:15Z",
-   "n": 1
-  },
-  {
-   "repo": "SiteQ8/Quran_Sunna",
-   "at": "2026-10-25T14:54:58Z",
-   "n": 1
-  },
-  {
-   "repo": "SiteQ8/Quran_Sunna",
-   "at": "2026-10-25T14:21:18Z",
-   "n": 1
-  },
-  {
-   "repo": "SiteQ8/Raed",
-   "at": "2026-10-25T10:25:01Z",
-   "n": 1
-  },
-  {
-   "repo": "SiteQ8/Quran_Sunna",
-   "at": "2026-10-25T14:37:45Z",
-   "n": 1
-  },
-  {
-   "repo": "SiteQ8/Quran_Sunna",
-   "at": "2026-10-25T11:38:57Z",
-   "n": 1
-  },
-  {
-   "repo": "SiteQ8/Raed",
-   "at": "2026-10-25T10:17:16Z",
    "n": 1
   }
  ]
