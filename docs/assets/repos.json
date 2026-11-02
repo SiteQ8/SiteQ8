@@ -1,5 +1,5 @@
 {
- "at": "2026-11-01T16:48:32.795Z",
+ "at": "2026-11-02T18:15:47.316Z",
  "source": "snapshot",
  "user": {
   "public_repos": 169,
@@ -11,23 +11,6 @@
  },
  "repos": [
   {
-   "name": "KWTCyberWatch",
-   "description": "Kuwait phishing detection & brand protection: live Certificate Transparency monitoring, IDN/Arabic-aware typosquat and brand-impersonation detection for 26 Kuwaiti banks, telecoms and government services, alert triage, threat-intel enrichment and a fully client-side analyst console.",
-   "url": "https://github.com/SiteQ8/KWTCyberWatch",
-   "homepage": "http://kwtcyberwatch.3li.info/",
-   "stars": 0,
-   "forks": 1,
-   "language": "Python",
-   "created": "2024-11-06T12:50:11Z",
-   "pushed": "2026-11-01T16:37:42Z",
-   "topics": [
-    "cybersecurity",
-    "phishing"
-   ],
-   "fork": false,
-   "archived": false
-  },
-  {
    "name": "Raed",
    "description": "Arabic CVE record site: hourly updates, Arabic summaries, CISA KEV and EPSS",
    "url": "https://github.com/SiteQ8/Raed",
@@ -36,7 +19,7 @@
    "forks": 0,
    "language": "HTML",
    "created": "2026-10-25T04:54:26Z",
-   "pushed": "2026-11-01T16:28:36Z",
+   "pushed": "2026-11-02T17:23:23Z",
    "topics": [
     "cve",
     "cve-scanning",
@@ -44,27 +27,6 @@
     "secure",
     "security",
     "security-audit"
-   ],
-   "fork": false,
-   "archived": false
-  },
-  {
-   "name": "QACyberWatch",
-   "description": "Phishing detection and brand protection for the State of Qatar: live Certificate Transparency monitoring, look-alike domain hunting and brand impersonation alerts for Qatari banks, payments, telecoms and government services.",
-   "url": "https://github.com/SiteQ8/QACyberWatch",
-   "homepage": "https://qacyberwatch.3li.info/",
-   "stars": 0,
-   "forks": 0,
-   "language": "Python",
-   "created": "2026-10-03T12:18:56Z",
-   "pushed": "2026-11-01T16:10:50Z",
-   "topics": [
-    "brand-protection",
-    "certificate-transparency",
-    "cybersecurity",
-    "domain-monitoring",
-    "javascript",
-    "phishing-detection"
    ],
    "fork": false,
    "archived": false
@@ -78,7 +40,7 @@
    "forks": 0,
    "language": "JavaScript",
    "created": "2026-09-23T13:30:26Z",
-   "pushed": "2026-11-01T13:22:36Z",
+   "pushed": "2026-11-02T15:43:16Z",
    "topics": [
     "anti-fraud",
     "arabic",
@@ -99,7 +61,7 @@
    "forks": 0,
    "language": "HTML",
    "created": "2026-09-08T06:16:42Z",
-   "pushed": "2026-11-01T12:51:09Z",
+   "pushed": "2026-11-02T15:01:48Z",
    "topics": [
     "azure-security",
     "certification",
@@ -107,6 +69,95 @@
     "defender",
     "exam-prep",
     "mct"
+   ],
+   "fork": false,
+   "archived": false
+  },
+  {
+   "name": "QACyberWatch",
+   "description": "Phishing detection and brand protection for the State of Qatar: live Certificate Transparency monitoring, look-alike domain hunting and brand impersonation alerts for Qatari banks, payments, telecoms and government services.",
+   "url": "https://github.com/SiteQ8/QACyberWatch",
+   "homepage": "https://qacyberwatch.3li.info/",
+   "stars": 0,
+   "forks": 0,
+   "language": "Python",
+   "created": "2026-10-03T12:18:56Z",
+   "pushed": "2026-11-02T13:31:26Z",
+   "topics": [
+    "brand-protection",
+    "certificate-transparency",
+    "cybersecurity",
+    "domain-monitoring",
+    "javascript",
+    "phishing-detection"
+   ],
+   "fork": false,
+   "archived": false
+  },
+  {
+   "name": "KWTCyberWatch",
+   "description": "Kuwait phishing detection & brand protection: live Certificate Transparency monitoring, IDN/Arabic-aware typosquat and brand-impersonation detection for 26 Kuwaiti banks, telecoms and government services, alert triage, threat-intel enrichment and a fully client-side analyst console.",
+   "url": "https://github.com/SiteQ8/KWTCyberWatch",
+   "homepage": "http://kwtcyberwatch.3li.info/",
+   "stars": 0,
+   "forks": 1,
+   "language": "Python",
+   "created": "2024-11-06T12:50:11Z",
+   "pushed": "2026-11-02T13:21:13Z",
+   "topics": [
+    "cybersecurity",
+    "phishing"
+   ],
+   "fork": false,
+   "archived": false
+  },
+  {
+   "name": "gbaseline",
+   "description": null,
+   "url": "https://github.com/SiteQ8/gbaseline",
+   "homepage": "http://gbaseline.3li.info/",
+   "stars": 0,
+   "forks": 0,
+   "language": "JavaScript",
+   "created": "2026-10-15T23:34:21Z",
+   "pushed": "2026-11-02T11:16:35Z",
+   "topics": [],
+   "fork": false,
+   "archived": false
+  },
+  {
+   "name": "KW-OS",
+   "description": "🇰🇼 KW-OS, Kuwait Open Source Directory.",
+   "url": "https://github.com/SiteQ8/KW-OS",
+   "homepage": "https://siteq8.github.io/KW-OS/",
+   "stars": 1,
+   "forks": 0,
+   "language": null,
+   "created": "2026-03-09T00:31:06Z",
+   "pushed": "2026-11-02T10:15:57Z",
+   "topics": [
+    "arabic",
+    "awesome-list",
+    "boursa",
+    "catalog",
+    "cis",
+    "ciso"
+   ],
+   "fork": false,
+   "archived": false
+  },
+  {
+   "name": "SiteQ8",
+   "description": "Hi there! 👋 I am Ali AlEnezi, Cybersecurity Expert from 🇰🇼",
+   "url": "https://github.com/SiteQ8/SiteQ8",
+   "homepage": "https://siteq8.github.io/SiteQ8/",
+   "stars": 0,
+   "forks": 0,
+   "language": "JavaScript",
+   "created": "2025-10-09T05:31:07Z",
+   "pushed": "2026-11-01T16:48:34Z",
+   "topics": [
+    "kuwait"
    ],
    "fork": false,
    "archived": false
@@ -122,22 +173,6 @@
    "created": "2026-09-28T07:06:08Z",
    "pushed": "2026-11-01T09:54:22Z",
    "topics": [],
-   "fork": false,
-   "archived": false
-  },
-  {
-   "name": "SiteQ8",
-   "description": "Hi there! 👋 I am Ali AlEnezi, Cybersecurity Expert from 🇰🇼",
-   "url": "https://github.com/SiteQ8/SiteQ8",
-   "homepage": "https://siteq8.github.io/SiteQ8/",
-   "stars": 0,
-   "forks": 0,
-   "language": "JavaScript",
-   "created": "2025-10-09T05:31:07Z",
-   "pushed": "2026-10-31T13:36:27Z",
-   "topics": [
-    "kuwait"
-   ],
    "fork": false,
    "archived": false
   },
@@ -235,41 +270,6 @@
    "language": "HTML",
    "created": "2026-09-18T07:25:48Z",
    "pushed": "2026-10-30T09:01:35Z",
-   "topics": [],
-   "fork": false,
-   "archived": false
-  },
-  {
-   "name": "KW-OS",
-   "description": "🇰🇼 KW-OS, Kuwait Open Source Directory.",
-   "url": "https://github.com/SiteQ8/KW-OS",
-   "homepage": "https://siteq8.github.io/KW-OS/",
-   "stars": 1,
-   "forks": 0,
-   "language": null,
-   "created": "2026-03-09T00:31:06Z",
-   "pushed": "2026-10-30T05:16:50Z",
-   "topics": [
-    "arabic",
-    "awesome-list",
-    "boursa",
-    "catalog",
-    "cis",
-    "ciso"
-   ],
-   "fork": false,
-   "archived": false
-  },
-  {
-   "name": "gbaseline",
-   "description": null,
-   "url": "https://github.com/SiteQ8/gbaseline",
-   "homepage": "http://gbaseline.3li.info/",
-   "stars": 0,
-   "forks": 0,
-   "language": "JavaScript",
-   "created": "2026-10-15T23:34:21Z",
-   "pushed": "2026-10-30T05:10:47Z",
    "topics": [],
    "fork": false,
    "archived": false
@@ -477,7 +477,7 @@
    "url": "https://github.com/SiteQ8/security-leadership-panel",
    "homepage": "https://siteq8.github.io/security-leadership-panel/",
    "stars": 1,
-   "forks": 1,
+   "forks": 0,
    "language": null,
    "created": "2026-01-13T05:28:05Z",
    "pushed": "2026-10-15T09:24:36Z",
@@ -511,7 +511,7 @@
    "description": "SAMA CSF Assessment Tool — Saudi Central Bank Cybersecurity Framework | Bilingual AR/EN | 4 Domains · 114 Controls · 6 Maturity Levels | ISO 27001 · NIST · CIS · PCI-DSS · NCA Mappings | Offline-First",
    "url": "https://github.com/SiteQ8/sama-csf-assessment",
    "homepage": "https://siteq8.github.io/sama-csf-assessment/",
-   "stars": 3,
+   "stars": 4,
    "forks": 2,
    "language": null,
    "created": "2025-11-16T05:03:16Z",
@@ -1205,7 +1205,7 @@
    "url": "https://github.com/SiteQ8/CISO-Dashboard",
    "homepage": "https://siteq8.github.io/CISO-Dashboard/",
    "stars": 4,
-   "forks": 1,
+   "forks": 0,
    "language": "JavaScript",
    "created": "2025-10-17T17:57:00Z",
    "pushed": "2026-10-15T09:07:42Z",
@@ -3007,6 +3007,26 @@
  ],
  "events": [
   {
+   "repo": "SiteQ8/Miyar",
+   "at": "2026-11-01T09:54:23Z",
+   "n": 1
+  },
+  {
+   "repo": "SiteQ8/Miyar",
+   "at": "2026-11-01T09:54:48Z",
+   "n": 1
+  },
+  {
+   "repo": "SiteQ8/Shabakah",
+   "at": "2026-10-30T09:03:44Z",
+   "n": 1
+  },
+  {
+   "repo": "SiteQ8/KW-OS",
+   "at": "2026-10-30T05:15:42Z",
+   "n": 1
+  },
+  {
    "repo": "SiteQ8/KWTCyberWatch",
    "at": "2026-10-30T04:46:15Z",
    "n": 1
@@ -3164,26 +3184,6 @@
   {
    "repo": "SiteQ8/Raed",
    "at": "2026-10-26T08:07:04Z",
-   "n": 1
-  },
-  {
-   "repo": "SiteQ8/security-architecture-motion-lab",
-   "at": "2026-10-25T09:44:40Z",
-   "n": 1
-  },
-  {
-   "repo": "SiteQ8/Raed",
-   "at": "2026-10-25T08:32:17Z",
-   "n": 1
-  },
-  {
-   "repo": "SiteQ8/Raed",
-   "at": "2026-10-25T06:39:01Z",
-   "n": 1
-  },
-  {
-   "repo": "SiteQ8/Raed",
-   "at": "2026-10-25T05:13:15Z",
    "n": 1
   }
  ]
