@@ -1,9 +1,9 @@
 {
- "at": "2026-11-02T18:15:47.316Z",
+ "at": "2026-11-03T23:16:06.363Z",
  "source": "snapshot",
  "user": {
   "public_repos": 169,
-  "followers": 22,
+  "followers": 25,
   "following": 11,
   "avatar": "https://avatars.githubusercontent.com/u/311682?v=4",
   "name": "Ali AlEnezi",
@@ -19,7 +19,7 @@
    "forks": 0,
    "language": "HTML",
    "created": "2026-10-25T04:54:26Z",
-   "pushed": "2026-11-02T17:23:23Z",
+   "pushed": "2026-11-03T22:28:19Z",
    "topics": [
     "cve",
     "cve-scanning",
@@ -27,48 +27,6 @@
     "secure",
     "security",
     "security-audit"
-   ],
-   "fork": false,
-   "archived": false
-  },
-  {
-   "name": "Asli",
-   "description": "مشروع درع الكويت المفتوح ضد الاحتيال | Kuwait's open scam shield: a verified registry of genuine official channels and a reviewed feed of scam links and numbers.",
-   "url": "https://github.com/SiteQ8/Asli",
-   "homepage": "https://asli.3li.info/",
-   "stars": 0,
-   "forks": 0,
-   "language": "JavaScript",
-   "created": "2026-09-23T13:30:26Z",
-   "pushed": "2026-11-02T15:43:16Z",
-   "topics": [
-    "anti-fraud",
-    "arabic",
-    "bilingual",
-    "certificate-transparency",
-    "kuwait",
-    "open-data"
-   ],
-   "fork": false,
-   "archived": false
-  },
-  {
-   "name": "SC-100",
-   "description": "SC-100 Microsoft Cybersecurity Architect course material. Built from the skills measured as of 28 July 2026, with agenda coverage and every reference link verified on each build.",
-   "url": "https://github.com/SiteQ8/SC-100",
-   "homepage": "https://siteq8.github.io/SC-100/",
-   "stars": 0,
-   "forks": 0,
-   "language": "HTML",
-   "created": "2026-09-08T06:16:42Z",
-   "pushed": "2026-11-02T15:01:48Z",
-   "topics": [
-    "azure-security",
-    "certification",
-    "cybersecurity-architect",
-    "defender",
-    "exam-prep",
-    "mct"
    ],
    "fork": false,
    "archived": false
@@ -82,7 +40,7 @@
    "forks": 0,
    "language": "Python",
    "created": "2026-10-03T12:18:56Z",
-   "pushed": "2026-11-02T13:31:26Z",
+   "pushed": "2026-11-03T19:29:55Z",
    "topics": [
     "brand-protection",
     "certificate-transparency",
@@ -103,10 +61,68 @@
    "forks": 1,
    "language": "Python",
    "created": "2024-11-06T12:50:11Z",
-   "pushed": "2026-11-02T13:21:13Z",
+   "pushed": "2026-11-03T18:55:29Z",
    "topics": [
     "cybersecurity",
     "phishing"
+   ],
+   "fork": false,
+   "archived": false
+  },
+  {
+   "name": "Asli",
+   "description": "مشروع درع الكويت المفتوح ضد الاحتيال | Kuwait's open scam shield: a verified registry of genuine official channels and a reviewed feed of scam links and numbers.",
+   "url": "https://github.com/SiteQ8/Asli",
+   "homepage": "https://asli.3li.info/",
+   "stars": 0,
+   "forks": 0,
+   "language": "JavaScript",
+   "created": "2026-09-23T13:30:26Z",
+   "pushed": "2026-11-03T14:05:52Z",
+   "topics": [
+    "anti-fraud",
+    "arabic",
+    "bilingual",
+    "certificate-transparency",
+    "kuwait",
+    "open-data"
+   ],
+   "fork": false,
+   "archived": false
+  },
+  {
+   "name": "SC-100",
+   "description": "SC-100 Microsoft Cybersecurity Architect course material. Built from the skills measured as of 28 July 2026, with agenda coverage and every reference link verified on each build.",
+   "url": "https://github.com/SiteQ8/SC-100",
+   "homepage": "https://siteq8.github.io/SC-100/",
+   "stars": 0,
+   "forks": 0,
+   "language": "HTML",
+   "created": "2026-09-08T06:16:42Z",
+   "pushed": "2026-11-03T13:48:26Z",
+   "topics": [
+    "azure-security",
+    "certification",
+    "cybersecurity-architect",
+    "defender",
+    "exam-prep",
+    "mct"
+   ],
+   "fork": false,
+   "archived": false
+  },
+  {
+   "name": "SiteQ8",
+   "description": "Hi there! 👋 I am Ali AlEnezi, Cybersecurity Expert from 🇰🇼",
+   "url": "https://github.com/SiteQ8/SiteQ8",
+   "homepage": "https://siteq8.github.io/SiteQ8/",
+   "stars": 0,
+   "forks": 0,
+   "language": "JavaScript",
+   "created": "2025-10-09T05:31:07Z",
+   "pushed": "2026-11-02T18:15:49Z",
+   "topics": [
+    "kuwait"
    ],
    "fork": false,
    "archived": false
@@ -142,22 +158,6 @@
     "catalog",
     "cis",
     "ciso"
-   ],
-   "fork": false,
-   "archived": false
-  },
-  {
-   "name": "SiteQ8",
-   "description": "Hi there! 👋 I am Ali AlEnezi, Cybersecurity Expert from 🇰🇼",
-   "url": "https://github.com/SiteQ8/SiteQ8",
-   "homepage": "https://siteq8.github.io/SiteQ8/",
-   "stars": 0,
-   "forks": 0,
-   "language": "JavaScript",
-   "created": "2025-10-09T05:31:07Z",
-   "pushed": "2026-11-01T16:48:34Z",
-   "topics": [
-    "kuwait"
    ],
    "fork": false,
    "archived": false
