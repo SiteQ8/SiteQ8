@@ -1,5 +1,5 @@
 {
- "at": "2026-11-03T23:16:06.363Z",
+ "at": "2026-11-05T02:21:50.432Z",
  "source": "snapshot",
  "user": {
   "public_repos": 169,
@@ -11,27 +11,6 @@
  },
  "repos": [
   {
-   "name": "Raed",
-   "description": "Arabic CVE record site: hourly updates, Arabic summaries, CISA KEV and EPSS",
-   "url": "https://github.com/SiteQ8/Raed",
-   "homepage": "https://cve.3li.info/",
-   "stars": 0,
-   "forks": 0,
-   "language": "HTML",
-   "created": "2026-10-25T04:54:26Z",
-   "pushed": "2026-11-03T22:28:19Z",
-   "topics": [
-    "cve",
-    "cve-scanning",
-    "cve-search",
-    "secure",
-    "security",
-    "security-audit"
-   ],
-   "fork": false,
-   "archived": false
-  },
-  {
    "name": "QACyberWatch",
    "description": "Phishing detection and brand protection for the State of Qatar: live Certificate Transparency monitoring, look-alike domain hunting and brand impersonation alerts for Qatari banks, payments, telecoms and government services.",
    "url": "https://github.com/SiteQ8/QACyberWatch",
@@ -40,7 +19,7 @@
    "forks": 0,
    "language": "Python",
    "created": "2026-10-03T12:18:56Z",
-   "pushed": "2026-11-03T19:29:55Z",
+   "pushed": "2026-11-05T02:04:35Z",
    "topics": [
     "brand-protection",
     "certificate-transparency",
@@ -48,6 +27,27 @@
     "domain-monitoring",
     "javascript",
     "phishing-detection"
+   ],
+   "fork": false,
+   "archived": false
+  },
+  {
+   "name": "Raed",
+   "description": "Arabic CVE record site: hourly updates, Arabic summaries, CISA KEV and EPSS",
+   "url": "https://github.com/SiteQ8/Raed",
+   "homepage": "https://cve.3li.info/",
+   "stars": 0,
+   "forks": 0,
+   "language": "HTML",
+   "created": "2026-10-25T04:54:26Z",
+   "pushed": "2026-11-05T01:28:16Z",
+   "topics": [
+    "cve",
+    "cve-scanning",
+    "cve-search",
+    "secure",
+    "security",
+    "security-audit"
    ],
    "fork": false,
    "archived": false
@@ -61,7 +61,7 @@
    "forks": 1,
    "language": "Python",
    "created": "2024-11-06T12:50:11Z",
-   "pushed": "2026-11-03T18:55:29Z",
+   "pushed": "2026-11-05T00:28:13Z",
    "topics": [
     "cybersecurity",
     "phishing"
@@ -78,7 +78,7 @@
    "forks": 0,
    "language": "JavaScript",
    "created": "2026-09-23T13:30:26Z",
-   "pushed": "2026-11-03T14:05:52Z",
+   "pushed": "2026-11-04T23:46:06Z",
    "topics": [
     "anti-fraud",
     "arabic",
@@ -99,7 +99,7 @@
    "forks": 0,
    "language": "HTML",
    "created": "2026-09-08T06:16:42Z",
-   "pushed": "2026-11-03T13:48:26Z",
+   "pushed": "2026-11-04T13:56:48Z",
    "topics": [
     "azure-security",
     "certification",
@@ -120,7 +120,7 @@
    "forks": 0,
    "language": "JavaScript",
    "created": "2025-10-09T05:31:07Z",
-   "pushed": "2026-11-02T18:15:49Z",
+   "pushed": "2026-11-03T23:16:07Z",
    "topics": [
     "kuwait"
    ],
