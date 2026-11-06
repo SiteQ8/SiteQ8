@@ -1,5 +1,5 @@
 {
- "at": "2026-11-05T02:21:50.432Z",
+ "at": "2026-11-06T06:47:38.086Z",
  "source": "snapshot",
  "user": {
   "public_repos": 169,
@@ -11,22 +11,22 @@
  },
  "repos": [
   {
-   "name": "QACyberWatch",
-   "description": "Phishing detection and brand protection for the State of Qatar: live Certificate Transparency monitoring, look-alike domain hunting and brand impersonation alerts for Qatari banks, payments, telecoms and government services.",
-   "url": "https://github.com/SiteQ8/QACyberWatch",
-   "homepage": "https://qacyberwatch.3li.info/",
+   "name": "Asli",
+   "description": "مشروع درع الكويت المفتوح ضد الاحتيال | Kuwait's open scam shield: a verified registry of genuine official channels and a reviewed feed of scam links and numbers.",
+   "url": "https://github.com/SiteQ8/Asli",
+   "homepage": "https://asli.3li.info/",
    "stars": 0,
    "forks": 0,
-   "language": "Python",
-   "created": "2026-10-03T12:18:56Z",
-   "pushed": "2026-11-05T02:04:35Z",
+   "language": "JavaScript",
+   "created": "2026-09-23T13:30:26Z",
+   "pushed": "2026-11-06T06:36:53Z",
    "topics": [
-    "brand-protection",
+    "anti-fraud",
+    "arabic",
+    "bilingual",
     "certificate-transparency",
-    "cybersecurity",
-    "domain-monitoring",
-    "javascript",
-    "phishing-detection"
+    "kuwait",
+    "open-data"
    ],
    "fork": false,
    "archived": false
@@ -40,7 +40,7 @@
    "forks": 0,
    "language": "HTML",
    "created": "2026-10-25T04:54:26Z",
-   "pushed": "2026-11-05T01:28:16Z",
+   "pushed": "2026-11-06T06:27:57Z",
    "topics": [
     "cve",
     "cve-scanning",
@@ -48,6 +48,48 @@
     "secure",
     "security",
     "security-audit"
+   ],
+   "fork": false,
+   "archived": false
+  },
+  {
+   "name": "Quran_Sunna",
+   "description": "سُنّتي | تطبيق إسلامي شامل — القرآن · أوقات الصلاة · ١٦ قسم أذكار · السنن · الأحاديث · الرقية · الأدعية · المسبحة · القبلة | Sunnati Islamic App",
+   "url": "https://github.com/SiteQ8/Quran_Sunna",
+   "homepage": "https://sunnati.3li.info",
+   "stars": 0,
+   "forks": 0,
+   "language": "JavaScript",
+   "created": "2026-03-09T12:03:14Z",
+   "pushed": "2026-11-06T04:02:02Z",
+   "topics": [
+    "arabic",
+    "asma-ul-husna",
+    "azkar",
+    "dhikr",
+    "dua",
+    "hadith"
+   ],
+   "fork": false,
+   "archived": false
+  },
+  {
+   "name": "QACyberWatch",
+   "description": "Phishing detection and brand protection for the State of Qatar: live Certificate Transparency monitoring, look-alike domain hunting and brand impersonation alerts for Qatari banks, payments, telecoms and government services.",
+   "url": "https://github.com/SiteQ8/QACyberWatch",
+   "homepage": "https://qacyberwatch.3li.info/",
+   "stars": 0,
+   "forks": 0,
+   "language": "Python",
+   "created": "2026-10-03T12:18:56Z",
+   "pushed": "2026-11-06T03:36:44Z",
+   "topics": [
+    "brand-protection",
+    "certificate-transparency",
+    "cybersecurity",
+    "domain-monitoring",
+    "javascript",
+    "phishing-detection"
    ],
    "fork": false,
    "archived": false
@@ -61,31 +103,10 @@
    "forks": 1,
    "language": "Python",
    "created": "2024-11-06T12:50:11Z",
-   "pushed": "2026-11-05T00:28:13Z",
+   "pushed": "2026-11-06T02:16:46Z",
    "topics": [
     "cybersecurity",
     "phishing"
-   ],
-   "fork": false,
-   "archived": false
-  },
-  {
-   "name": "Asli",
-   "description": "مشروع درع الكويت المفتوح ضد الاحتيال | Kuwait's open scam shield: a verified registry of genuine official channels and a reviewed feed of scam links and numbers.",
-   "url": "https://github.com/SiteQ8/Asli",
-   "homepage": "https://asli.3li.info/",
-   "stars": 0,
-   "forks": 0,
-   "language": "JavaScript",
-   "created": "2026-09-23T13:30:26Z",
-   "pushed": "2026-11-04T23:46:06Z",
-   "topics": [
-    "anti-fraud",
-    "arabic",
-    "bilingual",
-    "certificate-transparency",
-    "kuwait",
-    "open-data"
    ],
    "fork": false,
    "archived": false
@@ -99,7 +120,7 @@
    "forks": 0,
    "language": "HTML",
    "created": "2026-09-08T06:16:42Z",
-   "pushed": "2026-11-04T13:56:48Z",
+   "pushed": "2026-11-05T14:14:08Z",
    "topics": [
     "azure-security",
     "certification",
@@ -120,7 +141,7 @@
    "forks": 0,
    "language": "JavaScript",
    "created": "2025-10-09T05:31:07Z",
-   "pushed": "2026-11-03T23:16:07Z",
+   "pushed": "2026-11-05T02:21:52Z",
    "topics": [
     "kuwait"
    ],
@@ -309,27 +330,6 @@
     "homoglyph",
     "kuwait",
     "nodejs"
-   ],
-   "fork": false,
-   "archived": false
-  },
-  {
-   "name": "Quran_Sunna",
-   "description": "سُنّتي | تطبيق إسلامي شامل — القرآن · أوقات الصلاة · ١٦ قسم أذكار · السنن · الأحاديث · الرقية · الأدعية · المسبحة · القبلة | Sunnati Islamic App",
-   "url": "https://github.com/SiteQ8/Quran_Sunna",
-   "homepage": "https://sunnati.3li.info",
-   "stars": 0,
-   "forks": 0,
-   "language": "JavaScript",
-   "created": "2026-03-09T12:03:14Z",
-   "pushed": "2026-10-26T20:06:39Z",
-   "topics": [
-    "arabic",
-    "asma-ul-husna",
-    "azkar",
-    "dhikr",
-    "dua",
-    "hadith"
    ],
    "fork": false,
    "archived": false
@@ -3006,6 +3006,21 @@
   }
  ],
  "events": [
+  {
+   "repo": "SiteQ8/Quran_Sunna",
+   "at": "2026-11-05T22:43:18Z",
+   "n": 1
+  },
+  {
+   "repo": "SiteQ8/Quran_Sunna",
+   "at": "2026-11-05T22:20:32Z",
+   "n": 1
+  },
+  {
+   "repo": "SiteQ8/Quran_Sunna",
+   "at": "2026-11-05T22:17:47Z",
+   "n": 1
+  },
   {
    "repo": "SiteQ8/Miyar",
    "at": "2026-11-01T09:54:23Z",
