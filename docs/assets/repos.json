@@ -1,5 +1,5 @@
 {
- "at": "2026-11-06T06:47:38.086Z",
+ "at": "2026-11-07T07:03:55.301Z",
  "source": "snapshot",
  "user": {
   "public_repos": 169,
@@ -11,27 +11,6 @@
  },
  "repos": [
   {
-   "name": "Asli",
-   "description": "مشروع درع الكويت المفتوح ضد الاحتيال | Kuwait's open scam shield: a verified registry of genuine official channels and a reviewed feed of scam links and numbers.",
-   "url": "https://github.com/SiteQ8/Asli",
-   "homepage": "https://asli.3li.info/",
-   "stars": 0,
-   "forks": 0,
-   "language": "JavaScript",
-   "created": "2026-09-23T13:30:26Z",
-   "pushed": "2026-11-06T06:36:53Z",
-   "topics": [
-    "anti-fraud",
-    "arabic",
-    "bilingual",
-    "certificate-transparency",
-    "kuwait",
-    "open-data"
-   ],
-   "fork": false,
-   "archived": false
-  },
-  {
    "name": "Raed",
    "description": "Arabic CVE record site: hourly updates, Arabic summaries, CISA KEV and EPSS",
    "url": "https://github.com/SiteQ8/Raed",
@@ -40,7 +19,7 @@
    "forks": 0,
    "language": "HTML",
    "created": "2026-10-25T04:54:26Z",
-   "pushed": "2026-11-06T06:27:57Z",
+   "pushed": "2026-11-07T06:28:14Z",
    "topics": [
     "cve",
     "cve-scanning",
@@ -48,6 +27,27 @@
     "secure",
     "security",
     "security-audit"
+   ],
+   "fork": false,
+   "archived": false
+  },
+  {
+   "name": "Asli",
+   "description": "مشروع درع الكويت المفتوح ضد الاحتيال | Kuwait's open scam shield: a verified registry of genuine official channels and a reviewed feed of scam links and numbers.",
+   "url": "https://github.com/SiteQ8/Asli",
+   "homepage": "https://asli.3li.info/",
+   "stars": 0,
+   "forks": 0,
+   "language": "JavaScript",
+   "created": "2026-09-23T13:30:26Z",
+   "pushed": "2026-11-07T06:01:28Z",
+   "topics": [
+    "anti-fraud",
+    "arabic",
+    "bilingual",
+    "certificate-transparency",
+    "kuwait",
+    "open-data"
    ],
    "fork": false,
    "archived": false
@@ -61,7 +61,7 @@
    "forks": 0,
    "language": "JavaScript",
    "created": "2026-03-09T12:03:14Z",
-   "pushed": "2026-11-06T04:02:02Z",
+   "pushed": "2026-11-07T05:35:03Z",
    "topics": [
     "arabic",
     "asma-ul-husna",
@@ -82,7 +82,7 @@
    "forks": 0,
    "language": "Python",
    "created": "2026-10-03T12:18:56Z",
-   "pushed": "2026-11-06T03:36:44Z",
+   "pushed": "2026-11-07T03:27:14Z",
    "topics": [
     "brand-protection",
     "certificate-transparency",
@@ -103,10 +103,150 @@
    "forks": 1,
    "language": "Python",
    "created": "2024-11-06T12:50:11Z",
-   "pushed": "2026-11-06T02:16:46Z",
+   "pushed": "2026-11-07T01:46:57Z",
    "topics": [
     "cybersecurity",
     "phishing"
+   ],
+   "fork": false,
+   "archived": false
+  },
+  {
+   "name": "Tayyar",
+   "description": "تيّار: بث مباشر لشهادات TLS وتنبيه بالأسماء التي تقلّد علامتك | Live TLS certificates from Certificate Transparency logs, with look-alike alerts in Arabic and English",
+   "url": "https://github.com/SiteQ8/Tayyar",
+   "homepage": "https://tayyar.3li.info",
+   "stars": 0,
+   "forks": 0,
+   "language": "JavaScript",
+   "created": "2026-09-25T09:31:59Z",
+   "pushed": "2026-11-06T16:16:10Z",
+   "topics": [
+    "arabic",
+    "brand-protection",
+    "certificate-transparency",
+    "homoglyph",
+    "kuwait",
+    "nodejs"
+   ],
+   "fork": false,
+   "archived": false
+  },
+  {
+   "name": "Najjab",
+   "description": "نجّاب | The first hours of a cyber incident in the Gulf: who to notify and by when, with the official source of every deadline, plus playbooks, a bilingual notice draft, tabletop exercises and an MCP server.",
+   "url": "https://github.com/SiteQ8/Najjab",
+   "homepage": "https://najjab.3li.info",
+   "stars": 0,
+   "forks": 0,
+   "language": "JavaScript",
+   "created": "2026-10-02T15:28:13Z",
+   "pushed": "2026-11-06T15:44:45Z",
+   "topics": [
+    "arabic",
+    "bahrain",
+    "breach-notification",
+    "cybersecurity",
+    "gcc",
+    "incident-response"
+   ],
+   "fork": false,
+   "archived": false
+  },
+  {
+   "name": "Bunyan",
+   "description": "Security architecture handbook, pattern catalogue, and design advisor in English and Arabic",
+   "url": "https://github.com/SiteQ8/Bunyan",
+   "homepage": "https://siteq8.github.io/Bunyan/",
+   "stars": 0,
+   "forks": 0,
+   "language": "JavaScript",
+   "created": "2026-09-24T08:20:07Z",
+   "pushed": "2026-11-06T15:40:16Z",
+   "topics": [
+    "arabic",
+    "cis-controls",
+    "cybersecurity",
+    "design-patterns",
+    "iso27001",
+    "nist"
+   ],
+   "fork": false,
+   "archived": false
+  },
+  {
+   "name": "Kuwait-NBCC",
+   "description": "Understand, assess and evidence compliance with the Kuwait National Basic Cybersecurity Controls (NBCC), Annex 1 to NCSC Decision No. 2 of 2026. 44 controls, 329 checks, due 5 October 2027.",
+   "url": "https://github.com/SiteQ8/Kuwait-NBCC",
+   "homepage": "https://siteq8.github.io/Kuwait-NBCC/",
+   "stars": 0,
+   "forks": 0,
+   "language": "JavaScript",
+   "created": "2026-09-03T10:09:55Z",
+   "pushed": "2026-11-06T14:31:20Z",
+   "topics": [
+    "arabic",
+    "cis-controls",
+    "compliance",
+    "cybersecurity",
+    "grc",
+    "iso27001"
+   ],
+   "fork": false,
+   "archived": false
+  },
+  {
+   "name": "help-eworldq8",
+   "description": "help.eworldq8.com — everyday computing help",
+   "url": "https://github.com/SiteQ8/help-eworldq8",
+   "homepage": null,
+   "stars": 0,
+   "forks": 0,
+   "language": "HTML",
+   "created": "2026-09-18T07:25:48Z",
+   "pushed": "2026-11-06T14:29:28Z",
+   "topics": [],
+   "fork": false,
+   "archived": false
+  },
+  {
+   "name": "miftah",
+   "description": "Cryptographic inventory and post quantum readiness. Scans code, certificates and live endpoints, writes a CycloneDX 1.6 CBOM, and scores exposure with Mosca inequality. Zero dependencies.",
+   "url": "https://github.com/SiteQ8/miftah",
+   "homepage": "https://siteq8.github.io/miftah/",
+   "stars": 0,
+   "forks": 0,
+   "language": "JavaScript",
+   "created": "2026-09-03T09:13:37Z",
+   "pushed": "2026-11-06T14:18:40Z",
+   "topics": [
+    "cbom",
+    "cryptography",
+    "cyclonedx",
+    "inventory",
+    "ml-dsa",
+    "ml-kem"
+   ],
+   "fork": false,
+   "archived": false
+  },
+  {
+   "name": "Shabakah",
+   "description": "A network security lab you SSH into. Twelve hands on lessons, six live targets, and a capture the flag hunt, in English and Arabic.",
+   "url": "https://github.com/SiteQ8/Shabakah",
+   "homepage": "https://shabakah.3li.info",
+   "stars": 0,
+   "forks": 0,
+   "language": "Python",
+   "created": "2026-09-14T06:23:39Z",
+   "pushed": "2026-11-06T14:10:03Z",
+   "topics": [
+    "arabic",
+    "bilingual",
+    "capture-the-flag",
+    "ctf",
+    "cybersecurity",
+    "docker"
    ],
    "fork": false,
    "archived": false
@@ -120,7 +260,7 @@
    "forks": 0,
    "language": "HTML",
    "created": "2026-09-08T06:16:42Z",
-   "pushed": "2026-11-05T14:14:08Z",
+   "pushed": "2026-11-06T14:01:16Z",
    "topics": [
     "azure-security",
     "certification",
@@ -133,6 +273,62 @@
    "archived": false
   },
   {
+   "name": "Sadu",
+   "description": "Sadu | سدو: a bilingual working register for the CBK Cyber and Operational Resilience Framework (CORF v1.0) woven to ISO 27001, PCI DSS v4.0.1 and SWIFT CSCF v2026, with an MCP server for AI agents",
+   "url": "https://github.com/SiteQ8/Sadu",
+   "homepage": "https://sadu.3li.info",
+   "stars": 0,
+   "forks": 0,
+   "language": "JavaScript",
+   "created": "2026-09-27T19:42:54Z",
+   "pushed": "2026-11-06T09:29:50Z",
+   "topics": [
+    "arabic",
+    "bilingual",
+    "cbk",
+    "compliance",
+    "corf",
+    "crosswalk"
+   ],
+   "fork": false,
+   "archived": false
+  },
+  {
+   "name": "Tawash",
+   "description": "Tawash (طوّاش) is a threat intelligence tool that finds the lookalike domains made to pass for Kuwait's real ones: typos, lookalike characters, Latin spellings of Arabic names, newly registered domains and certificate logs. Browser finder and a dependency free CLI.",
+   "url": "https://github.com/SiteQ8/Tawash",
+   "homepage": "https://tawash.3li.info/",
+   "stars": 0,
+   "forks": 0,
+   "language": "JavaScript",
+   "created": "2026-09-25T09:43:19Z",
+   "pushed": "2026-11-06T09:26:05Z",
+   "topics": [
+    "arabic",
+    "brand-protection",
+    "cybersquatting",
+    "dns",
+    "domain-squatting",
+    "homoglyph"
+   ],
+   "fork": false,
+   "archived": false
+  },
+  {
+   "name": "Miyar",
+   "description": "Miyar | معيار: bilingual security architecture checklists for applications, cloud services and vendors against banking regulation, jurisdiction by jurisdiction, with a cover page that scores regulatory coverage. Kuwait CBK CORF first.",
+   "url": "https://github.com/SiteQ8/Miyar",
+   "homepage": "https://miyar.3li.info",
+   "stars": 0,
+   "forks": 0,
+   "language": "JavaScript",
+   "created": "2026-09-28T07:06:08Z",
+   "pushed": "2026-11-06T09:20:42Z",
+   "topics": [],
+   "fork": false,
+   "archived": false
+  },
+  {
    "name": "SiteQ8",
    "description": "Hi there! 👋 I am Ali AlEnezi, Cybersecurity Expert from 🇰🇼",
    "url": "https://github.com/SiteQ8/SiteQ8",
@@ -141,7 +337,7 @@
    "forks": 0,
    "language": "JavaScript",
    "created": "2025-10-09T05:31:07Z",
-   "pushed": "2026-11-05T02:21:52Z",
+   "pushed": "2026-11-06T06:47:39Z",
    "topics": [
     "kuwait"
    ],
@@ -184,118 +380,6 @@
    "archived": false
   },
   {
-   "name": "Miyar",
-   "description": "Miyar | معيار: bilingual security architecture checklists for applications, cloud services and vendors against banking regulation, jurisdiction by jurisdiction, with a cover page that scores regulatory coverage. Kuwait CBK CORF first.",
-   "url": "https://github.com/SiteQ8/Miyar",
-   "homepage": "https://miyar.3li.info",
-   "stars": 0,
-   "forks": 0,
-   "language": "JavaScript",
-   "created": "2026-09-28T07:06:08Z",
-   "pushed": "2026-11-01T09:54:22Z",
-   "topics": [],
-   "fork": false,
-   "archived": false
-  },
-  {
-   "name": "Sadu",
-   "description": "Sadu | سدو: a bilingual working register for the CBK Cyber and Operational Resilience Framework (CORF v1.0) woven to ISO 27001, PCI DSS v4.0.1 and SWIFT CSCF v2026, with an MCP server for AI agents",
-   "url": "https://github.com/SiteQ8/Sadu",
-   "homepage": "https://sadu.3li.info",
-   "stars": 0,
-   "forks": 0,
-   "language": "JavaScript",
-   "created": "2026-09-27T19:42:54Z",
-   "pushed": "2026-10-30T09:25:17Z",
-   "topics": [
-    "arabic",
-    "bilingual",
-    "cbk",
-    "compliance",
-    "corf",
-    "crosswalk"
-   ],
-   "fork": false,
-   "archived": false
-  },
-  {
-   "name": "Tawash",
-   "description": "Tawash (طوّاش) is a threat intelligence tool that finds the lookalike domains made to pass for Kuwait's real ones: typos, lookalike characters, Latin spellings of Arabic names, newly registered domains and certificate logs. Browser finder and a dependency free CLI.",
-   "url": "https://github.com/SiteQ8/Tawash",
-   "homepage": "https://tawash.3li.info/",
-   "stars": 0,
-   "forks": 0,
-   "language": "JavaScript",
-   "created": "2026-09-25T09:43:19Z",
-   "pushed": "2026-10-30T09:23:25Z",
-   "topics": [
-    "arabic",
-    "brand-protection",
-    "cybersquatting",
-    "dns",
-    "domain-squatting",
-    "homoglyph"
-   ],
-   "fork": false,
-   "archived": false
-  },
-  {
-   "name": "Shabakah",
-   "description": "A network security lab you SSH into. Twelve hands on lessons, six live targets, and a capture the flag hunt, in English and Arabic.",
-   "url": "https://github.com/SiteQ8/Shabakah",
-   "homepage": "https://shabakah.3li.info",
-   "stars": 0,
-   "forks": 0,
-   "language": "Python",
-   "created": "2026-09-14T06:23:39Z",
-   "pushed": "2026-10-30T09:05:23Z",
-   "topics": [
-    "arabic",
-    "bilingual",
-    "capture-the-flag",
-    "ctf",
-    "cybersecurity",
-    "docker"
-   ],
-   "fork": false,
-   "archived": false
-  },
-  {
-   "name": "Kuwait-NBCC",
-   "description": "Understand, assess and evidence compliance with the Kuwait National Basic Cybersecurity Controls (NBCC), Annex 1 to NCSC Decision No. 2 of 2026. 44 controls, 329 checks, due 5 October 2027.",
-   "url": "https://github.com/SiteQ8/Kuwait-NBCC",
-   "homepage": "https://siteq8.github.io/Kuwait-NBCC/",
-   "stars": 0,
-   "forks": 0,
-   "language": "JavaScript",
-   "created": "2026-09-03T10:09:55Z",
-   "pushed": "2026-10-30T09:04:05Z",
-   "topics": [
-    "arabic",
-    "cis-controls",
-    "compliance",
-    "cybersecurity",
-    "grc",
-    "iso27001"
-   ],
-   "fork": false,
-   "archived": false
-  },
-  {
-   "name": "help-eworldq8",
-   "description": "help.eworldq8.com — everyday computing help",
-   "url": "https://github.com/SiteQ8/help-eworldq8",
-   "homepage": null,
-   "stars": 0,
-   "forks": 0,
-   "language": "HTML",
-   "created": "2026-09-18T07:25:48Z",
-   "pushed": "2026-10-30T09:01:35Z",
-   "topics": [],
-   "fork": false,
-   "archived": false
-  },
-  {
    "name": "KWT5h13ld",
    "description": "KWT5H13LD is an open-source blue team security toolkit designed to protect, audit, and harden your infrastructure. One tool for everything — from cloud misconfiguration detection to incident response.",
    "url": "https://github.com/SiteQ8/KWT5h13ld",
@@ -309,27 +393,6 @@
     "blueteam",
     "cybersecurity",
     "kuwait"
-   ],
-   "fork": false,
-   "archived": false
-  },
-  {
-   "name": "Tayyar",
-   "description": "تيّار: بث مباشر لشهادات TLS وتنبيه بالأسماء التي تقلّد علامتك | Live TLS certificates from Certificate Transparency logs, with look-alike alerts in Arabic and English",
-   "url": "https://github.com/SiteQ8/Tayyar",
-   "homepage": "https://tayyar.3li.info",
-   "stars": 0,
-   "forks": 0,
-   "language": "JavaScript",
-   "created": "2026-09-25T09:31:59Z",
-   "pushed": "2026-10-30T04:54:12Z",
-   "topics": [
-    "arabic",
-    "brand-protection",
-    "certificate-transparency",
-    "homoglyph",
-    "kuwait",
-    "nodejs"
    ],
    "fork": false,
    "archived": false
@@ -407,27 +470,6 @@
     "gcc",
     "gulf",
     "home-maintenance"
-   ],
-   "fork": false,
-   "archived": false
-  },
-  {
-   "name": "Najjab",
-   "description": "نجّاب | The first hours of a cyber incident in the Gulf: who to notify and by when, with the official source of every deadline, plus playbooks, a bilingual notice draft, tabletop exercises and an MCP server.",
-   "url": "https://github.com/SiteQ8/Najjab",
-   "homepage": "https://najjab.3li.info",
-   "stars": 0,
-   "forks": 0,
-   "language": "JavaScript",
-   "created": "2026-10-02T15:28:13Z",
-   "pushed": "2026-10-15T10:14:03Z",
-   "topics": [
-    "arabic",
-    "bahrain",
-    "breach-notification",
-    "cybersecurity",
-    "gcc",
-    "incident-response"
    ],
    "fork": false,
    "archived": false
@@ -1095,27 +1137,6 @@
    "archived": false
   },
   {
-   "name": "miftah",
-   "description": "Cryptographic inventory and post quantum readiness. Scans code, certificates and live endpoints, writes a CycloneDX 1.6 CBOM, and scores exposure with Mosca inequality. Zero dependencies.",
-   "url": "https://github.com/SiteQ8/miftah",
-   "homepage": "https://siteq8.github.io/miftah/",
-   "stars": 0,
-   "forks": 0,
-   "language": "JavaScript",
-   "created": "2026-09-03T09:13:37Z",
-   "pushed": "2026-10-15T09:10:10Z",
-   "topics": [
-    "cbom",
-    "cryptography",
-    "cyclonedx",
-    "inventory",
-    "ml-dsa",
-    "ml-kem"
-   ],
-   "fork": false,
-   "archived": false
-  },
-  {
    "name": "Dir",
    "description": "An open source seawater desalination plant cyber range for Saudi Arabia, aligned to the NCA OTCC, with a live process simulation, MITRE ATT&CK for ICS scenarios and an MCP server.",
    "url": "https://github.com/SiteQ8/Dir",
@@ -1293,27 +1314,6 @@
     "cybersecurity",
     "gcc",
     "gulf"
-   ],
-   "fork": false,
-   "archived": false
-  },
-  {
-   "name": "Bunyan",
-   "description": "Security architecture handbook, pattern catalogue, and design advisor in English and Arabic",
-   "url": "https://github.com/SiteQ8/Bunyan",
-   "homepage": "https://siteq8.github.io/Bunyan/",
-   "stars": 0,
-   "forks": 0,
-   "language": "JavaScript",
-   "created": "2026-09-24T08:20:07Z",
-   "pushed": "2026-09-24T12:25:59Z",
-   "topics": [
-    "arabic",
-    "cis-controls",
-    "cybersecurity",
-    "design-patterns",
-    "iso27001",
-    "nist"
    ],
    "fork": false,
    "archived": false
@@ -3007,6 +3007,191 @@
  ],
  "events": [
   {
+   "repo": "SiteQ8/Tayyar",
+   "at": "2026-11-06T16:15:35Z",
+   "n": 1
+  },
+  {
+   "repo": "SiteQ8/Quran_Sunna",
+   "at": "2026-11-06T04:00:16Z",
+   "n": 1
+  },
+  {
+   "repo": "SiteQ8/miftah",
+   "at": "2026-11-06T14:18:41Z",
+   "n": 1
+  },
+  {
+   "repo": "SiteQ8/Najjab",
+   "at": "2026-11-06T15:14:47Z",
+   "n": 1
+  },
+  {
+   "repo": "SiteQ8/Tayyar",
+   "at": "2026-11-06T16:04:18Z",
+   "n": 1
+  },
+  {
+   "repo": "SiteQ8/Quran_Sunna",
+   "at": "2026-11-06T13:53:13Z",
+   "n": 1
+  },
+  {
+   "repo": "SiteQ8/Tayyar",
+   "at": "2026-11-06T16:12:34Z",
+   "n": 1
+  },
+  {
+   "repo": "SiteQ8/QACyberWatch",
+   "at": "2026-11-06T14:19:54Z",
+   "n": 1
+  },
+  {
+   "repo": "SiteQ8/Shabakah",
+   "at": "2026-11-06T14:08:24Z",
+   "n": 1
+  },
+  {
+   "repo": "SiteQ8/Tayyar",
+   "at": "2026-11-06T15:52:38Z",
+   "n": 1
+  },
+  {
+   "repo": "SiteQ8/Najjab",
+   "at": "2026-11-06T15:44:46Z",
+   "n": 1
+  },
+  {
+   "repo": "SiteQ8/Tayyar",
+   "at": "2026-11-06T16:16:11Z",
+   "n": 1
+  },
+  {
+   "repo": "SiteQ8/Tayyar",
+   "at": "2026-11-06T16:04:53Z",
+   "n": 1
+  },
+  {
+   "repo": "SiteQ8/Tayyar",
+   "at": "2026-11-06T15:28:19Z",
+   "n": 1
+  },
+  {
+   "repo": "SiteQ8/Najjab",
+   "at": "2026-11-06T15:22:06Z",
+   "n": 1
+  },
+  {
+   "repo": "SiteQ8/Quran_Sunna",
+   "at": "2026-11-05T23:17:44Z",
+   "n": 1
+  },
+  {
+   "repo": "SiteQ8/help-eworldq8",
+   "at": "2026-11-06T14:29:28Z",
+   "n": 1
+  },
+  {
+   "repo": "SiteQ8/Bunyan",
+   "at": "2026-11-06T15:40:16Z",
+   "n": 1
+  },
+  {
+   "repo": "SiteQ8/Tayyar",
+   "at": "2026-11-06T15:32:26Z",
+   "n": 1
+  },
+  {
+   "repo": "SiteQ8/SC-100",
+   "at": "2026-11-06T14:01:17Z",
+   "n": 1
+  },
+  {
+   "repo": "SiteQ8/Quran_Sunna",
+   "at": "2026-11-06T13:31:46Z",
+   "n": 1
+  },
+  {
+   "repo": "SiteQ8/Najjab",
+   "at": "2026-11-06T10:28:56Z",
+   "n": 1
+  },
+  {
+   "repo": "SiteQ8/Tawash",
+   "at": "2026-11-06T09:15:42Z",
+   "n": 1
+  },
+  {
+   "repo": "SiteQ8/Kuwait-NBCC",
+   "at": "2026-11-06T14:31:21Z",
+   "n": 1
+  },
+  {
+   "repo": "SiteQ8/Kuwait-NBCC",
+   "at": "2026-11-06T14:18:33Z",
+   "n": 1
+  },
+  {
+   "repo": "SiteQ8/Quran_Sunna",
+   "at": "2026-11-06T13:37:10Z",
+   "n": 1
+  },
+  {
+   "repo": "SiteQ8/Najjab",
+   "at": "2026-11-06T15:29:46Z",
+   "n": 1
+  },
+  {
+   "repo": "SiteQ8/Sadu",
+   "at": "2026-11-06T09:29:51Z",
+   "n": 1
+  },
+  {
+   "repo": "SiteQ8/Miyar",
+   "at": "2026-11-06T09:20:43Z",
+   "n": 1
+  },
+  {
+   "repo": "SiteQ8/Miyar",
+   "at": "2026-11-06T09:20:41Z",
+   "n": 1
+  },
+  {
+   "repo": "SiteQ8/Shabakah",
+   "at": "2026-11-06T14:10:05Z",
+   "n": 1
+  },
+  {
+   "repo": "SiteQ8/Quran_Sunna",
+   "at": "2026-11-06T08:46:21Z",
+   "n": 1
+  },
+  {
+   "repo": "SiteQ8/Quran_Sunna",
+   "at": "2026-11-06T10:10:43Z",
+   "n": 1
+  },
+  {
+   "repo": "SiteQ8/Quran_Sunna",
+   "at": "2026-11-06T11:56:59Z",
+   "n": 1
+  },
+  {
+   "repo": "SiteQ8/Najjab",
+   "at": "2026-11-06T10:35:08Z",
+   "n": 1
+  },
+  {
+   "repo": "SiteQ8/Quran_Sunna",
+   "at": "2026-11-06T04:02:03Z",
+   "n": 1
+  },
+  {
+   "repo": "SiteQ8/Quran_Sunna",
+   "at": "2026-11-06T09:47:33Z",
+   "n": 1
+  },
+  {
    "repo": "SiteQ8/Quran_Sunna",
    "at": "2026-11-05T22:43:18Z",
    "n": 1
@@ -3134,71 +3319,6 @@
   {
    "repo": "SiteQ8/SiteQ8",
    "at": "2026-10-28T18:10:40Z",
-   "n": 1
-  },
-  {
-   "repo": "github/advisory-database",
-   "at": "2026-10-28T05:59:34Z",
-   "n": 1
-  },
-  {
-   "repo": "SiteQ8/SiteQ8",
-   "at": "2026-10-28T18:15:39Z",
-   "n": 1
-  },
-  {
-   "repo": "github/advisory-database",
-   "at": "2026-10-28T06:00:11Z",
-   "n": 1
-  },
-  {
-   "repo": "github/advisory-database",
-   "at": "2026-10-28T05:59:53Z",
-   "n": 1
-  },
-  {
-   "repo": "github/advisory-database",
-   "at": "2026-10-28T06:19:12Z",
-   "n": 1
-  },
-  {
-   "repo": "github/advisory-database",
-   "at": "2026-10-28T05:56:15Z",
-   "n": 1
-  },
-  {
-   "repo": "github/advisory-database",
-   "at": "2026-10-28T06:00:58Z",
-   "n": 1
-  },
-  {
-   "repo": "github/advisory-database",
-   "at": "2026-10-28T05:55:16Z",
-   "n": 1
-  },
-  {
-   "repo": "SiteQ8/Raed",
-   "at": "2026-10-26T08:31:12Z",
-   "n": 1
-  },
-  {
-   "repo": "SiteQ8/Raed",
-   "at": "2026-10-26T08:12:08Z",
-   "n": 1
-  },
-  {
-   "repo": "SiteQ8/Quran_Sunna",
-   "at": "2026-10-25T14:45:46Z",
-   "n": 1
-  },
-  {
-   "repo": "SiteQ8/Raed",
-   "at": "2026-10-26T08:23:25Z",
-   "n": 1
-  },
-  {
-   "repo": "SiteQ8/Raed",
-   "at": "2026-10-26T08:07:04Z",
    "n": 1
   }
  ]
