@@ -1,4 +1,4 @@
-/* 3li.info · Ali AlEnezi — portfolio app. Vanilla JS, no build step, works from file:// too. */
+/* 3li.info · Ali AlEnezi: portfolio app. Vanilla JS, no build step, works from file:// too. */
 (function () {
   'use strict';
   const D = window.SITE_DATA;
