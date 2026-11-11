@@ -58,7 +58,7 @@ Location     Kuwait 🇰🇼   ·   Building in Arabic and English
 
 ### `> ls ~/flagship`
 
-**☁️  Cloud & Container Security**
+**Cloud & Container Security**
 
 | Project | What it does |
 |:--------|:-------------|
@@ -67,7 +67,7 @@ Location     Kuwait 🇰🇼   ·   Building in Arabic and English
 | [**CloudMCP-Arsenal**](https://github.com/SiteQ8/CloudMCP-Arsenal) | MCP servers and AI agent attacks and defenses for cloud security, covering both the offensive and the defensive side of AI agents. |
 | [**InfraCode**](https://github.com/SiteQ8/InfraCode) | Declarative infrastructure as code with state management, drift detection, and compliance enforcement across multi cloud. |
 
-**🏭  ICS / OT / IoT Security**
+**ICS / OT / IoT Security**
 
 | Project | What it does |
 |:--------|:-------------|
@@ -77,7 +77,7 @@ Location     Kuwait 🇰🇼   ·   Building in Arabic and English
 | [**OTAUD**](https://github.com/SiteQ8/OTAUD) | An all in one open source auditing framework for ICS, IoT, and OT environments. |
 | [**Smart Mubarakiya**](https://mubarakiya.3li.info/) `المباركية` | A personal vision for a safer Souq Al-Mubarakiya through smart technology that works in silence, in English and Arabic: a map twin of all 67 places with real coordinates and a street map, five playable drills with recorded Kuwaiti announcements, a scenario builder and rooms for group training, an operations view that follows a real broker, a trust zoned IEC 62443 blueprint reviewed with Hisn and reported in both languages, plain language throughout, accessible, printable, and offline. Part of an educational experience, shared to read and discuss. |
 
-**📋  GRC, Compliance & Frameworks**
+**GRC, Compliance & Frameworks**
 
 | Project | What it does |
 |:--------|:-------------|
@@ -89,7 +89,7 @@ Location     Kuwait 🇰🇼   ·   Building in Arabic and English
 | [**CIS Kuwait Assessment**](https://github.com/SiteQ8/CIS-Kuwait-Assessment) | CIS Benchmark compliance checker for Kuwait government entities. |
 | [**Arabic InfoSec Policies**](https://github.com/SiteQ8/arabic-infosec-policies) `سياسات` | A collection of information security policies in Arabic, developed according to the latest global standards. |
 
-**🔎  Threat Hunting & DFIR**
+**Threat Hunting & DFIR**
 
 | Project | What it does |
 |:--------|:-------------|
@@ -98,7 +98,7 @@ Location     Kuwait 🇰🇼   ·   Building in Arabic and English
 | [**Athar**](https://github.com/SiteQ8/Athar) `أثر` | Offline network forensics workbench: BPF builder, statistical beacon detection, DGA scoring, and a command forge for tshark, Zeek, and Arkime. Air gapped, zero telemetry. |
 | [**LLM-DFIR**](https://github.com/SiteQ8/LLM-DFIR) | Forensic artifact taxonomy, triage scripts, and IR playbooks for AI, LLM, MCP, and Copilot artifacts across Windows, macOS, and Linux. |
 
-**🏗️  AppSec, Architecture & Modeling**
+**AppSec, Architecture & Modeling**
 
 | Project | What it does |
 |:--------|:-------------|
@@ -107,7 +107,7 @@ Location     Kuwait 🇰🇼   ·   Building in Arabic and English
 | [**APIShield**](https://github.com/SiteQ8/APIShield) | API security testing across the OWASP API Top 10: BOLA, authentication, SSRF, injection, rate limiting, and mass assignment, with JSON and HTML reports. |
 | [**LeakHound**](https://github.com/SiteQ8/LeakHound) | A zero dependency scanner that catches leaked secrets before they ship. |
 
-**📡  Security Operations & Intelligence**
+**Security Operations & Intelligence**
 
 | Project | What it does |
 |:--------|:-------------|
@@ -117,14 +117,14 @@ Location     Kuwait 🇰🇼   ·   Building in Arabic and English
 | [**KWTCyberWatch**](https://github.com/SiteQ8/KWTCyberWatch) | Certificate transparency monitoring, domain squatting detection, and brand impersonation alerting, built for Kuwait's digital ecosystem. |
 | [**CISO Dashboard**](https://github.com/SiteQ8/CISO-Dashboard) | A CISO friendly governance dashboard for KPIs, controls coverage, incidents, and risk posture at a glance. |
 
-**📚  Books**
+**Books**
 
 | Title | What it is |
 |:------|:-----------|
 | [**المرجع الخليجي الشامل في الأمن السيبراني**](https://gulfcyber.3li.info/) `Arabic` | The Comprehensive Gulf Reference in Cybersecurity: a 387 page Arabic textbook in eighteen chapters, from the foundations and controls to operations and governance, with the Gulf's regulatory frameworks, data laws and incidents in their place in every chapter. Written in clear Arabic for university students, practitioners and leaders. [Read the first chapter free](https://gulfcyber.3li.info/samples/), use the [interactive checklists](https://gulfcyber.3li.info/checklists/), or [get it on Amazon](https://www.amazon.com/dp/B0HM43FH5C). |
 | [**Cybersecurity in the Gulf**](https://cyberingulf.3li.info/) `English` | Foundations, Regulation, and Practice for the GCC States: the threats, the laws and the practice of all six Gulf states in one textbook, with thirty seven diagrams and four national instruments opened control by control. [Paperback](https://www.amazon.com/dp/B0HM6QFZDB) and [Kindle](https://www.amazon.com/dp/B0HM2WZM7C) on Amazon, with a [companion repository](https://github.com/SiteQ8/Cybersecurity-in-the-Gulf). |
 
-**🎓  Training & Awareness**
+**Training & Awareness**
 
 | Project | What it does |
 |:--------|:-------------|
