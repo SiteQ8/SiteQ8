@@ -1,5 +1,5 @@
 {
- "at": "2026-11-13T22:34:50.657Z",
+ "at": "2026-11-15T01:51:08.689Z",
  "source": "snapshot",
  "user": {
   "public_repos": 170,
@@ -11,6 +11,23 @@
  },
  "repos": [
   {
+   "name": "KWTCyberWatch",
+   "description": "Kuwait phishing detection & brand protection: live Certificate Transparency monitoring, IDN/Arabic-aware typosquat and brand-impersonation detection for 26 Kuwaiti banks, telecoms and government services, alert triage, threat-intel enrichment and a fully client-side analyst console.",
+   "url": "https://github.com/SiteQ8/KWTCyberWatch",
+   "homepage": "http://kwtcyberwatch.3li.info/",
+   "stars": 0,
+   "forks": 1,
+   "language": "Python",
+   "created": "2024-11-06T12:50:11Z",
+   "pushed": "2026-11-15T01:49:10Z",
+   "topics": [
+    "cybersecurity",
+    "phishing"
+   ],
+   "fork": false,
+   "archived": false
+  },
+  {
    "name": "Raed",
    "description": "Arabic CVE record site: hourly updates, Arabic summaries, CISA KEV and EPSS",
    "url": "https://github.com/SiteQ8/Raed",
@@ -19,7 +36,7 @@
    "forks": 0,
    "language": "HTML",
    "created": "2026-10-25T04:54:26Z",
-   "pushed": "2026-11-13T22:28:43Z",
+   "pushed": "2026-11-15T01:27:54Z",
    "topics": [
     "cve",
     "cve-scanning",
@@ -40,7 +57,7 @@
    "forks": 0,
    "language": "Python",
    "created": "2026-10-03T12:18:56Z",
-   "pushed": "2026-11-13T21:22:14Z",
+   "pushed": "2026-11-15T00:03:46Z",
    "topics": [
     "brand-protection",
     "certificate-transparency",
@@ -61,7 +78,7 @@
    "forks": 0,
    "language": "JavaScript",
    "created": "2026-09-23T13:30:26Z",
-   "pushed": "2026-11-13T19:44:50Z",
+   "pushed": "2026-11-14T22:26:34Z",
    "topics": [
     "anti-fraud",
     "arabic",
@@ -69,44 +86,6 @@
     "certificate-transparency",
     "kuwait",
     "open-data"
-   ],
-   "fork": false,
-   "archived": false
-  },
-  {
-   "name": "KWTCyberWatch",
-   "description": "Kuwait phishing detection & brand protection: live Certificate Transparency monitoring, IDN/Arabic-aware typosquat and brand-impersonation detection for 26 Kuwaiti banks, telecoms and government services, alert triage, threat-intel enrichment and a fully client-side analyst console.",
-   "url": "https://github.com/SiteQ8/KWTCyberWatch",
-   "homepage": "http://kwtcyberwatch.3li.info/",
-   "stars": 0,
-   "forks": 1,
-   "language": "Python",
-   "created": "2024-11-06T12:50:11Z",
-   "pushed": "2026-11-13T18:37:49Z",
-   "topics": [
-    "cybersecurity",
-    "phishing"
-   ],
-   "fork": false,
-   "archived": false
-  },
-  {
-   "name": "Quran_Sunna",
-   "description": "سُنّتي | تطبيق إسلامي شامل — القرآن · أوقات الصلاة · ١٦ قسم أذكار · السنن · الأحاديث · الرقية · الأدعية · المسبحة · القبلة | Sunnati Islamic App",
-   "url": "https://github.com/SiteQ8/Quran_Sunna",
-   "homepage": "https://sunnati.3li.info",
-   "stars": 0,
-   "forks": 0,
-   "language": "JavaScript",
-   "created": "2026-03-09T12:03:14Z",
-   "pushed": "2026-11-13T17:12:58Z",
-   "topics": [
-    "arabic",
-    "asma-ul-husna",
-    "azkar",
-    "dhikr",
-    "dua",
-    "hadith"
    ],
    "fork": false,
    "archived": false
@@ -120,7 +99,7 @@
    "forks": 0,
    "language": "HTML",
    "created": "2026-09-08T06:16:42Z",
-   "pushed": "2026-11-13T14:08:33Z",
+   "pushed": "2026-11-14T13:09:35Z",
    "topics": [
     "azure-security",
     "certification",
@@ -128,6 +107,27 @@
     "defender",
     "exam-prep",
     "mct"
+   ],
+   "fork": false,
+   "archived": false
+  },
+  {
+   "name": "Quran_Sunna",
+   "description": "سُنّتي | تطبيق إسلامي شامل — القرآن · أوقات الصلاة · ١٦ قسم أذكار · السنن · الأحاديث · الرقية · الأدعية · المسبحة · القبلة | Sunnati Islamic App",
+   "url": "https://github.com/SiteQ8/Quran_Sunna",
+   "homepage": "https://sunnati.3li.info",
+   "stars": 0,
+   "forks": 0,
+   "language": "JavaScript",
+   "created": "2026-03-09T12:03:14Z",
+   "pushed": "2026-11-14T11:41:47Z",
+   "topics": [
+    "arabic",
+    "asma-ul-husna",
+    "azkar",
+    "dhikr",
+    "dua",
+    "hadith"
    ],
    "fork": false,
    "archived": false
@@ -141,7 +141,7 @@
    "forks": 0,
    "language": "JavaScript",
    "created": "2025-10-09T05:31:07Z",
-   "pushed": "2026-11-12T18:52:22Z",
+   "pushed": "2026-11-13T22:34:51Z",
    "topics": [
     "kuwait"
    ],
@@ -1028,7 +1028,7 @@
    "description": "OSINT Intelligence Platform featuring 20 modules across 13 categories including DNS, Subdomains, Shodan, Email, WHOIS, Telegram, Dark Web, Crypto, Google Dorks, CertStream, Social Media, Username Probing, Phone, Image, Wayback, and GitHub with API key support.",
    "url": "https://github.com/SiteQ8/PublicEye",
    "homepage": "https://siteq8.github.io/PublicEye",
-   "stars": 4,
+   "stars": 5,
    "forks": 1,
    "language": "Python",
    "created": "2026-03-09T11:43:05Z",
@@ -3021,6 +3021,11 @@
  ],
  "events": [
   {
+   "repo": "SiteQ8/digital-inventory",
+   "at": "2026-11-12T16:19:28Z",
+   "n": 1
+  },
+  {
    "repo": "SiteQ8/Nokhatha",
    "at": "2026-11-11T12:35:27Z",
    "n": 1
@@ -3498,16 +3503,6 @@
   {
    "repo": "SiteQ8/KaliMCP",
    "at": "2026-11-11T12:31:25Z",
-   "n": 1
-  },
-  {
-   "repo": "SiteQ8/Diwan",
-   "at": "2026-11-11T12:31:06Z",
-   "n": 1
-  },
-  {
-   "repo": "SiteQ8/gbaseline",
-   "at": "2026-11-11T12:02:05Z",
    "n": 1
   }
  ]
