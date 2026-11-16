@@ -1,5 +1,5 @@
 {
- "at": "2026-11-15T01:51:08.689Z",
+ "at": "2026-11-16T01:58:25.900Z",
  "source": "snapshot",
  "user": {
   "public_repos": 170,
@@ -11,23 +11,6 @@
  },
  "repos": [
   {
-   "name": "KWTCyberWatch",
-   "description": "Kuwait phishing detection & brand protection: live Certificate Transparency monitoring, IDN/Arabic-aware typosquat and brand-impersonation detection for 26 Kuwaiti banks, telecoms and government services, alert triage, threat-intel enrichment and a fully client-side analyst console.",
-   "url": "https://github.com/SiteQ8/KWTCyberWatch",
-   "homepage": "http://kwtcyberwatch.3li.info/",
-   "stars": 0,
-   "forks": 1,
-   "language": "Python",
-   "created": "2024-11-06T12:50:11Z",
-   "pushed": "2026-11-15T01:49:10Z",
-   "topics": [
-    "cybersecurity",
-    "phishing"
-   ],
-   "fork": false,
-   "archived": false
-  },
-  {
    "name": "Raed",
    "description": "Arabic CVE record site: hourly updates, Arabic summaries, CISA KEV and EPSS",
    "url": "https://github.com/SiteQ8/Raed",
@@ -36,7 +19,7 @@
    "forks": 0,
    "language": "HTML",
    "created": "2026-10-25T04:54:26Z",
-   "pushed": "2026-11-15T01:27:54Z",
+   "pushed": "2026-11-16T01:28:40Z",
    "topics": [
     "cve",
     "cve-scanning",
@@ -44,6 +27,23 @@
     "secure",
     "security",
     "security-audit"
+   ],
+   "fork": false,
+   "archived": false
+  },
+  {
+   "name": "KWTCyberWatch",
+   "description": "Kuwait phishing detection & brand protection: live Certificate Transparency monitoring, IDN/Arabic-aware typosquat and brand-impersonation detection for 26 Kuwaiti banks, telecoms and government services, alert triage, threat-intel enrichment and a fully client-side analyst console.",
+   "url": "https://github.com/SiteQ8/KWTCyberWatch",
+   "homepage": "http://kwtcyberwatch.3li.info/",
+   "stars": 0,
+   "forks": 1,
+   "language": "Python",
+   "created": "2024-11-06T12:50:11Z",
+   "pushed": "2026-11-16T00:31:03Z",
+   "topics": [
+    "cybersecurity",
+    "phishing"
    ],
    "fork": false,
    "archived": false
@@ -57,7 +57,7 @@
    "forks": 0,
    "language": "Python",
    "created": "2026-10-03T12:18:56Z",
-   "pushed": "2026-11-15T00:03:46Z",
+   "pushed": "2026-11-15T23:53:26Z",
    "topics": [
     "brand-protection",
     "certificate-transparency",
@@ -78,7 +78,7 @@
    "forks": 0,
    "language": "JavaScript",
    "created": "2026-09-23T13:30:26Z",
-   "pushed": "2026-11-14T22:26:34Z",
+   "pushed": "2026-11-15T18:55:20Z",
    "topics": [
     "anti-fraud",
     "arabic",
@@ -99,7 +99,7 @@
    "forks": 0,
    "language": "HTML",
    "created": "2026-09-08T06:16:42Z",
-   "pushed": "2026-11-14T13:09:35Z",
+   "pushed": "2026-11-15T13:38:06Z",
    "topics": [
     "azure-security",
     "certification",
@@ -107,6 +107,22 @@
     "defender",
     "exam-prep",
     "mct"
+   ],
+   "fork": false,
+   "archived": false
+  },
+  {
+   "name": "SiteQ8",
+   "description": "Hi there! 👋 I am Ali AlEnezi, Cybersecurity Expert from 🇰🇼",
+   "url": "https://github.com/SiteQ8/SiteQ8",
+   "homepage": "https://siteq8.github.io/SiteQ8/",
+   "stars": 0,
+   "forks": 0,
+   "language": "JavaScript",
+   "created": "2025-10-09T05:31:07Z",
+   "pushed": "2026-11-15T01:51:09Z",
+   "topics": [
+    "kuwait"
    ],
    "fork": false,
    "archived": false
@@ -128,22 +144,6 @@
     "dhikr",
     "dua",
     "hadith"
-   ],
-   "fork": false,
-   "archived": false
-  },
-  {
-   "name": "SiteQ8",
-   "description": "Hi there! 👋 I am Ali AlEnezi, Cybersecurity Expert from 🇰🇼",
-   "url": "https://github.com/SiteQ8/SiteQ8",
-   "homepage": "https://siteq8.github.io/SiteQ8/",
-   "stars": 0,
-   "forks": 0,
-   "language": "JavaScript",
-   "created": "2025-10-09T05:31:07Z",
-   "pushed": "2026-11-13T22:34:51Z",
-   "topics": [
-    "kuwait"
    ],
    "fork": false,
    "archived": false
@@ -3021,6 +3021,26 @@
  ],
  "events": [
   {
+   "repo": "SiteQ8/Quran_Sunna",
+   "at": "2026-11-13T16:46:07Z",
+   "n": 1
+  },
+  {
+   "repo": "SiteQ8/Quran_Sunna",
+   "at": "2026-11-13T09:12:32Z",
+   "n": 1
+  },
+  {
+   "repo": "SiteQ8/Quran_Sunna",
+   "at": "2026-11-13T08:39:58Z",
+   "n": 1
+  },
+  {
+   "repo": "SiteQ8/Quran_Sunna",
+   "at": "2026-11-13T08:00:25Z",
+   "n": 1
+  },
+  {
    "repo": "SiteQ8/digital-inventory",
    "at": "2026-11-12T16:19:28Z",
    "n": 1
@@ -3483,26 +3503,6 @@
   {
    "repo": "SiteQ8/cbk-corf-toolkit",
    "at": "2026-11-11T12:33:23Z",
-   "n": 1
-  },
-  {
-   "repo": "SiteQ8/SecureArch",
-   "at": "2026-11-11T12:32:53Z",
-   "n": 1
-  },
-  {
-   "repo": "SiteQ8/Naqsha",
-   "at": "2026-11-11T12:32:06Z",
-   "n": 1
-  },
-  {
-   "repo": "SiteQ8/Marsad",
-   "at": "2026-11-11T12:31:57Z",
-   "n": 1
-  },
-  {
-   "repo": "SiteQ8/KaliMCP",
-   "at": "2026-11-11T12:31:25Z",
    "n": 1
   }
  ]
