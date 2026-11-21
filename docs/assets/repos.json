@@ -1,5 +1,5 @@
 {
- "at": "2026-11-20T20:05:40.860Z",
+ "at": "2026-11-21T23:09:13.469Z",
  "source": "snapshot",
  "user": {
   "public_repos": 170,
@@ -19,7 +19,7 @@
    "forks": 0,
    "language": "HTML",
    "created": "2026-10-25T04:54:26Z",
-   "pushed": "2026-11-20T19:28:13Z",
+   "pushed": "2026-11-21T22:28:44Z",
    "topics": [
     "cve",
     "cve-scanning",
@@ -40,7 +40,7 @@
    "forks": 1,
    "language": "Python",
    "created": "2024-11-06T12:50:11Z",
-   "pushed": "2026-11-20T19:18:45Z",
+   "pushed": "2026-11-21T21:24:16Z",
    "topics": [
     "cybersecurity",
     "phishing"
@@ -57,7 +57,7 @@
    "forks": 0,
    "language": "Python",
    "created": "2026-10-03T12:18:56Z",
-   "pushed": "2026-11-20T17:58:12Z",
+   "pushed": "2026-11-21T21:03:03Z",
    "topics": [
     "brand-protection",
     "certificate-transparency",
@@ -65,6 +65,27 @@
     "domain-monitoring",
     "javascript",
     "phishing-detection"
+   ],
+   "fork": false,
+   "archived": false
+  },
+  {
+   "name": "Asli",
+   "description": "مشروع درع الكويت المفتوح ضد الاحتيال | Kuwait's open scam shield: a verified registry of genuine official channels and a reviewed feed of scam links and numbers.",
+   "url": "https://github.com/SiteQ8/Asli",
+   "homepage": "https://asli.3li.info/",
+   "stars": 0,
+   "forks": 0,
+   "language": "JavaScript",
+   "created": "2026-09-23T13:30:26Z",
+   "pushed": "2026-11-21T19:17:44Z",
+   "topics": [
+    "anti-fraud",
+    "arabic",
+    "bilingual",
+    "certificate-transparency",
+    "kuwait",
+    "open-data"
    ],
    "fork": false,
    "archived": false
@@ -78,7 +99,7 @@
    "forks": 0,
    "language": "HTML",
    "created": "2026-09-08T06:16:42Z",
-   "pushed": "2026-11-20T15:01:39Z",
+   "pushed": "2026-11-21T14:23:25Z",
    "topics": [
     "azure-security",
     "certification",
@@ -86,6 +107,22 @@
     "defender",
     "exam-prep",
     "mct"
+   ],
+   "fork": false,
+   "archived": false
+  },
+  {
+   "name": "SiteQ8",
+   "description": "Hi there! 👋 I am Ali AlEnezi, Cybersecurity Expert from 🇰🇼",
+   "url": "https://github.com/SiteQ8/SiteQ8",
+   "homepage": "https://siteq8.github.io/SiteQ8/",
+   "stars": 0,
+   "forks": 0,
+   "language": "JavaScript",
+   "created": "2025-10-09T05:31:07Z",
+   "pushed": "2026-11-20T20:05:42Z",
+   "topics": [
+    "kuwait"
    ],
    "fork": false,
    "archived": false
@@ -107,43 +144,6 @@
     "dhikr",
     "dua",
     "hadith"
-   ],
-   "fork": false,
-   "archived": false
-  },
-  {
-   "name": "Asli",
-   "description": "مشروع درع الكويت المفتوح ضد الاحتيال | Kuwait's open scam shield: a verified registry of genuine official channels and a reviewed feed of scam links and numbers.",
-   "url": "https://github.com/SiteQ8/Asli",
-   "homepage": "https://asli.3li.info/",
-   "stars": 0,
-   "forks": 0,
-   "language": "JavaScript",
-   "created": "2026-09-23T13:30:26Z",
-   "pushed": "2026-11-20T07:13:42Z",
-   "topics": [
-    "anti-fraud",
-    "arabic",
-    "bilingual",
-    "certificate-transparency",
-    "kuwait",
-    "open-data"
-   ],
-   "fork": false,
-   "archived": false
-  },
-  {
-   "name": "SiteQ8",
-   "description": "Hi there! 👋 I am Ali AlEnezi, Cybersecurity Expert from 🇰🇼",
-   "url": "https://github.com/SiteQ8/SiteQ8",
-   "homepage": "https://siteq8.github.io/SiteQ8/",
-   "stars": 0,
-   "forks": 0,
-   "language": "JavaScript",
-   "created": "2025-10-09T05:31:07Z",
-   "pushed": "2026-11-19T12:56:25Z",
-   "topics": [
-    "kuwait"
    ],
    "fork": false,
    "archived": false
@@ -3022,6 +3022,16 @@
  "events": [
   {
    "repo": "SiteQ8/Quran_Sunna",
+   "at": "2026-11-19T14:40:22Z",
+   "n": 1
+  },
+  {
+   "repo": "SiteQ8/Quran_Sunna",
+   "at": "2026-11-20T08:08:38Z",
+   "n": 1
+  },
+  {
+   "repo": "SiteQ8/Quran_Sunna",
    "at": "2026-11-20T07:55:18Z",
    "n": 1
   },
@@ -3488,16 +3498,6 @@
   {
    "repo": "SiteQ8/SiteQ8",
    "at": "2026-11-11T11:57:42Z",
-   "n": 1
-  },
-  {
-   "repo": "SiteQ8/gbaseline",
-   "at": "2026-11-11T12:35:48Z",
-   "n": 1
-  },
-  {
-   "repo": "SiteQ8/scam-game",
-   "at": "2026-11-11T12:35:37Z",
    "n": 1
   }
  ]
