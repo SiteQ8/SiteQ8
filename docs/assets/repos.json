@@ -1,5 +1,5 @@
 {
- "at": "2026-11-21T23:09:13.469Z",
+ "at": "2026-11-23T00:48:21.749Z",
  "source": "snapshot",
  "user": {
   "public_repos": 170,
@@ -11,6 +11,27 @@
  },
  "repos": [
   {
+   "name": "QACyberWatch",
+   "description": "Phishing detection and brand protection for the State of Qatar: live Certificate Transparency monitoring, look-alike domain hunting and brand impersonation alerts for Qatari banks, payments, telecoms and government services.",
+   "url": "https://github.com/SiteQ8/QACyberWatch",
+   "homepage": "https://qacyberwatch.3li.info/",
+   "stars": 0,
+   "forks": 0,
+   "language": "Python",
+   "created": "2026-10-03T12:18:56Z",
+   "pushed": "2026-11-22T21:59:56Z",
+   "topics": [
+    "brand-protection",
+    "certificate-transparency",
+    "cybersecurity",
+    "domain-monitoring",
+    "javascript",
+    "phishing-detection"
+   ],
+   "fork": false,
+   "archived": false
+  },
+  {
    "name": "Raed",
    "description": "Arabic CVE record site: hourly updates, Arabic summaries, CISA KEV and EPSS",
    "url": "https://github.com/SiteQ8/Raed",
@@ -19,7 +40,7 @@
    "forks": 0,
    "language": "HTML",
    "created": "2026-10-25T04:54:26Z",
-   "pushed": "2026-11-21T22:28:44Z",
+   "pushed": "2026-11-22T21:50:01Z",
    "topics": [
     "cve",
     "cve-scanning",
@@ -40,31 +61,10 @@
    "forks": 1,
    "language": "Python",
    "created": "2024-11-06T12:50:11Z",
-   "pushed": "2026-11-21T21:24:16Z",
+   "pushed": "2026-11-22T21:47:02Z",
    "topics": [
     "cybersecurity",
     "phishing"
-   ],
-   "fork": false,
-   "archived": false
-  },
-  {
-   "name": "QACyberWatch",
-   "description": "Phishing detection and brand protection for the State of Qatar: live Certificate Transparency monitoring, look-alike domain hunting and brand impersonation alerts for Qatari banks, payments, telecoms and government services.",
-   "url": "https://github.com/SiteQ8/QACyberWatch",
-   "homepage": "https://qacyberwatch.3li.info/",
-   "stars": 0,
-   "forks": 0,
-   "language": "Python",
-   "created": "2026-10-03T12:18:56Z",
-   "pushed": "2026-11-21T21:03:03Z",
-   "topics": [
-    "brand-protection",
-    "certificate-transparency",
-    "cybersecurity",
-    "domain-monitoring",
-    "javascript",
-    "phishing-detection"
    ],
    "fork": false,
    "archived": false
@@ -78,7 +78,7 @@
    "forks": 0,
    "language": "JavaScript",
    "created": "2026-09-23T13:30:26Z",
-   "pushed": "2026-11-21T19:17:44Z",
+   "pushed": "2026-11-22T19:32:53Z",
    "topics": [
     "anti-fraud",
     "arabic",
@@ -99,7 +99,7 @@
    "forks": 0,
    "language": "HTML",
    "created": "2026-09-08T06:16:42Z",
-   "pushed": "2026-11-21T14:23:25Z",
+   "pushed": "2026-11-22T14:15:54Z",
    "topics": [
     "azure-security",
     "certification",
@@ -120,7 +120,7 @@
    "forks": 0,
    "language": "JavaScript",
    "created": "2025-10-09T05:31:07Z",
-   "pushed": "2026-11-20T20:05:42Z",
+   "pushed": "2026-11-21T23:09:14Z",
    "topics": [
     "kuwait"
    ],
@@ -3022,6 +3022,21 @@
  "events": [
   {
    "repo": "SiteQ8/Quran_Sunna",
+   "at": "2026-11-20T07:59:57Z",
+   "n": 1
+  },
+  {
+   "repo": "SiteQ8/Quran_Sunna",
+   "at": "2026-11-20T08:45:50Z",
+   "n": 1
+  },
+  {
+   "repo": "SiteQ8/Quran_Sunna",
+   "at": "2026-11-20T08:27:56Z",
+   "n": 1
+  },
+  {
+   "repo": "SiteQ8/Quran_Sunna",
    "at": "2026-11-19T14:40:22Z",
    "n": 1
   },
@@ -3483,21 +3498,6 @@
   {
    "repo": "SiteQ8/m365-pci-pan-hunt",
    "at": "2026-11-11T11:58:14Z",
-   "n": 1
-  },
-  {
-   "repo": "SiteQ8/ics-iot-ot-hardening",
-   "at": "2026-11-11T11:57:59Z",
-   "n": 1
-  },
-  {
-   "repo": "SiteQ8/duaarepo",
-   "at": "2026-11-11T11:57:54Z",
-   "n": 1
-  },
-  {
-   "repo": "SiteQ8/SiteQ8",
-   "at": "2026-11-11T11:57:42Z",
    "n": 1
   }
  ]
