@@ -1,5 +1,5 @@
 {
- "at": "2026-11-23T00:48:21.749Z",
+ "at": "2026-11-24T05:57:49.566Z",
  "source": "snapshot",
  "user": {
   "public_repos": 170,
@@ -11,27 +11,6 @@
  },
  "repos": [
   {
-   "name": "QACyberWatch",
-   "description": "Phishing detection and brand protection for the State of Qatar: live Certificate Transparency monitoring, look-alike domain hunting and brand impersonation alerts for Qatari banks, payments, telecoms and government services.",
-   "url": "https://github.com/SiteQ8/QACyberWatch",
-   "homepage": "https://qacyberwatch.3li.info/",
-   "stars": 0,
-   "forks": 0,
-   "language": "Python",
-   "created": "2026-10-03T12:18:56Z",
-   "pushed": "2026-11-22T21:59:56Z",
-   "topics": [
-    "brand-protection",
-    "certificate-transparency",
-    "cybersecurity",
-    "domain-monitoring",
-    "javascript",
-    "phishing-detection"
-   ],
-   "fork": false,
-   "archived": false
-  },
-  {
    "name": "Raed",
    "description": "Arabic CVE record site: hourly updates, Arabic summaries, CISA KEV and EPSS",
    "url": "https://github.com/SiteQ8/Raed",
@@ -40,7 +19,7 @@
    "forks": 0,
    "language": "HTML",
    "created": "2026-10-25T04:54:26Z",
-   "pushed": "2026-11-22T21:50:01Z",
+   "pushed": "2026-11-24T00:56:54Z",
    "topics": [
     "cve",
     "cve-scanning",
@@ -48,23 +27,6 @@
     "secure",
     "security",
     "security-audit"
-   ],
-   "fork": false,
-   "archived": false
-  },
-  {
-   "name": "KWTCyberWatch",
-   "description": "Kuwait phishing detection & brand protection: live Certificate Transparency monitoring, IDN/Arabic-aware typosquat and brand-impersonation detection for 26 Kuwaiti banks, telecoms and government services, alert triage, threat-intel enrichment and a fully client-side analyst console.",
-   "url": "https://github.com/SiteQ8/KWTCyberWatch",
-   "homepage": "http://kwtcyberwatch.3li.info/",
-   "stars": 0,
-   "forks": 1,
-   "language": "Python",
-   "created": "2024-11-06T12:50:11Z",
-   "pushed": "2026-11-22T21:47:02Z",
-   "topics": [
-    "cybersecurity",
-    "phishing"
    ],
    "fork": false,
    "archived": false
@@ -78,7 +40,7 @@
    "forks": 0,
    "language": "JavaScript",
    "created": "2026-09-23T13:30:26Z",
-   "pushed": "2026-11-22T19:32:53Z",
+   "pushed": "2026-11-23T23:57:15Z",
    "topics": [
     "anti-fraud",
     "arabic",
@@ -86,6 +48,44 @@
     "certificate-transparency",
     "kuwait",
     "open-data"
+   ],
+   "fork": false,
+   "archived": false
+  },
+  {
+   "name": "QACyberWatch",
+   "description": "Phishing detection and brand protection for the State of Qatar: live Certificate Transparency monitoring, look-alike domain hunting and brand impersonation alerts for Qatari banks, payments, telecoms and government services.",
+   "url": "https://github.com/SiteQ8/QACyberWatch",
+   "homepage": "https://qacyberwatch.3li.info/",
+   "stars": 0,
+   "forks": 0,
+   "language": "Python",
+   "created": "2026-10-03T12:18:56Z",
+   "pushed": "2026-11-23T23:14:40Z",
+   "topics": [
+    "brand-protection",
+    "certificate-transparency",
+    "cybersecurity",
+    "domain-monitoring",
+    "javascript",
+    "phishing-detection"
+   ],
+   "fork": false,
+   "archived": false
+  },
+  {
+   "name": "KWTCyberWatch",
+   "description": "Kuwait phishing detection & brand protection: live Certificate Transparency monitoring, IDN/Arabic-aware typosquat and brand-impersonation detection for 26 Kuwaiti banks, telecoms and government services, alert triage, threat-intel enrichment and a fully client-side analyst console.",
+   "url": "https://github.com/SiteQ8/KWTCyberWatch",
+   "homepage": "http://kwtcyberwatch.3li.info/",
+   "stars": 0,
+   "forks": 1,
+   "language": "Python",
+   "created": "2024-11-06T12:50:11Z",
+   "pushed": "2026-11-23T22:12:20Z",
+   "topics": [
+    "cybersecurity",
+    "phishing"
    ],
    "fork": false,
    "archived": false
@@ -99,7 +99,7 @@
    "forks": 0,
    "language": "HTML",
    "created": "2026-09-08T06:16:42Z",
-   "pushed": "2026-11-22T14:15:54Z",
+   "pushed": "2026-11-23T17:37:58Z",
    "topics": [
     "azure-security",
     "certification",
@@ -107,6 +107,41 @@
     "defender",
     "exam-prep",
     "mct"
+   ],
+   "fork": false,
+   "archived": false
+  },
+  {
+   "name": "gbaseline",
+   "description": null,
+   "url": "https://github.com/SiteQ8/gbaseline",
+   "homepage": "http://gbaseline.3li.info/",
+   "stars": 0,
+   "forks": 0,
+   "language": "JavaScript",
+   "created": "2026-10-15T23:34:21Z",
+   "pushed": "2026-11-23T12:25:35Z",
+   "topics": [],
+   "fork": false,
+   "archived": false
+  },
+  {
+   "name": "KW-OS",
+   "description": "🇰🇼 KW-OS, Kuwait Open Source Directory.",
+   "url": "https://github.com/SiteQ8/KW-OS",
+   "homepage": "https://siteq8.github.io/KW-OS/",
+   "stars": 1,
+   "forks": 0,
+   "language": null,
+   "created": "2026-03-09T00:31:06Z",
+   "pushed": "2026-11-23T11:30:03Z",
+   "topics": [
+    "arabic",
+    "awesome-list",
+    "boursa",
+    "catalog",
+    "cis",
+    "ciso"
    ],
    "fork": false,
    "archived": false
@@ -120,7 +155,7 @@
    "forks": 0,
    "language": "JavaScript",
    "created": "2025-10-09T05:31:07Z",
-   "pushed": "2026-11-21T23:09:14Z",
+   "pushed": "2026-11-23T00:48:22Z",
    "topics": [
     "kuwait"
    ],
@@ -159,41 +194,6 @@
    "created": "2024-09-11T09:52:16Z",
    "pushed": "2026-11-16T19:45:08Z",
    "topics": [],
-   "fork": false,
-   "archived": false
-  },
-  {
-   "name": "gbaseline",
-   "description": null,
-   "url": "https://github.com/SiteQ8/gbaseline",
-   "homepage": "http://gbaseline.3li.info/",
-   "stars": 0,
-   "forks": 0,
-   "language": "JavaScript",
-   "created": "2026-10-15T23:34:21Z",
-   "pushed": "2026-11-16T11:23:07Z",
-   "topics": [],
-   "fork": false,
-   "archived": false
-  },
-  {
-   "name": "KW-OS",
-   "description": "🇰🇼 KW-OS, Kuwait Open Source Directory.",
-   "url": "https://github.com/SiteQ8/KW-OS",
-   "homepage": "https://siteq8.github.io/KW-OS/",
-   "stars": 1,
-   "forks": 0,
-   "language": null,
-   "created": "2026-03-09T00:31:06Z",
-   "pushed": "2026-11-16T10:21:26Z",
-   "topics": [
-    "arabic",
-    "awesome-list",
-    "boursa",
-    "catalog",
-    "cis",
-    "ciso"
-   ],
    "fork": false,
    "archived": false
   },
@@ -751,7 +751,7 @@
    "url": "https://github.com/SiteQ8/cis-controls-platform",
    "homepage": "https://siteq8.github.io/cis-controls-platform/",
    "stars": 0,
-   "forks": 0,
+   "forks": 1,
    "language": null,
    "created": "2026-03-03T16:03:14Z",
    "pushed": "2026-11-11T12:33:25Z",
