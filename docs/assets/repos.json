@@ -1,5 +1,5 @@
 {
- "at": "2026-11-25T12:43:56.816Z",
+ "at": "2026-11-26T15:06:29.364Z",
  "source": "snapshot",
  "user": {
   "public_repos": 170,
@@ -11,27 +11,6 @@
  },
  "repos": [
   {
-   "name": "QACyberWatch",
-   "description": "Phishing detection and brand protection for the State of Qatar: live Certificate Transparency monitoring, look-alike domain hunting and brand impersonation alerts for Qatari banks, payments, telecoms and government services.",
-   "url": "https://github.com/SiteQ8/QACyberWatch",
-   "homepage": "https://qacyberwatch.3li.info/",
-   "stars": 0,
-   "forks": 0,
-   "language": "Python",
-   "created": "2026-10-03T12:18:56Z",
-   "pushed": "2026-11-25T12:40:37Z",
-   "topics": [
-    "brand-protection",
-    "certificate-transparency",
-    "cybersecurity",
-    "domain-monitoring",
-    "javascript",
-    "phishing-detection"
-   ],
-   "fork": false,
-   "archived": false
-  },
-  {
    "name": "Raed",
    "description": "Arabic CVE record site: hourly updates, Arabic summaries, CISA KEV and EPSS",
    "url": "https://github.com/SiteQ8/Raed",
@@ -40,7 +19,7 @@
    "forks": 0,
    "language": "HTML",
    "created": "2026-10-25T04:54:26Z",
-   "pushed": "2026-11-25T12:28:52Z",
+   "pushed": "2026-11-26T14:28:44Z",
    "topics": [
     "cve",
     "cve-scanning",
@@ -48,6 +27,27 @@
     "secure",
     "security",
     "security-audit"
+   ],
+   "fork": false,
+   "archived": false
+  },
+  {
+   "name": "QACyberWatch",
+   "description": "Phishing detection and brand protection for the State of Qatar: live Certificate Transparency monitoring, look-alike domain hunting and brand impersonation alerts for Qatari banks, payments, telecoms and government services.",
+   "url": "https://github.com/SiteQ8/QACyberWatch",
+   "homepage": "https://qacyberwatch.3li.info/",
+   "stars": 0,
+   "forks": 0,
+   "language": "Python",
+   "created": "2026-10-03T12:18:56Z",
+   "pushed": "2026-11-26T14:04:57Z",
+   "topics": [
+    "brand-protection",
+    "certificate-transparency",
+    "cybersecurity",
+    "domain-monitoring",
+    "javascript",
+    "phishing-detection"
    ],
    "fork": false,
    "archived": false
@@ -61,7 +61,7 @@
    "forks": 1,
    "language": "Python",
    "created": "2024-11-06T12:50:11Z",
-   "pushed": "2026-11-25T10:23:01Z",
+   "pushed": "2026-11-26T12:02:17Z",
    "topics": [
     "cybersecurity",
     "phishing"
@@ -78,7 +78,7 @@
    "forks": 0,
    "language": "JavaScript",
    "created": "2026-09-23T13:30:26Z",
-   "pushed": "2026-11-25T08:31:09Z",
+   "pushed": "2026-11-26T08:16:10Z",
    "topics": [
     "anti-fraud",
     "arabic",
@@ -86,6 +86,43 @@
     "certificate-transparency",
     "kuwait",
     "open-data"
+   ],
+   "fork": false,
+   "archived": false
+  },
+  {
+   "name": "SC-100",
+   "description": "SC-100 Microsoft Cybersecurity Architect course material. Built from the skills measured as of 28 July 2026, with agenda coverage and every reference link verified on each build.",
+   "url": "https://github.com/SiteQ8/SC-100",
+   "homepage": "https://siteq8.github.io/SC-100/",
+   "stars": 0,
+   "forks": 0,
+   "language": "HTML",
+   "created": "2026-09-08T06:16:42Z",
+   "pushed": "2026-11-25T16:55:39Z",
+   "topics": [
+    "azure-security",
+    "certification",
+    "cybersecurity-architect",
+    "defender",
+    "exam-prep",
+    "mct"
+   ],
+   "fork": false,
+   "archived": false
+  },
+  {
+   "name": "SiteQ8",
+   "description": "Hi there! 👋 I am Ali AlEnezi, Cybersecurity Expert from 🇰🇼",
+   "url": "https://github.com/SiteQ8/SiteQ8",
+   "homepage": "https://siteq8.github.io/SiteQ8/",
+   "stars": 0,
+   "forks": 0,
+   "language": "JavaScript",
+   "created": "2025-10-09T05:31:07Z",
+   "pushed": "2026-11-25T12:43:58Z",
+   "topics": [
+    "kuwait"
    ],
    "fork": false,
    "archived": false
@@ -107,43 +144,6 @@
     "dhikr",
     "dua",
     "hadith"
-   ],
-   "fork": false,
-   "archived": false
-  },
-  {
-   "name": "SC-100",
-   "description": "SC-100 Microsoft Cybersecurity Architect course material. Built from the skills measured as of 28 July 2026, with agenda coverage and every reference link verified on each build.",
-   "url": "https://github.com/SiteQ8/SC-100",
-   "homepage": "https://siteq8.github.io/SC-100/",
-   "stars": 0,
-   "forks": 0,
-   "language": "HTML",
-   "created": "2026-09-08T06:16:42Z",
-   "pushed": "2026-11-24T17:09:16Z",
-   "topics": [
-    "azure-security",
-    "certification",
-    "cybersecurity-architect",
-    "defender",
-    "exam-prep",
-    "mct"
-   ],
-   "fork": false,
-   "archived": false
-  },
-  {
-   "name": "SiteQ8",
-   "description": "Hi there! 👋 I am Ali AlEnezi, Cybersecurity Expert from 🇰🇼",
-   "url": "https://github.com/SiteQ8/SiteQ8",
-   "homepage": "https://siteq8.github.io/SiteQ8/",
-   "stars": 0,
-   "forks": 0,
-   "language": "JavaScript",
-   "created": "2025-10-09T05:31:07Z",
-   "pushed": "2026-11-24T05:57:50Z",
-   "topics": [
-    "kuwait"
    ],
    "fork": false,
    "archived": false
@@ -3022,6 +3022,16 @@
  "events": [
   {
    "repo": "SiteQ8/Quran_Sunna",
+   "at": "2026-11-25T03:14:09Z",
+   "n": 1
+  },
+  {
+   "repo": "SiteQ8/Quran_Sunna",
+   "at": "2026-11-25T02:52:05Z",
+   "n": 1
+  },
+  {
+   "repo": "SiteQ8/Quran_Sunna",
    "at": "2026-11-20T07:59:57Z",
    "n": 1
   },
@@ -3488,16 +3498,6 @@
   {
    "repo": "SiteQ8/HardHat",
    "at": "2026-11-11T11:57:08Z",
-   "n": 1
-  },
-  {
-   "repo": "SiteQ8/QACyberWatch",
-   "at": "2026-11-11T12:02:16Z",
-   "n": 1
-  },
-  {
-   "repo": "SiteQ8/m365-pci-pan-hunt",
-   "at": "2026-11-11T11:58:14Z",
    "n": 1
   }
  ]
