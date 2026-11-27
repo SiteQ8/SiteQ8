@@ -1,5 +1,5 @@
 {
- "at": "2026-11-26T15:06:29.364Z",
+ "at": "2026-11-27T18:54:23.053Z",
  "source": "snapshot",
  "user": {
   "public_repos": 170,
@@ -19,7 +19,7 @@
    "forks": 0,
    "language": "HTML",
    "created": "2026-10-25T04:54:26Z",
-   "pushed": "2026-11-26T14:28:44Z",
+   "pushed": "2026-11-27T18:29:13Z",
    "topics": [
     "cve",
     "cve-scanning",
@@ -27,6 +27,27 @@
     "secure",
     "security",
     "security-audit"
+   ],
+   "fork": false,
+   "archived": false
+  },
+  {
+   "name": "SC-100",
+   "description": "SC-100 Microsoft Cybersecurity Architect course material. Built from the skills measured as of 28 July 2026, with agenda coverage and every reference link verified on each build.",
+   "url": "https://github.com/SiteQ8/SC-100",
+   "homepage": "https://siteq8.github.io/SC-100/",
+   "stars": 0,
+   "forks": 0,
+   "language": "HTML",
+   "created": "2026-09-08T06:16:42Z",
+   "pushed": "2026-11-27T16:19:43Z",
+   "topics": [
+    "azure-security",
+    "certification",
+    "cybersecurity-architect",
+    "defender",
+    "exam-prep",
+    "mct"
    ],
    "fork": false,
    "archived": false
@@ -40,7 +61,7 @@
    "forks": 0,
    "language": "Python",
    "created": "2026-10-03T12:18:56Z",
-   "pushed": "2026-11-26T14:04:57Z",
+   "pushed": "2026-11-27T15:07:22Z",
    "topics": [
     "brand-protection",
     "certificate-transparency",
@@ -61,7 +82,7 @@
    "forks": 1,
    "language": "Python",
    "created": "2024-11-06T12:50:11Z",
-   "pushed": "2026-11-26T12:02:17Z",
+   "pushed": "2026-11-27T13:16:30Z",
    "topics": [
     "cybersecurity",
     "phishing"
@@ -78,7 +99,7 @@
    "forks": 0,
    "language": "JavaScript",
    "created": "2026-09-23T13:30:26Z",
-   "pushed": "2026-11-26T08:16:10Z",
+   "pushed": "2026-11-27T08:27:01Z",
    "topics": [
     "anti-fraud",
     "arabic",
@@ -86,27 +107,6 @@
     "certificate-transparency",
     "kuwait",
     "open-data"
-   ],
-   "fork": false,
-   "archived": false
-  },
-  {
-   "name": "SC-100",
-   "description": "SC-100 Microsoft Cybersecurity Architect course material. Built from the skills measured as of 28 July 2026, with agenda coverage and every reference link verified on each build.",
-   "url": "https://github.com/SiteQ8/SC-100",
-   "homepage": "https://siteq8.github.io/SC-100/",
-   "stars": 0,
-   "forks": 0,
-   "language": "HTML",
-   "created": "2026-09-08T06:16:42Z",
-   "pushed": "2026-11-25T16:55:39Z",
-   "topics": [
-    "azure-security",
-    "certification",
-    "cybersecurity-architect",
-    "defender",
-    "exam-prep",
-    "mct"
    ],
    "fork": false,
    "archived": false
@@ -120,7 +120,7 @@
    "forks": 0,
    "language": "JavaScript",
    "created": "2025-10-09T05:31:07Z",
-   "pushed": "2026-11-25T12:43:58Z",
+   "pushed": "2026-11-26T15:06:30Z",
    "topics": [
     "kuwait"
    ],
